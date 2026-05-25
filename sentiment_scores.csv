@@ -1,0 +1,101 @@
+ticker,headline,source,date,polarity_score,sentiment
+AAPL,"If I could buy only one ASX ETF for the next 10 years, this could be it",Motley Fool Australia,2026-05-23T22:00:56Z,0.0,Neutral
+AAPL,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
+AAPL,Apple Inc. (AAPL)’s Durable Growth Narrative Keeps Getting Stronger,Yahoo Entertainment,2026-05-23T14:51:58Z,0.0,Neutral
+AAPL,MarketBeat Week in Review – 05/18 - 05/22,MarketBeat,2026-05-23T11:00:00Z,0.0,Neutral
+AAPL,ACASIS、Apple M1/M2チップ搭載の旧Mac miniを収納しUSB-AやNVMe SSDを搭載できるThunderbolt(40Gbps)対応ドック「Acasis Mac mini M2 Dock & Stand」を発売。,Applech2.com,2026-05-23T04:14:49Z,0.0,Neutral
+AAPL,Microsoft vs. Apple Stock: The Numbers Reveal a Clear Winner Heading Into H2 2026,Barchart.com,2026-05-22T23:00:02Z,0.09999999999999999,Positive
+AAPL,‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes,MarketWatch,2026-05-22T20:32:00Z,0.25,Positive
+AAPL,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-22T20:17:09Z,0.13636363636363635,Positive
+AAPL,Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week,24/7 Wall St.,2026-05-22T18:45:23Z,0.35,Positive
+AAPL,"Apple Stock at 52-Week High: Buy, Sell or Hold?",24/7 Wall St.,2026-05-22T14:30:46Z,0.16,Positive
+MSFT,Microsoft (MSFT): One of the Best Long-Term Stocks to Buy Now for High Returns,Yahoo Entertainment,2026-05-24T13:30:20Z,0.58,Positive
+MSFT,"If I could buy only one ASX ETF for the next 10 years, this could be it",Motley Fool Australia,2026-05-23T22:00:56Z,0.0,Neutral
+MSFT,llm-join added to PyPI,Pypi.org,2026-05-23T20:36:33Z,0.0,Neutral
+MSFT,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
+MSFT,"Billionaire Bill Ackman Pours $2,092,970,000 Into One Asset, Dumps Uber and Two Mag 7 Stocks",The Daily Hodl,2026-05-23T14:00:38Z,0.0,Neutral
+MSFT,We’re Not in a Bubble. Wall Street Just Hasn’t Caught Up With the New ‘Physics’ of the Stock Market.,Barchart.com,2026-05-23T13:30:02Z,0.13636363636363635,Positive
+MSFT,"These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",MarketWatch,2026-05-23T13:00:00Z,0.34285714285714286,Positive
+MSFT,Microsoft MSFT Stock Dips Slightly as AI Cloud Momentum Continues in May 2026,Ibtimes.com.au,2026-05-23T12:30:09Z,-0.16666666666666666,Negative
+MSFT,"Nvidia shifts strategy, and S&P 500 index fund investors are along for the ride",Crypto Briefing,2026-05-23T00:08:10Z,0.0,Neutral
+MSFT,Microsoft vs. Apple Stock: The Numbers Reveal a Clear Winner Heading Into H2 2026,Barchart.com,2026-05-22T23:00:02Z,0.09999999999999999,Positive
+NVDA,Did SpaceX’s $28.5 Trillion Bombshell Reveal Elon Musk’s Genius — or Peak Galaxy Brain?,24/7 Wall St.,2026-05-24T14:59:22Z,0.0,Neutral
+NVDA,Here’s What Jim Cramer Had Said About NVIDIA (NVDA) Ahead Of Earnings,Yahoo Entertainment,2026-05-23T23:19:15Z,0.0,Neutral
+NVDA,"If I could buy only one ASX ETF for the next 10 years, this could be it",Motley Fool Australia,2026-05-23T22:00:56Z,0.0,Neutral
+NVDA,Nvidia CEO Jensen Huang highlights China as long-term opportunity despite US tech tensions,Crypto Briefing,2026-05-23T21:57:45Z,0.0,Neutral
+NVDA,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
+NVDA,"Should You Buy, Or Sell Fidelity’s MSCI Industrials Index ETF (FIDU) Today?",24/7 Wall St.,2026-05-23T15:05:18Z,0.0,Neutral
+NVDA,Why BofA Says to “Ignore the Noise” on NVIDIA Corporation (NVDA),Yahoo Entertainment,2026-05-23T14:51:50Z,0.0,Neutral
+NVDA,Is NVIDIA Corporation (NVDA) One of the Top Must-Buy Semiconductor Stocks to Invest in Now?,Yahoo Entertainment,2026-05-23T11:53:33Z,0.5,Positive
+NVDA,MarketBeat Week in Review – 05/18 - 05/22,MarketBeat,2026-05-23T11:00:00Z,0.0,Neutral
+NVDA,SMH vs SOXX: Which Semiconductor ETF Should You Buy in 2026?,Etf.com,2026-05-22T22:32:46Z,0.0,Neutral
+AMZN,Man On Fire 2004 1080p AMZN WEB-DL H264-Kitsune,Rlsbb.to,2026-05-24T12:23:56Z,0.0,Neutral
+AMZN,System 2026 1080p AMZN WEB-DL H264 Atmos-UBWEB,Rlsbb.to,2026-05-24T11:34:48Z,0.0,Neutral
+AMZN,The Bowens A Portrait Of An American Family 2026 720p AMZN WEB-DL H264-playWEB,Rlsbb.to,2026-05-24T11:22:22Z,0.0,Neutral
+AMZN,Philly Homicide S02E06 720p AMZN WEB-DL H264-RAWR,Rlsbb.to,2026-05-24T11:07:19Z,0.0,Neutral
+AMZN,Milked 2022 1080p AMZN WEB-DL H264-cinepth,Rlsbb.to,2026-05-24T10:53:39Z,0.0,Neutral
+AMZN,The Only Way Is Essex S36E09 1080p AMZN WEB-DL H264-RAWR,Rlsbb.to,2026-05-24T10:35:16Z,0.0,Neutral
+AMZN,Fossil 2023 1080p AMZN WEB-DL H264-MADSKY,Rlsbb.to,2026-05-24T08:09:52Z,0.0,Neutral
+AMZN,Unsere Zeit Wird Kommen 2025 1080p AMZN WEB-DL H264-MADSKY,Rlsbb.to,2026-05-24T08:09:52Z,0.0,Neutral
+AMZN,D Is For Distance 2025 720p AMZN WEB-DL H264-MADSKY,Rlsbb.to,2026-05-24T07:51:41Z,0.0,Neutral
+AMZN,You Me And Her 2023 1080p AMZN WEB-DL H264-tcshades,Rlsbb.to,2026-05-24T07:51:41Z,0.0,Neutral
+GOOGL,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
+GOOGL,"Billionaire Bill Ackman Pours $2,092,970,000 Into One Asset, Dumps Uber and Two Mag 7 Stocks",The Daily Hodl,2026-05-23T14:00:38Z,0.0,Neutral
+GOOGL,We’re Not in a Bubble. Wall Street Just Hasn’t Caught Up With the New ‘Physics’ of the Stock Market.,Barchart.com,2026-05-23T13:30:02Z,0.13636363636363635,Positive
+GOOGL,"These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",MarketWatch,2026-05-23T13:00:00Z,0.34285714285714286,Positive
+GOOGL,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-22T20:17:09Z,0.13636363636363635,Positive
+GOOGL,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-21T20:13:07Z,0.13636363636363635,Positive
+GOOGL,Alphabet (GOOGL): Moving Beyond Search in the AI Revolution,Yahoo Entertainment,2026-05-21T16:19:38Z,0.0,Neutral
+GOOGL,"Dear Future OpenAI Stock Investors, Mark Your Calendars for May 22",Barchart.com,2026-05-21T15:42:42Z,0.0,Neutral
+GOOGL,"MGK Holds 46 Percent in Just Five Stocks, And That Concentration Is Driving Most of Its Recent Gains",24/7 Wall St.,2026-05-21T13:15:12Z,0.25,Positive
+GOOGL,Berkshire Hathaway Sold 16 Stocks in Q1 but Warren Buffett and Greg Abel Still Have 70% in Just 7 Stocks,24/7 Wall St.,2026-05-21T11:42:20Z,0.0,Neutral
+GOOG,"Crypto rails are becoming the default payment layer for AI agents, report says",CoinDesk,2026-05-24T13:00:00Z,0.45,Positive
+GOOG,"Billionaire Bill Ackman Pours $2,092,970,000 Into One Asset, Dumps Uber and Two Mag 7 Stocks",The Daily Hodl,2026-05-23T14:00:38Z,0.0,Neutral
+GOOG,Is Alphabet Inc. (GOOG) One of the Best Communication Stocks to Invest In?,Yahoo Entertainment,2026-05-23T11:54:57Z,1.0,Positive
+GOOG,SEC's Peirce tempers expectations over tokenized stocks exemption,Cointelegraph,2026-05-22T06:35:38Z,-0.1,Negative
+GOOG,$2.99 | The Seventh Sword: The Complete Series (eBook) by Dave Duncan,Slickdeals.net,2026-05-21T15:20:19Z,0.1,Positive
+GOOG,Google's AI is being manipulated. The search giant is quietly fighting back - BBC,Slashdot.org,2026-05-21T11:32:53Z,0.0,Neutral
+GOOG,Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B,Cointelegraph,2026-05-20T21:22:03Z,0.0,Neutral
+GOOG,Arm Surges on New $300 Price Target: ARM Stock Is at the ‘Center of the Renaissance’ in CPUs,Barchart.com,2026-05-20T21:01:29Z,0.018181818181818174,Positive
+GOOG,Walmart Stock Looks Quite Risky Heading Into Q1 Results,Barchart.com,2026-05-20T16:00:02Z,0.0,Neutral
+GOOG,"Dear Snowflake Stock Fans, Mark Your Calendars for May 27",Barchart.com,2026-05-20T15:00:02Z,0.0,Neutral
+META,The Apple Watch is 11 years old and losing momentum. Screenless rivals are winning the next phase.,The Next Web,2026-05-24T15:03:17Z,0.19999999999999998,Positive
+META,"(喝抗紊ф┨ / note, 4/26) Canada Bill C- ...",Ryukoku.ac.jp,2026-05-24T15:00:00Z,0.0,Neutral
+META,Official Trailer for Experimental Doc 'Bouchra' About a Jackal in NYC,First Showing,2026-05-24T14:47:38Z,0.1,Positive
+META,The Ray-Ban Meta Gen 2 smart glasses just got their first-ever discount in the Memorial Day sales,TechRadar,2026-05-24T14:33:19Z,0.21428571428571427,Positive
+META,The seed oil panic is hurting my cardiac patients,STAT,2026-05-24T14:27:26Z,-0.05,Negative
+META,Harley Quinn #62 Preview: Bat-Quinn Crashes the TV Party,Bleeding Cool News,2026-05-24T14:26:09Z,0.0,Neutral
+META,Sean Strickland hits out at Adin Ross’ MMA event as he admits embarrassment,"HITC - Football, Gaming, Movies, TV, Music",2026-05-24T13:43:08Z,0.0,Neutral
+META,Wells Fargo Reduces PT on Meta Platforms (META) Stock,Yahoo Entertainment,2026-05-24T13:30:32Z,0.0,Neutral
+META,4 Best Superhero TV Show Series Finales & The 3 Most Disappointing,ComicBook.com,2026-05-24T13:30:00Z,0.3,Positive
+META,radia-mcp 0.71.0,Pypi.org,2026-05-24T13:22:28Z,0.0,Neutral
+TSLA,Did SpaceX’s $28.5 Trillion Bombshell Reveal Elon Musk’s Genius — or Peak Galaxy Brain?,24/7 Wall St.,2026-05-24T14:59:22Z,0.0,Neutral
+TSLA,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
+TSLA,MarketBeat Week in Review – 05/18 - 05/22,MarketBeat,2026-05-23T11:00:00Z,0.0,Neutral
+TSLA,"Is Tesla, Inc. (TSLA) One of the Best ARK Stocks to Buy Right Now?",Yahoo Entertainment,2026-05-23T04:48:56Z,0.6428571428571428,Positive
+TSLA,Tesla Is Chasing the Future of Driving. Its Stock Is Stuck in a 350x Earnings Trap,Barchart.com,2026-05-22T20:30:38Z,0.0,Neutral
+TSLA,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-22T20:17:09Z,0.13636363636363635,Positive
+TSLA,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-21T20:13:07Z,0.13636363636363635,Positive
+TSLA,GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs,GlobeNewswire,2026-05-21T18:05:00Z,0.0,Neutral
+TSLA,Forget Tesla for Retirees: Here Are 3 Value-Driven Automotive Stalwarts to Buy Right Now,24/7 Wall St.,2026-05-21T16:11:36Z,0.2857142857142857,Positive
+TSLA,"GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HMYY, RTYY, MUYY, TMYY, CWY, CRY and 20+ Others",GlobeNewswire,2026-05-21T12:18:00Z,0.0,Neutral
+AVGO,Broadcom’s AI Packaging Bet Gets Bigger. Wall Street Is Betting on More Upside for AVGO Stock.,Barchart.com,2026-05-23T16:00:02Z,0.25,Positive
+AVGO,"These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",MarketWatch,2026-05-23T13:00:00Z,0.34285714285714286,Positive
+AVGO,SMH vs SOXX: Which Semiconductor ETF Should You Buy in 2026?,Etf.com,2026-05-22T22:32:46Z,0.0,Neutral
+AVGO,Inflation Fears Weighed on Broadcom (AVGO) in Q1,Yahoo Entertainment,2026-05-22T13:29:22Z,0.0,Neutral
+AVGO,The Best AI Stock to Buy Now for Less Than $500,Barchart.com,2026-05-22T11:30:02Z,0.4166666666666667,Positive
+AVGO,Is Broadcom (AVGO) The Best AI Chip Stock to Buy?,Yahoo Entertainment,2026-05-21T16:13:07Z,1.0,Positive
+AVGO,"Jim Cramer froze on live TV after seeing Trump's 3,700 stock trades — here's what's in the president's portfolio",Yahoo Entertainment,2026-05-21T14:00:00Z,0.13636363636363635,Positive
+AVGO,"Jim Cramer froze on live TV after seeing Trump's 3,700 stock trades — here's what's in the president's portfolio",Yahoo Entertainment,2026-05-21T14:00:00Z,0.13636363636363635,Positive
+AVGO,ARM’s Growth Catalysts Outweigh Concerns Related to Antitrust Investigation,Barchart.com,2026-05-21T13:30:02Z,0.0,Neutral
+AVGO,Broadcom Inc. (AVGO) Challenges EU Regulators While Barclays Sees AI Upside,Yahoo Entertainment,2026-05-21T08:42:10Z,0.0,Neutral
+COST,Creating semicon dependency?,BusinessLine,2026-05-24T15:13:22Z,0.0,Neutral
+COST,pydantic-ai-shields 0.3.3,Pypi.org,2026-05-24T15:08:16Z,0.0,Neutral
+COST,I gave up my Bluetooth earbuds and went wired for three weeks. Here's what happened,Android Central,2026-05-24T15:07:00Z,0.0,Neutral
+COST,DOJ Just Shut Disabled People Out of Essential Online Services for Another Year,Truthout,2026-05-24T15:04:26Z,-0.1,Negative
+COST,"Tanker crisis turns deadly: Seven road deaths in four months, health hazards indisputable",The Indian Express,2026-05-24T15:02:43Z,-0.2,Negative
+COST,4 Changes Coming to Disney’s Hollywood Studios Next Month,disneyfoodblog.com,2026-05-24T15:00:30Z,0.0,Neutral
+COST,Bitcoin LTH Supply Surge Does Not Reflect Real Demand — Here’s Why,newsBTC,2026-05-24T15:00:21Z,0.2,Positive
+COST,Americans are 'entrenched' in financial stress,CNBC,2026-05-24T15:00:01Z,0.0,Neutral
+COST,How to Mirror Shine Leather Shoes with Preston Soto of The Elegant Oxford,Gentlemansgazette.com,2026-05-24T15:00:00Z,0.5,Positive
+COST,Car deal of the day: Hyundai Ioniq 6 with cheap charging for just £267 a month,AutoExpress,2026-05-24T15:00:00Z,0.4,Positive
