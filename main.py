@@ -1,251 +1,144 @@
-import matplotlib.pyplot as plt
+import matplotlib
+matplotlib.use('Agg')
+import os
 
-from src.data_api import fetch_stock_data, fetch_news_data, TICKERS
-
-from src.model import (
-    plot_closing_price_histogram,
-    plot_stock_time_series,
-    summarize_stock_trends,
-    prepare_news_volume,
-    plot_daily_news_volume,
-    identify_high_volume_periods,
-    cross_reference_news_with_stock,
-    plot_sentiment_score_distribution,
-    identify_model_disagreements,
-    inspect_disagreement_cases,
-    generate_sentiment_comparison_summary,
-    aggregate_daily_sentiment,
-    save_daily_sentiment_dataset,
-    create_sentiment_lag_features,
-    validate_lag_alignment,
-    save_lagged_dataset,
-    compute_rolling_averages,
-    validate_rolling_averages,
-    save_rolling_average_dataset,
+from src.data_api import (
+    fetch_news_data,
+    fetch_and_save_stock_data,
+    load_kaggle_news,
+    TICKERS,
+    KAGGLE_TICKERS
 )
-
 from src.sentiment import (
     apply_textblob_sentiment,
-    validate_sentiment_scores,
-    save_sentiment_dataset,
     apply_vader_sentiment,
-    validate_vader_scores,
+    save_sentiment_dataset,
     save_vader_dataset,
-    apply_finbert_sentiment,
-    save_finbert_dataset,
+)
+from src.merge_and_analyze import (
+    merge_news_stock,
+    run_correlation_analysis,
+    run_lag_analysis,
+    run_event_study,
+    run_anomaly_detection,
+    run_ticker_sensitivity,
+    run_ml_models,
 )
 
 
-def get_selected_tickers():
-    return TICKERS[:10]
-
-
-def collect_news(selected_tickers):
-    all_news = []
-
-    for ticker in selected_tickers:
-        news = fetch_news_data(ticker)
-        all_news.extend(news)
-
-    return all_news
-
-
-def build_full_sentiment_dataset():
-    selected_tickers = get_selected_tickers()
-    all_news = collect_news(selected_tickers)
-
-    sentiment_df = apply_textblob_sentiment(all_news)
-    sentiment_df = apply_vader_sentiment(sentiment_df)
-    sentiment_df = apply_finbert_sentiment(sentiment_df)
-
-    return sentiment_df
-
-
-def analyze_stock_price_patterns():
-    selected_tickers = get_selected_tickers()
-    stock_data = fetch_stock_data(selected_tickers)
-
-    for ticker in selected_tickers:
-        print(f"\nAnalyzing stock price pattern for {ticker}...")
-
-        plot_closing_price_histogram(stock_data, ticker)
-        plot_stock_time_series(stock_data, ticker)
-
-        summary = summarize_stock_trends(stock_data, ticker)
-        print(summary)
-
-
-def analyze_news_frequency():
-    selected_tickers = get_selected_tickers()
-
-    stock_data = fetch_stock_data(selected_tickers)
-    all_news = collect_news(selected_tickers)
-
-    daily_news = prepare_news_volume(all_news)
-
-    print("\nDaily News Volume:")
-    print(daily_news)
-
-    plot_daily_news_volume(daily_news)
-
-    high_volume_news = identify_high_volume_periods(daily_news)
-
-    print("\nHigh-Volume News Periods:")
-    print(high_volume_news)
-
-    comparison = cross_reference_news_with_stock(high_volume_news, stock_data)
-
-    print("\nHigh-Volume News Cross-Reference With Stock Movement:")
-
-    if comparison.empty:
-        print("No matching stock movement found for high-volume news dates.")
+def step1_stock_data():
+    print("\n--- STEP 1: Stock Data ---")
+    if os.path.exists("stock_prices_kaggle.csv"):
+        print("Already exists. Skipping.")
     else:
-        print(comparison)
+        fetch_and_save_stock_data(
+            KAGGLE_TICKERS,
+            filename="stock_prices_kaggle.csv",
+            start="2010-01-01",
+            end="2026-05-31"
+        )
 
 
-def analyze_headline_sentiment():
-    selected_tickers = get_selected_tickers()
-    all_news = collect_news(selected_tickers)
-
-    sentiment_df = apply_textblob_sentiment(all_news)
-
-    print("\nTextBlob Sentiment Results:")
-    print(sentiment_df.head())
-
-    validate_sentiment_scores(sentiment_df)
-    save_sentiment_dataset(sentiment_df)
-
-
-def analyze_vader_sentiment():
-    selected_tickers = get_selected_tickers()
-    all_news = collect_news(selected_tickers)
-
-    sentiment_df = apply_textblob_sentiment(all_news)
-    sentiment_df = apply_vader_sentiment(sentiment_df)
-
-    print("\nVADER Sentiment Results:")
-    print(sentiment_df.head())
-
-    validate_sentiment_scores(sentiment_df)
-    validate_vader_scores(sentiment_df)
-
-    save_vader_dataset(sentiment_df)
-
-
-def analyze_finbert_sentiment():
-    sentiment_df = build_full_sentiment_dataset()
-
-    print("\nFinBERT Sentiment Results:")
-
-    columns = [
-        "ticker",
-        "headline",
-        "polarity_score",
-        "vader_score",
-        "finbert_sentiment",
-        "finbert_confidence",
-    ]
-
-    available_columns = [col for col in columns if col in sentiment_df.columns]
-
-    print(sentiment_df[available_columns].head(20))
-
-    save_finbert_dataset(sentiment_df)
-
-
-def compare_sentiment_models():
-    sentiment_df = build_full_sentiment_dataset()
-
-    plot_sentiment_score_distribution(sentiment_df)
-
-    disagreements_df = identify_model_disagreements(sentiment_df)
-
-    print("\nModel Disagreements:")
-
-    if disagreements_df.empty:
-        print("No disagreement cases found.")
+def step2_news_sentiment():
+    print("\n--- STEP 2: News + Sentiment ---")
+    if os.path.exists("kaggle_sentiment_scores.csv"):
+        print("Already exists. Skipping.")
     else:
-        columns = [
-            "ticker",
-            "headline",
-            "sentiment",
-            "vader_sentiment",
-            "finbert_sentiment",
-        ]
+        news = load_kaggle_news("raw_analyst_ratings.csv")
+        print(f"Headlines loaded: {len(news)}")
 
-        available_columns = [
-            col for col in columns if col in disagreements_df.columns
-        ]
+        import pandas as pd
+        df = apply_textblob_sentiment(news)
+        df = apply_vader_sentiment(df)
 
-        print(disagreements_df[available_columns].head(20))
-
-    inspect_disagreement_cases(disagreements_df)
-
-    summary = generate_sentiment_comparison_summary(
-        sentiment_df,
-        disagreements_df
-    )
-
-    print(summary)
+        df.to_csv("kaggle_sentiment_scores.csv", index=False)
+        print("Saved: kaggle_sentiment_scores.csv")
 
 
-def build_daily_sentiment_dataset():
-    sentiment_df = build_full_sentiment_dataset()
+def step3_newsapi_recent():
+    print("\n--- STEP 3: Recent NewsAPI Headlines ---")
+    if os.path.exists("sentiment_scores.csv"):
+        print("Already exists. Skipping.")
+    else:
+        all_news = []
+        for ticker in TICKERS[:10]:
+            news = fetch_news_data(ticker)
+            all_news.extend(news)
+        print(f"Headlines fetched: {len(all_news)}")
 
-    daily_sentiment = aggregate_daily_sentiment(sentiment_df)
+        df = apply_textblob_sentiment(all_news)
+        df = apply_vader_sentiment(df)
 
-    print("\nDaily Aggregated Sentiment Scores:")
-    print(daily_sentiment.head(20))
-
-    save_daily_sentiment_dataset(daily_sentiment)
-
-    return daily_sentiment
-
-
-def build_lagged_sentiment_features():
-    daily_sentiment = build_daily_sentiment_dataset()
-
-    lagged_df = create_sentiment_lag_features(daily_sentiment)
-
-    print("\nLagged Sentiment Features:")
-    print(lagged_df.head(20))
-
-    validate_lag_alignment(lagged_df)
-    save_lagged_dataset(lagged_df)
-
-    return lagged_df
+        save_sentiment_dataset(df)
+        save_vader_dataset(df)
 
 
-def build_rolling_average_features():
-    lagged_df = build_lagged_sentiment_features()
-
-    rolling_df = compute_rolling_averages(lagged_df)
-
-    print("\nRolling Average Features:")
-    print(rolling_df.head(20))
-
-    validate_rolling_averages(rolling_df)
-    save_rolling_average_dataset(rolling_df)
-
-    return rolling_df
+def step4_merge():
+    print("\n--- STEP 4: Merge ---")
+    if os.path.exists("merged_dataset.csv"):
+        print("Already exists. Skipping.")
+    else:
+        merge_news_stock()
 
 
+def step5_analysis():
+    print("\n--- STEP 5: Analysis ---")
+
+    if os.path.exists("correlation_results.csv"):
+        print("Correlation already exists. Skipping.")
+    else:
+        run_correlation_analysis()
+
+    if os.path.exists("lag_analysis_results.csv"):
+        print("Lag analysis already exists. Skipping.")
+    else:
+        run_lag_analysis()
+
+    if os.path.exists("event_study_results.csv"):
+        print("Event study already exists. Skipping.")
+    else:
+        run_event_study()
+
+    if os.path.exists("anomaly_results.csv"):
+        print("Anomaly detection already exists. Skipping.")
+    else:
+        run_anomaly_detection()
+
+    if os.path.exists("ticker_sensitivity.csv"):
+        print("Ticker sensitivity already exists. Skipping.")
+    else:
+        run_ticker_sensitivity()
+
+
+def step6_ml():
+    print("\n--- STEP 6: ML Models ---")
+    if os.path.exists("ml_results.csv"):
+        print("Already exists. Skipping.")
+    else:
+        run_ml_models()
+
+# Step 7 - 2026 predictions
+    if os.path.exists("predictions_2026.csv"):
+        print("Step 7: 2026 predictions already exist. Skipping.")
+    else:
+        from src.merge_and_analyze import run_2026_predictions
+        run_2026_predictions()
+        
 def main():
-    print("\nStarting full project pipeline...\n")
+    print("\n" + "="*50)
+    print("AI NEWS IMPACT ANALYZER — FULL PIPELINE")
+    print("="*50)
 
-    analyze_stock_price_patterns()
-    analyze_news_frequency()
-    analyze_headline_sentiment()
-    analyze_vader_sentiment()
-    analyze_finbert_sentiment()
-    compare_sentiment_models()
-    build_daily_sentiment_dataset()
-    build_lagged_sentiment_features()
-    build_rolling_average_features()
+    step1_stock_data()
+    step2_news_sentiment()
+    step3_newsapi_recent()
+    step4_merge()
+    step5_analysis()
+    step6_ml()
 
-    plt.show()
-
-    print("\nProject pipeline completed successfully.")
+    print("\n" + "="*50)
+    print("PIPELINE COMPLETE")
+    print("="*50)
 
 
 if __name__ == "__main__":
