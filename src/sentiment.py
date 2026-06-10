@@ -2,8 +2,6 @@ from textblob import TextBlob
 import pandas as pd
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
-from transformers import pipeline
-
 
 # -------------------------------
 # GET POLARITY SCORE
@@ -157,18 +155,11 @@ def save_vader_dataset(news_df, filename="vader_sentiment_scores.csv"):
 
 finbert_pipeline = None
 
+finbert_pipeline = None
+
 def load_finbert_model():
-    global finbert_pipeline
-
-    if finbert_pipeline is None:
-        print("Loading FinBERT model...")
-
-        finbert_pipeline = pipeline(
-            "sentiment-analysis",
-            model="ProsusAI/finbert"
-        )
-
-    return finbert_pipeline
+    print("FinBERT disabled - using saved CSV data.")
+    return None
 
 
 def apply_finbert_sentiment(news_df, batch_size=8):

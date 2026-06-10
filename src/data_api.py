@@ -1,13 +1,12 @@
 import yfinance as yf
 import requests
 import os
+import pandas as pd
 from dotenv import load_dotenv
 
 load_dotenv()
 
-# ✅ Correct way to load API key
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
-
 
 # -------------------------------
 # NASDAQ-100 TICKERS
@@ -25,21 +24,28 @@ TICKERS = [
     "EBAY","ALGN","MTCH","CDW","SPLK","ZM","ENPH","MRNA","DDOG","NET"
 ]
 
+KAGGLE_TICKERS = [
+    'NVDA', 'MU', 'NFLX', 'EBAY', 'GILD', 'QCOM', 'ORCL', 'EA',
+    'ADBE', 'BIIB', 'BIDU', 'TSLA', 'CMCSA', 'TXN', 'AVGO', 'GOOGL',
+    'MRVL', 'REGN', 'DLTR', 'VRTX', 'PANW', 'ILMN', 'SIRI', 'JD',
+    'GOOG', 'WBA', 'INTU', 'NXPI', 'CSCO', 'ADI', 'MNST', 'WDAY',
+    'FTNT', 'CTSH', 'AMAT', 'SBUX', 'MCHP', 'ADP', 'LRCX', 'KLAC',
+    'PAYX', 'ASML', 'NTES', 'ORLY', 'CTAS', 'ALGN', 'ENPH', 'FAST'
+]
 
 # -------------------------------
-# FETCH STOCK DATA (2021–2026)
+# FETCH STOCK DATA (DICT FORMAT)
 # -------------------------------
 def fetch_stock_data(tickers):
     stock_data = {}
 
     for ticker in tickers:
         print(f"Fetching stock data for {ticker}...")
-
         try:
             data = yf.download(
                 ticker,
                 start="2021-04-01",
-                end="2026-04-01",
+                end="2026-05-31",
                 progress=False
             )
             stock_data[ticker] = data
@@ -50,19 +56,84 @@ def fetch_stock_data(tickers):
 
 
 # -------------------------------
-# FETCH NEWS DATA
+# FETCH STOCK DATA (CSV FORMAT)
+# -------------------------------
+def fetch_and_save_stock_data(
+    tickers,
+    filename="stock_prices.csv",
+    start="2021-01-01",
+    end="2026-05-31"
+):
+    all_data = []
+
+    for ticker in tickers:
+        print(f"Fetching {ticker}...")
+        try:
+            df = yf.download(
+                ticker,
+                start=start,
+                end=end,
+                progress=False
+            )
+            df["ticker"] = ticker
+            df = df.reset_index()
+            df.columns = [
+                c[0] if isinstance(c, tuple) else c
+                for c in df.columns
+            ]
+            df = df[[
+                "Date", "ticker", "Close",
+                "Open", "High", "Low", "Volume"
+            ]]
+            df.columns = [
+                "date", "ticker", "close",
+                "open", "high", "low", "volume"
+            ]
+            df["daily_return"] = df["close"].pct_change()
+            all_data.append(df)
+
+        except Exception as e:
+            print(f"Error fetching {ticker}: {e}")
+
+    if all_data:
+        stock_df = pd.concat(all_data, ignore_index=True)
+        stock_df.to_csv(filename, index=False)
+        print(f"\nStock data saved: {stock_df.shape}")
+        return stock_df
+
+    return pd.DataFrame()
+
+
+# -------------------------------
+# FETCH NEWS DATA (NEWSAPI)
 # -------------------------------
 def fetch_news_data(ticker):
     print(f"Fetching news for {ticker}...")
 
     url = "https://newsapi.org/v2/everything"
 
+    # Use company name for better results
+    query_map = {
+        "AAPL": "Apple stock",
+        "MSFT": "Microsoft stock",
+        "NVDA": "NVIDIA stock",
+        "AMZN": "Amazon stock",
+        "GOOGL": "Google Alphabet stock",
+        "GOOG": "Google Alphabet stock",
+        "META": "Meta Facebook stock",
+        "TSLA": "Tesla stock",
+        "AVGO": "Broadcom stock",
+        "COST": "Costco stock",
+    }
+
+    query = query_map.get(ticker, f"{ticker} stock")
+
     params = {
-        "q": ticker,
+        "q": query,
         "sortBy": "publishedAt",
         "language": "en",
         "apiKey": NEWS_API_KEY,
-        "pageSize": 10   
+        "pageSize": 100
     }
 
     try:
@@ -73,12 +144,24 @@ def fetch_news_data(ticker):
         print("Error fetching news:", e)
         return []
 
-    articles = []
+    # Filter out irrelevant headlines
+    exclude_keywords = [
+        "720p", "1080p", "WEB-DL", "BluRay",
+        "torrent", "download", "mkv", "x264",
+        "HDTV", "BDRip", "DVDRip"
+    ]
 
+    articles = []
     for article in data.get("articles", []):
+        headline = article.get("title", "") or ""
+
+        # Skip if headline contains file/movie keywords
+        if any(kw.lower() in headline.lower() for kw in exclude_keywords):
+            continue
+
         articles.append({
             "ticker": ticker,
-            "headline": article.get("title"),
+            "headline": headline,
             "source": article.get("source", {}).get("name"),
             "date": article.get("publishedAt")
         })
@@ -87,23 +170,26 @@ def fetch_news_data(ticker):
 
 
 # -------------------------------
-# MAIN FUNCTION
+# LOAD KAGGLE NEWS DATA
 # -------------------------------
-if __name__ == "__main__":
-    print("Starting data collection...\n")
+def load_kaggle_news(filename="raw_analyst_ratings.csv"):
+    print("Loading Kaggle news data...")
 
-    # Fetch stock data
-    stock_data = fetch_stock_data(TICKERS)
+    df = pd.read_csv(filename)
 
-    # Fetch news data
-    all_news = []
+    df = df[df["stock"].isin(KAGGLE_TICKERS)].copy()
 
-    for ticker in TICKERS[:10]:  
-        news = fetch_news_data(ticker)
-        all_news.extend(news)
+    df = df.rename(columns={
+        "stock": "ticker",
+        "publisher": "source"
+    })
 
-    print("\nSample News Output:")
-    for item in all_news[:5]:
-        print(item)
+    # Fix date parsing — handles timezone offset format
+    df["date"] = df["date"].str[:10]
 
-    print("\nData collection completed.")
+    df = df[["ticker", "headline", "source", "date"]].dropna()
+
+    print(f"Total headlines loaded: {len(df)}")
+    print(f"Date range: {df['date'].min()} to {df['date'].max()}")
+
+    return df.to_dict("records")
