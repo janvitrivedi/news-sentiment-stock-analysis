@@ -1,101 +1,982 @@
-ticker,headline,source,date,polarity_score,sentiment
-AAPL,"If I could buy only one ASX ETF for the next 10 years, this could be it",Motley Fool Australia,2026-05-23T22:00:56Z,0.0,Neutral
-AAPL,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
-AAPL,Apple Inc. (AAPL)’s Durable Growth Narrative Keeps Getting Stronger,Yahoo Entertainment,2026-05-23T14:51:58Z,0.0,Neutral
-AAPL,MarketBeat Week in Review – 05/18 - 05/22,MarketBeat,2026-05-23T11:00:00Z,0.0,Neutral
-AAPL,ACASIS、Apple M1/M2チップ搭載の旧Mac miniを収納しUSB-AやNVMe SSDを搭載できるThunderbolt(40Gbps)対応ドック「Acasis Mac mini M2 Dock & Stand」を発売。,Applech2.com,2026-05-23T04:14:49Z,0.0,Neutral
-AAPL,Microsoft vs. Apple Stock: The Numbers Reveal a Clear Winner Heading Into H2 2026,Barchart.com,2026-05-22T23:00:02Z,0.09999999999999999,Positive
-AAPL,‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes,MarketWatch,2026-05-22T20:32:00Z,0.25,Positive
-AAPL,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-22T20:17:09Z,0.13636363636363635,Positive
-AAPL,Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week,24/7 Wall St.,2026-05-22T18:45:23Z,0.35,Positive
-AAPL,"Apple Stock at 52-Week High: Buy, Sell or Hold?",24/7 Wall St.,2026-05-22T14:30:46Z,0.16,Positive
-MSFT,Microsoft (MSFT): One of the Best Long-Term Stocks to Buy Now for High Returns,Yahoo Entertainment,2026-05-24T13:30:20Z,0.58,Positive
-MSFT,"If I could buy only one ASX ETF for the next 10 years, this could be it",Motley Fool Australia,2026-05-23T22:00:56Z,0.0,Neutral
-MSFT,llm-join added to PyPI,Pypi.org,2026-05-23T20:36:33Z,0.0,Neutral
-MSFT,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
-MSFT,"Billionaire Bill Ackman Pours $2,092,970,000 Into One Asset, Dumps Uber and Two Mag 7 Stocks",The Daily Hodl,2026-05-23T14:00:38Z,0.0,Neutral
-MSFT,We’re Not in a Bubble. Wall Street Just Hasn’t Caught Up With the New ‘Physics’ of the Stock Market.,Barchart.com,2026-05-23T13:30:02Z,0.13636363636363635,Positive
-MSFT,"These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",MarketWatch,2026-05-23T13:00:00Z,0.34285714285714286,Positive
-MSFT,Microsoft MSFT Stock Dips Slightly as AI Cloud Momentum Continues in May 2026,Ibtimes.com.au,2026-05-23T12:30:09Z,-0.16666666666666666,Negative
-MSFT,"Nvidia shifts strategy, and S&P 500 index fund investors are along for the ride",Crypto Briefing,2026-05-23T00:08:10Z,0.0,Neutral
-MSFT,Microsoft vs. Apple Stock: The Numbers Reveal a Clear Winner Heading Into H2 2026,Barchart.com,2026-05-22T23:00:02Z,0.09999999999999999,Positive
-NVDA,Did SpaceX’s $28.5 Trillion Bombshell Reveal Elon Musk’s Genius — or Peak Galaxy Brain?,24/7 Wall St.,2026-05-24T14:59:22Z,0.0,Neutral
-NVDA,Here’s What Jim Cramer Had Said About NVIDIA (NVDA) Ahead Of Earnings,Yahoo Entertainment,2026-05-23T23:19:15Z,0.0,Neutral
-NVDA,"If I could buy only one ASX ETF for the next 10 years, this could be it",Motley Fool Australia,2026-05-23T22:00:56Z,0.0,Neutral
-NVDA,Nvidia CEO Jensen Huang highlights China as long-term opportunity despite US tech tensions,Crypto Briefing,2026-05-23T21:57:45Z,0.0,Neutral
-NVDA,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
-NVDA,"Should You Buy, Or Sell Fidelity’s MSCI Industrials Index ETF (FIDU) Today?",24/7 Wall St.,2026-05-23T15:05:18Z,0.0,Neutral
-NVDA,Why BofA Says to “Ignore the Noise” on NVIDIA Corporation (NVDA),Yahoo Entertainment,2026-05-23T14:51:50Z,0.0,Neutral
-NVDA,Is NVIDIA Corporation (NVDA) One of the Top Must-Buy Semiconductor Stocks to Invest in Now?,Yahoo Entertainment,2026-05-23T11:53:33Z,0.5,Positive
-NVDA,MarketBeat Week in Review – 05/18 - 05/22,MarketBeat,2026-05-23T11:00:00Z,0.0,Neutral
-NVDA,SMH vs SOXX: Which Semiconductor ETF Should You Buy in 2026?,Etf.com,2026-05-22T22:32:46Z,0.0,Neutral
-AMZN,Man On Fire 2004 1080p AMZN WEB-DL H264-Kitsune,Rlsbb.to,2026-05-24T12:23:56Z,0.0,Neutral
-AMZN,System 2026 1080p AMZN WEB-DL H264 Atmos-UBWEB,Rlsbb.to,2026-05-24T11:34:48Z,0.0,Neutral
-AMZN,The Bowens A Portrait Of An American Family 2026 720p AMZN WEB-DL H264-playWEB,Rlsbb.to,2026-05-24T11:22:22Z,0.0,Neutral
-AMZN,Philly Homicide S02E06 720p AMZN WEB-DL H264-RAWR,Rlsbb.to,2026-05-24T11:07:19Z,0.0,Neutral
-AMZN,Milked 2022 1080p AMZN WEB-DL H264-cinepth,Rlsbb.to,2026-05-24T10:53:39Z,0.0,Neutral
-AMZN,The Only Way Is Essex S36E09 1080p AMZN WEB-DL H264-RAWR,Rlsbb.to,2026-05-24T10:35:16Z,0.0,Neutral
-AMZN,Fossil 2023 1080p AMZN WEB-DL H264-MADSKY,Rlsbb.to,2026-05-24T08:09:52Z,0.0,Neutral
-AMZN,Unsere Zeit Wird Kommen 2025 1080p AMZN WEB-DL H264-MADSKY,Rlsbb.to,2026-05-24T08:09:52Z,0.0,Neutral
-AMZN,D Is For Distance 2025 720p AMZN WEB-DL H264-MADSKY,Rlsbb.to,2026-05-24T07:51:41Z,0.0,Neutral
-AMZN,You Me And Her 2023 1080p AMZN WEB-DL H264-tcshades,Rlsbb.to,2026-05-24T07:51:41Z,0.0,Neutral
-GOOGL,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
-GOOGL,"Billionaire Bill Ackman Pours $2,092,970,000 Into One Asset, Dumps Uber and Two Mag 7 Stocks",The Daily Hodl,2026-05-23T14:00:38Z,0.0,Neutral
-GOOGL,We’re Not in a Bubble. Wall Street Just Hasn’t Caught Up With the New ‘Physics’ of the Stock Market.,Barchart.com,2026-05-23T13:30:02Z,0.13636363636363635,Positive
-GOOGL,"These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",MarketWatch,2026-05-23T13:00:00Z,0.34285714285714286,Positive
-GOOGL,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-22T20:17:09Z,0.13636363636363635,Positive
-GOOGL,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-21T20:13:07Z,0.13636363636363635,Positive
-GOOGL,Alphabet (GOOGL): Moving Beyond Search in the AI Revolution,Yahoo Entertainment,2026-05-21T16:19:38Z,0.0,Neutral
-GOOGL,"Dear Future OpenAI Stock Investors, Mark Your Calendars for May 22",Barchart.com,2026-05-21T15:42:42Z,0.0,Neutral
-GOOGL,"MGK Holds 46 Percent in Just Five Stocks, And That Concentration Is Driving Most of Its Recent Gains",24/7 Wall St.,2026-05-21T13:15:12Z,0.25,Positive
-GOOGL,Berkshire Hathaway Sold 16 Stocks in Q1 but Warren Buffett and Greg Abel Still Have 70% in Just 7 Stocks,24/7 Wall St.,2026-05-21T11:42:20Z,0.0,Neutral
-GOOG,"Crypto rails are becoming the default payment layer for AI agents, report says",CoinDesk,2026-05-24T13:00:00Z,0.45,Positive
-GOOG,"Billionaire Bill Ackman Pours $2,092,970,000 Into One Asset, Dumps Uber and Two Mag 7 Stocks",The Daily Hodl,2026-05-23T14:00:38Z,0.0,Neutral
-GOOG,Is Alphabet Inc. (GOOG) One of the Best Communication Stocks to Invest In?,Yahoo Entertainment,2026-05-23T11:54:57Z,1.0,Positive
-GOOG,SEC's Peirce tempers expectations over tokenized stocks exemption,Cointelegraph,2026-05-22T06:35:38Z,-0.1,Negative
-GOOG,$2.99 | The Seventh Sword: The Complete Series (eBook) by Dave Duncan,Slickdeals.net,2026-05-21T15:20:19Z,0.1,Positive
-GOOG,Google's AI is being manipulated. The search giant is quietly fighting back - BBC,Slashdot.org,2026-05-21T11:32:53Z,0.0,Neutral
-GOOG,Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B,Cointelegraph,2026-05-20T21:22:03Z,0.0,Neutral
-GOOG,Arm Surges on New $300 Price Target: ARM Stock Is at the ‘Center of the Renaissance’ in CPUs,Barchart.com,2026-05-20T21:01:29Z,0.018181818181818174,Positive
-GOOG,Walmart Stock Looks Quite Risky Heading Into Q1 Results,Barchart.com,2026-05-20T16:00:02Z,0.0,Neutral
-GOOG,"Dear Snowflake Stock Fans, Mark Your Calendars for May 27",Barchart.com,2026-05-20T15:00:02Z,0.0,Neutral
-META,The Apple Watch is 11 years old and losing momentum. Screenless rivals are winning the next phase.,The Next Web,2026-05-24T15:03:17Z,0.19999999999999998,Positive
-META,"(喝抗紊ф┨ / note, 4/26) Canada Bill C- ...",Ryukoku.ac.jp,2026-05-24T15:00:00Z,0.0,Neutral
-META,Official Trailer for Experimental Doc 'Bouchra' About a Jackal in NYC,First Showing,2026-05-24T14:47:38Z,0.1,Positive
-META,The Ray-Ban Meta Gen 2 smart glasses just got their first-ever discount in the Memorial Day sales,TechRadar,2026-05-24T14:33:19Z,0.21428571428571427,Positive
-META,The seed oil panic is hurting my cardiac patients,STAT,2026-05-24T14:27:26Z,-0.05,Negative
-META,Harley Quinn #62 Preview: Bat-Quinn Crashes the TV Party,Bleeding Cool News,2026-05-24T14:26:09Z,0.0,Neutral
-META,Sean Strickland hits out at Adin Ross’ MMA event as he admits embarrassment,"HITC - Football, Gaming, Movies, TV, Music",2026-05-24T13:43:08Z,0.0,Neutral
-META,Wells Fargo Reduces PT on Meta Platforms (META) Stock,Yahoo Entertainment,2026-05-24T13:30:32Z,0.0,Neutral
-META,4 Best Superhero TV Show Series Finales & The 3 Most Disappointing,ComicBook.com,2026-05-24T13:30:00Z,0.3,Positive
-META,radia-mcp 0.71.0,Pypi.org,2026-05-24T13:22:28Z,0.0,Neutral
-TSLA,Did SpaceX’s $28.5 Trillion Bombshell Reveal Elon Musk’s Genius — or Peak Galaxy Brain?,24/7 Wall St.,2026-05-24T14:59:22Z,0.0,Neutral
-TSLA,Paul Tudor Jones makes $8 billion bet on small-cap chaos,TheStreet,2026-05-23T18:33:00Z,0.0,Neutral
-TSLA,MarketBeat Week in Review – 05/18 - 05/22,MarketBeat,2026-05-23T11:00:00Z,0.0,Neutral
-TSLA,"Is Tesla, Inc. (TSLA) One of the Best ARK Stocks to Buy Right Now?",Yahoo Entertainment,2026-05-23T04:48:56Z,0.6428571428571428,Positive
-TSLA,Tesla Is Chasing the Future of Driving. Its Stock Is Stuck in a 350x Earnings Trap,Barchart.com,2026-05-22T20:30:38Z,0.0,Neutral
-TSLA,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-22T20:17:09Z,0.13636363636363635,Positive
-TSLA,Apple shares hit new all-time intraday and closing highs,Macdailynews.com,2026-05-21T20:13:07Z,0.13636363636363635,Positive
-TSLA,GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs,GlobeNewswire,2026-05-21T18:05:00Z,0.0,Neutral
-TSLA,Forget Tesla for Retirees: Here Are 3 Value-Driven Automotive Stalwarts to Buy Right Now,24/7 Wall St.,2026-05-21T16:11:36Z,0.2857142857142857,Positive
-TSLA,"GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HMYY, RTYY, MUYY, TMYY, CWY, CRY and 20+ Others",GlobeNewswire,2026-05-21T12:18:00Z,0.0,Neutral
-AVGO,Broadcom’s AI Packaging Bet Gets Bigger. Wall Street Is Betting on More Upside for AVGO Stock.,Barchart.com,2026-05-23T16:00:02Z,0.25,Positive
-AVGO,"These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",MarketWatch,2026-05-23T13:00:00Z,0.34285714285714286,Positive
-AVGO,SMH vs SOXX: Which Semiconductor ETF Should You Buy in 2026?,Etf.com,2026-05-22T22:32:46Z,0.0,Neutral
-AVGO,Inflation Fears Weighed on Broadcom (AVGO) in Q1,Yahoo Entertainment,2026-05-22T13:29:22Z,0.0,Neutral
-AVGO,The Best AI Stock to Buy Now for Less Than $500,Barchart.com,2026-05-22T11:30:02Z,0.4166666666666667,Positive
-AVGO,Is Broadcom (AVGO) The Best AI Chip Stock to Buy?,Yahoo Entertainment,2026-05-21T16:13:07Z,1.0,Positive
-AVGO,"Jim Cramer froze on live TV after seeing Trump's 3,700 stock trades — here's what's in the president's portfolio",Yahoo Entertainment,2026-05-21T14:00:00Z,0.13636363636363635,Positive
-AVGO,"Jim Cramer froze on live TV after seeing Trump's 3,700 stock trades — here's what's in the president's portfolio",Yahoo Entertainment,2026-05-21T14:00:00Z,0.13636363636363635,Positive
-AVGO,ARM’s Growth Catalysts Outweigh Concerns Related to Antitrust Investigation,Barchart.com,2026-05-21T13:30:02Z,0.0,Neutral
-AVGO,Broadcom Inc. (AVGO) Challenges EU Regulators While Barclays Sees AI Upside,Yahoo Entertainment,2026-05-21T08:42:10Z,0.0,Neutral
-COST,Creating semicon dependency?,BusinessLine,2026-05-24T15:13:22Z,0.0,Neutral
-COST,pydantic-ai-shields 0.3.3,Pypi.org,2026-05-24T15:08:16Z,0.0,Neutral
-COST,I gave up my Bluetooth earbuds and went wired for three weeks. Here's what happened,Android Central,2026-05-24T15:07:00Z,0.0,Neutral
-COST,DOJ Just Shut Disabled People Out of Essential Online Services for Another Year,Truthout,2026-05-24T15:04:26Z,-0.1,Negative
-COST,"Tanker crisis turns deadly: Seven road deaths in four months, health hazards indisputable",The Indian Express,2026-05-24T15:02:43Z,-0.2,Negative
-COST,4 Changes Coming to Disney’s Hollywood Studios Next Month,disneyfoodblog.com,2026-05-24T15:00:30Z,0.0,Neutral
-COST,Bitcoin LTH Supply Surge Does Not Reflect Real Demand — Here’s Why,newsBTC,2026-05-24T15:00:21Z,0.2,Positive
-COST,Americans are 'entrenched' in financial stress,CNBC,2026-05-24T15:00:01Z,0.0,Neutral
-COST,How to Mirror Shine Leather Shoes with Preston Soto of The Elegant Oxford,Gentlemansgazette.com,2026-05-24T15:00:00Z,0.5,Positive
-COST,Car deal of the day: Hyundai Ioniq 6 with cheap charging for just £267 a month,AutoExpress,2026-05-24T15:00:00Z,0.4,Positive
+ticker,headline,source,date,polarity_score,sentiment,vader_score,vader_sentiment
+AAPL,Tim Cook bows out with a very Tim Cook keynote,Mashable,2026-06-09T02:28:40Z,0.2,Positive,0.0,Neutral
+AAPL,Apple bets on overdue Siri fix to close AI gap,The Times of India,2026-06-09T02:10:03Z,0.0,Neutral,0.0,Neutral
+AAPL,Apple CEO Tim Cook's final keynote at WWDC; Spotlight firmly on Siri AI and Apple's partnership with Google,The Times of India,2026-06-09T01:10:53Z,-0.1,Negative,0.0,Neutral
+AAPL,3 ASX stocks I'd buy during a sharemarket crash,Motley Fool Australia,2026-06-08T23:53:50Z,0.0,Neutral,-0.4019,Negative
+AAPL,Apple Siri AI Extends Personal Context Across Devices and Apps,pymnts.com,2026-06-08T23:26:52Z,0.0,Neutral,0.128,Positive
+AAPL,Four star LB could be key in Matt Campbell's 2027 class,USA Today,2026-06-08T23:06:59Z,0.0,Neutral,0.0,Neutral
+AAPL,"Apple share drop as new Siri, AI platform leaves investors unimpressed",The Straits Times,2026-06-08T22:56:26Z,0.13636363636363635,Positive,-0.3182,Negative
+AAPL,"Apple Watch Series 11 hits Apple’s refurbished store, but is it the best deal?",Cult of Mac,2026-06-08T22:32:16Z,1.0,Positive,0.7783,Positive
+AAPL,Apple refines Liquid Glass design and expands child safety tools at WWDC,SiliconANGLE News,2026-06-08T22:20:36Z,0.0,Neutral,0.4939,Positive
+AAPL,Jim Cramer warns key pillars of the bull market are beginning to crumble,CNBC,2026-06-08T22:18:39Z,0.0,Neutral,-0.1027,Negative
+AAPL,"I quit Safari for Chrome, but these new MacOS 27 features could pull me back",ZDNet,2026-06-08T21:12:50Z,0.06818181818181818,Positive,0.0,Neutral
+AAPL,Apple debuts Siri AI as a more personal assistant built on Gemini,SiliconANGLE News,2026-06-08T21:00:15Z,0.25,Positive,0.0,Neutral
+AAPL,"Hey, Siri: Apple just announced a long-awaited AI update",NPR,2026-06-08T20:41:10Z,0.0,Neutral,0.0,Neutral
+AAPL,"Apple WWDC: New Siri, AI platform unveiled",The Sydney Morning Herald,2026-06-08T20:07:31Z,0.13636363636363635,Positive,0.0,Neutral
+AAPL,Everything you need to know about Prime Day 2026,The Verge,2026-06-08T20:06:26Z,0.0,Neutral,0.0,Neutral
+AAPL,"US stocks: S&P 500, Nasdaq end up as tech, chipmakers rebound",The Times of India,2026-06-08T20:02:24Z,0.0,Neutral,0.0,Neutral
+AAPL,"Safari Gets AI Tab Organization, Notify Me, and Custom Extensions in iOS 27",Yugatech.com,2026-06-08T19:54:29Z,0.0,Neutral,0.0,Neutral
+AAPL,Apple debuts Siri AI at WWDC as Tim Cook prepares to hand over the reins,Fortune,2026-06-08T19:35:54Z,0.0,Neutral,0.4939,Positive
+AAPL,"Apple Investors Give Lukewarm Reaction to New Siri, AI Platform",Livemint,2026-06-08T18:55:22Z,0.13636363636363635,Positive,0.0,Neutral
+AAPL,Apple reveals long-delayed Siri AI makeover at Worldwide Developers Conference,New York Post,2026-06-08T18:51:59Z,0.0,Neutral,0.0,Neutral
+AAPL,Apple Unveils macOS 27 Golden Gate With New AI Siri,iPhone in Canada,2026-06-08T18:51:45Z,0.21818181818181817,Positive,0.0,Neutral
+AAPL,Apple WWDC 2026: The 7 biggest announcements,The Verge,2026-06-08T18:51:19Z,0.0,Neutral,0.0,Neutral
+AAPL,Apple demonstrates cross-platform Siri upgrades in macOS 27 Golden Gate at WWDC — update brings Liquid Glass improvements and unifies AI strategy,Tom's Hardware UK,2026-06-08T18:40:17Z,0.3,Positive,0.3182,Positive
+AAPL,"Apple tries again on AI, turns to Google for help",The Punch,2026-06-08T18:09:21Z,-0.1,Negative,0.4019,Positive
+AAPL,"Apple takes another shot at AI, turns to Google for help",Digital Journal,2026-06-08T18:05:09Z,0.0,Neutral,0.4019,Positive
+AAPL,Safari Will Be Able to Monitor a Webpage and Notify You of Updates,MacRumors,2026-06-08T18:04:15Z,0.5,Positive,0.0,Neutral
+AAPL,SpaceX’s $75 billion IPO is well oversubscribed as order books close ahead of Wednesday pricing,The Next Web,2026-06-08T17:39:38Z,0.0,Neutral,0.2732,Positive
+AAPL,(VIDEO) Tim Cook's Final WWDC Keynote: Apple Focuses on AI Upgrades and Software Innovations in 2026,Ibtimes.com.au,2026-06-08T17:38:17Z,0.0,Neutral,0.0,Neutral
+AAPL,The gravity of the SpaceX IPO,Freerepublic.com,2026-06-08T17:23:12Z,0.0,Neutral,0.0,Neutral
+AAPL,Why Anxious Minds Make the Best Leaders,Psychology Today,2026-06-08T17:15:50Z,0.375,Positive,0.4939,Positive
+AAPL,"Apple MacBook Air 13.6"" Laptop (2025) w/ M4 Chip, 32GB RAM, 1TB SSD $1399 & More + Free S&H",Slickdeals.net,2026-06-08T17:15:37Z,0.45,Positive,0.5563,Positive
+AAPL,The Knicks’ stock hits record high on historic NBA Finals lead,New York Post,2026-06-08T16:53:40Z,0.08,Positive,0.0,Neutral
+AAPL,f8 Develop is an HDR Film Negative Inversion App Built for Apple Silicon,PetaPixel,2026-06-08T16:51:18Z,-0.3,Negative,-0.5719,Negative
+AAPL,"Apple Watch SE 3, Apple Watch Ultra 3, and Apple Watch Series 11 Refurbished Versions on Sale",iLounge,2026-06-08T16:48:06Z,0.0,Neutral,0.0,Neutral
+AAPL,Transcript: Chris Davis of Davis Funds,Ritholtz.com,2026-06-08T16:30:45Z,0.0,Neutral,0.0,Neutral
+AAPL,"Apple stock price prediction after WWDC 2026: With Apple (AAPL) trading near its all-time high of $302.25, will AI-powered Siri drive the stock above $400?",The Times of India,2026-06-08T16:19:14Z,0.08666666666666667,Positive,0.0,Neutral
+AAPL,Marvell's S&P 500 Inclusion Could Spark Fresh ETF Buying Despite Valuation Concerns,Yahoo Entertainment,2026-06-08T15:46:41Z,0.3,Positive,0.4939,Positive
+AAPL,Is Apple Inc. (AAPL) A Good Stock To Buy Now?,Yahoo Entertainment,2026-06-08T15:19:57Z,0.7,Positive,0.4404,Positive
+AAPL,Dell's new Nvidia RTX Spark mini PC has distinct Mac Studio vibes — and I think it could tempt buyers away from Apple given its current stock woes,TechRadar,2026-06-08T15:05:10Z,0.14545454545454545,Positive,-0.25,Negative
+AAPL,"On theCUBE Pod: Snowflake, Cisco and the race to control the AI stack",SiliconANGLE News,2026-06-08T14:59:16Z,0.0,Neutral,0.0,Neutral
+AAPL,Intel Foundry comeback! Is a bigger Intel stock surge ahead? INTC shares surge 9.16% today as Google’s 3 million TPU order and Nvidia testing fuel Intel’s AI revival,The Times of India,2026-06-08T14:38:43Z,0.0,Neutral,0.3595,Positive
+AAPL,"Ming-Chi Kuo Warns Apple’s Siri Must Outclass Google Gemini at WWDC 2026, Not Just Catch Up After Years of Delay",Wccftech,2026-06-08T14:25:38Z,0.0,Neutral,-0.4019,Negative
+AAPL,Heads up: Early Prime Day deal now live on AirPods Pro 3 down at $199 via Amazon,9to5Toys,2026-06-08T14:19:00Z,0.026936026936026935,Positive,0.1779,Positive
+AAPL,Apple investors pin hopes on WWDC AI overhaul to ignite next stock surge,Macdailynews.com,2026-06-08T13:52:56Z,0.0,Neutral,0.4215,Positive
+AAPL,Apple investors look for AI to power next leg of gains,Financial Post,2026-06-08T13:28:10Z,0.0,Neutral,0.34,Positive
+AAPL,Apple WWDC 2026 live updates,CNBC,2026-06-08T13:24:27Z,0.13636363636363635,Positive,0.0,Neutral
+AAPL,"TQQQ Turned $10,000 Into $353,789, but Friday’s 14% Crash Shows Leverage Cuts Both Ways",24/7 Wall St.,2026-06-08T13:14:23Z,0.0,Neutral,-0.7469,Negative
+AAPL,Google Gemini Could Be the Ceiling on Apple's AI Ambitions,MacRumors,2026-06-08T12:31:32Z,0.0,Neutral,0.0,Neutral
+AAPL,Morning Minute: Bitcoin Recovers After Fall Below $60k,Decrypt,2026-06-08T12:21:16Z,0.0,Neutral,0.0,Neutral
+AAPL,"Why ROM Holders Watched $10,000 Evaporate to $8,655 When NVIDIA and Broadcom Stumbled on Friday",24/7 Wall St.,2026-06-08T12:14:57Z,0.0,Neutral,0.0,Neutral
+AAPL,"Tech stocks today: OpenAI joins Anthropic, SpaceX in filing IPO paperwork, Apple stock falls after WWDC",Yahoo Entertainment,2026-06-08T12:04:20Z,0.0,Neutral,0.0,Neutral
+AAPL,Tech stocks today: Apple stock falls after a long-awaited AI Siri update,Yahoo Entertainment,2026-06-08T12:04:20Z,0.0,Neutral,0.0,Neutral
+AAPL,How optimistic are you about today’s new Siri announcements? [Poll],9to5Mac,2026-06-08T11:45:45Z,0.13636363636363635,Positive,0.3182,Positive
+AAPL,Why the Skoda Superb Estate is the best estate car you can buy,Autocar,2026-06-08T11:30:00Z,1.0,Positive,0.8519,Positive
+AAPL,Apple (AAPL) Is A Top Stock In Billionaire Ken Fisher’s Portfolio,Yahoo Entertainment,2026-06-08T10:54:04Z,0.5,Positive,0.2023,Positive
+AAPL,The Stock Market's Biggest Winners And Losers Of 2026 So Far,Forbes,2026-06-08T10:30:00Z,-0.05,Negative,-0.0772,Negative
+AAPL,"Gamehaus Holdings Inc. Announces Unaudited Financial Results for the Third Quarter of Fiscal 2026 Ended March 31, 2026",PRNewswire,2026-06-08T10:00:00Z,0.0,Neutral,0.0,Neutral
+AAPL,Wall Street says Apple can't afford a miss on AI at this year's WWDC,Business Insider,2026-06-08T09:40:02Z,0.0,Neutral,0.1139,Positive
+AAPL,"11:11 | Tensions in West Asia flare up, crude oil, Zverev wins Roland Garros, Philippines earthquake and more",CNBCTV18,2026-06-08T09:19:20Z,0.03333333333333335,Positive,-0.4019,Negative
+AAPL,Mamdani’s $22 billion housing lunacy proposal will socialize the skyline,Fox News,2026-06-08T09:00:15Z,0.0,Neutral,0.0,Neutral
+AAPL,"Some of the best AirPods deals of the year are live this week: Pro 3, Max 2, more",9to5Toys,2026-06-08T08:30:00Z,0.5454545454545454,Positive,0.6369,Positive
+AAPL,I ate like a Boomer grandparent for a week. They’re wrong about our diets,New Zealand Herald,2026-06-08T05:00:00Z,-0.5,Negative,-0.1531,Negative
+AAPL,Alberto Romero on Apple’s AI Spending,Thealgorithmicbridge.com,2026-06-08T00:55:56Z,0.0,Neutral,0.0,Neutral
+AAPL,Our systems editor flew all the way to Taiwan and still couldn't get away from AI,Theregister.com,2026-06-07T23:00:00Z,0.0,Neutral,0.0,Neutral
+AAPL,Anthropic wants caution but the market wants more AI,ABC News (AU),2026-06-07T18:40:06Z,0.3,Positive,0.0,Neutral
+AAPL,Analyzing Clemson Tigers Football 2027 Defensive Recruiting Class,Shakinthesouthland.com,2026-06-07T17:55:00Z,0.0,Neutral,0.0258,Neutral
+AAPL,SpaceX wallpapers for iPhone Starship V3 first flight,Idownloadblog.com,2026-06-07T16:16:36Z,0.25,Positive,0.0,Neutral
+AAPL,Smartphone Industry Braces for Record Annual Decline as Memory Chip Shortages Deepen,Advfn.com,2026-06-07T16:11:00Z,0.0,Neutral,-0.1531,Negative
+AAPL,Citi has a message for Apple stock investors,TheStreet,2026-06-07T14:37:00Z,0.0,Neutral,0.0,Neutral
+AAPL,Inflation inside the electronics you buy may soon become a bit more sticky,CNBC,2026-06-07T13:59:37Z,0.5,Positive,0.0,Neutral
+AAPL,How to create a Keynote presentation that would make Steve Jobs proud,Cult of Mac,2026-06-07T12:50:18Z,0.8,Positive,0.6369,Positive
+AAPL,"AIQ Turned $10,000 Into $13,400 in Six Months as AI Chips Soared 34% YTD",24/7 Wall St.,2026-06-07T11:00:06Z,0.0,Neutral,0.0,Neutral
+AAPL,Is Berkshire Hathaway moving away from Buffett's investment philosophy under a new CEO? Look at its deals,Livemint,2026-06-07T10:00:29Z,0.13636363636363635,Positive,0.0,Neutral
+AAPL,"What to Expect in Markets This Week: May CPI Report, Updates from Tech Giants",Investopedia,2026-06-07T10:00:00Z,0.0,Neutral,0.0,Neutral
+AAPL,The World’s Best Bourbon—According To The American Whiskey Commission,Forbes,2026-06-07T08:15:12Z,0.5,Positive,0.6369,Positive
+AAPL,Rupee hits 96 against USD: How can falling currency impact your investments and how to protect them?,Livemint,2026-06-07T02:30:19Z,0.0,Neutral,0.25,Positive
+AAPL,3x semiconductor ETF SOXL surpasses trading volume of Apple and Amazon combined,Crypto Briefing,2026-06-07T01:21:17Z,0.0,Neutral,0.1779,Positive
+AAPL,"Deals: Apple Watch Series 11 for $299, AirPods from $99, $200 Off M5 MacBook Air, & More",Osxdaily.com,2026-06-06T23:23:25Z,0.5,Positive,0.0,Neutral
+AAPL,Fed's Mary Daly has blunt message for AI stock investors,TheStreet,2026-06-06T19:13:00Z,0.0,Neutral,0.0,Neutral
+AAPL,Andoni Iraola’s first words on AXA training centre pitch speak volumes for the players,Empire of The Kop,2026-06-06T17:55:00Z,0.25,Positive,0.0,Neutral
+AAPL,Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac,9to5Mac,2026-06-06T17:41:00Z,0.13636363636363635,Positive,0.0,Neutral
+AAPL,Here’s Why Apple (AAPL) is One of the Best Big Company Stocks to Buy Right Now,Yahoo Entertainment,2026-06-06T17:24:54Z,0.42857142857142855,Positive,0.6369,Positive
+AAPL,The Dow's Split Personality: Why Some Winners Soar While Others Drag Down the Dow,Barchart.com,2026-06-06T17:00:02Z,-0.12777777777777777,Negative,0.296,Positive
+AAPL,SCHD’s $85 Billion Strategy Now Concentrates 41 Percent of Your Money in Just Ten Stocks,24/7 Wall St.,2026-06-06T16:11:45Z,0.0,Neutral,0.0,Neutral
+AAPL,Show HN: Minimal native macOS sandbox for Claude and Codex,Github.com,2026-06-06T14:53:04Z,-0.1,Negative,0.0,Neutral
+AAPL,Nvidia market cap falls below $5T amid AI sector shifts,Crypto Briefing,2026-06-06T14:50:56Z,0.0,Neutral,0.0,Neutral
+AAPL,The Floppy Disk patent was granted today in 1972 — when 80KB took up 8 inches and were really floppy,Tom's Hardware UK,2026-06-06T14:45:15Z,0.2,Positive,0.25,Positive
+AAPL,Warren Buffett's Berkshire triples stake in newspaper giant,TheStreet,2026-06-06T14:37:00Z,0.0,Neutral,0.0,Neutral
+AAPL,I tried the SteelSeries Nimbus Cloud and feel like it’s just trying to do too much,TechRadar,2026-06-06T14:30:00Z,0.2,Positive,0.3612,Positive
+AAPL,"Ferrari Unveils Its First-Ever Fully Electric Car, the Luce",My Modern Met,2026-06-06T12:50:53Z,0.0,Neutral,0.0,Neutral
+AAPL,Not SpaceX: The Forgotten Satellite Stocks Quietly Plugging Into the Future of Space That Are Investible Today,24/7 Wall St.,2026-06-06T12:44:35Z,0.0,Neutral,0.1695,Positive
+AAPL,"Fox News AI Newsletter: Sanders bill would seize 50% of stock in OpenAI, Anthropic for sovereign wealth fund",Fox News,2026-06-06T12:00:48Z,0.0,Neutral,0.4939,Positive
+AAPL,Investors Can’t Escape AI’s Clutches,Slate Magazine,2026-06-06T10:00:00Z,0.0,Neutral,0.1779,Positive
+AAPL,"Kevin-XXX/company-analyst: A skill that turns any company name into a structured fundamental analysis report — financial health, valuation, market sentiment, and a composite signal scorecard.",Github.com,2026-06-06T07:46:09Z,0.0,Neutral,0.0,Neutral
+AAPL,Slate Money - The Index Fund Problemtunity,Acast.com,2026-06-06T07:00:00Z,0.0,Neutral,0.0,Neutral
+AAPL,Belkin BoostCharge Pro 108W 4-Port GaN Wall Charger - $49.95 ($80 off) + $5 Delivery ($0 with $100 Spend) @ Horizon Store,Ozbargain.com.au,2026-06-06T05:14:37Z,0.0,Neutral,0.0,Neutral
+MSFT,Tim Cook bows out with a very Tim Cook keynote,Mashable,2026-06-09T02:28:40Z,0.2,Positive,0.0,Neutral
+MSFT,How Bill Gates' Billions Shape U.S. Medical Research,Realclearinvestigations.com,2026-06-09T02:08:16Z,0.0,Neutral,0.0,Neutral
+MSFT,OpenAI joins rival Anthropic in race to Wall Street,The Times of India,2026-06-09T01:18:20Z,0.0,Neutral,0.0,Neutral
+MSFT,OpenAI files for US IPO after Anthropic as AI giants head to public markets,The Times of India,2026-06-09T01:17:50Z,0.0,Neutral,0.0,Neutral
+MSFT,"OpenAI IPO: ChatGPT maker files for US Stock Market initial public offering after Anthropic, SpaceX",The Times of India,2026-06-09T00:10:00Z,0.0,Neutral,0.0,Neutral
+MSFT,Tech giant OpenAI files for US initial public offering,Al Jazeera English,2026-06-08T22:23:40Z,0.0,Neutral,0.0,Neutral
+MSFT,Why Patagonia Filed A Trademark Infringement Lawsuit Against ‘Pattie Gonia’,Forbes,2026-06-08T22:14:34Z,0.0,Neutral,-0.6124,Negative
+MSFT,OpenAI Files For U.S. IPO After Anthropic As AI Giants Head To Public Markets,HuffPost,2026-06-08T22:00:58Z,0.0,Neutral,0.0,Neutral
+MSFT,OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic,Wired,2026-06-08T21:31:58Z,0.0,Neutral,0.0,Neutral
+MSFT,OpenAI files for US IPO after Anthropic as AI giants head to public markets,CNA,2026-06-08T21:17:00Z,0.0,Neutral,0.0,Neutral
+MSFT,Apple reveals long-delayed Siri AI makeover at Worldwide Developers Conference,New York Post,2026-06-08T18:51:59Z,0.0,Neutral,0.0,Neutral
+MSFT,SpaceX’s $75 billion IPO is well oversubscribed as order books close ahead of Wednesday pricing,The Next Web,2026-06-08T17:39:38Z,0.0,Neutral,0.2732,Positive
+MSFT,The gravity of the SpaceX IPO,Freerepublic.com,2026-06-08T17:23:12Z,0.0,Neutral,0.0,Neutral
+MSFT,This Stock Is My Biggest Bet For June,24/7 Wall St.,2026-06-08T16:25:23Z,0.0,Neutral,0.0,Neutral
+MSFT,"Apple stock price prediction after WWDC 2026: With Apple (AAPL) trading near its all-time high of $302.25, will AI-powered Siri drive the stock above $400?",The Times of India,2026-06-08T16:19:14Z,0.08666666666666667,Positive,0.0,Neutral
+MSFT,Get Ready for Phase 2 of the AI Era. ChatGPT is getting its “Biggest Update” Yet,24/7 Wall St.,2026-06-08T16:17:56Z,0.2,Positive,0.3612,Positive
+MSFT,"Trump Administration Eyes Equity Stake in OpenAI, Aligning with Push for Public Share in AI Gains - The Manhattan",Themanhattan.press,2026-06-08T15:54:43Z,0.0,Neutral,0.5574,Positive
+MSFT,Marvell's S&P 500 Inclusion Could Spark Fresh ETF Buying Despite Valuation Concerns,Yahoo Entertainment,2026-06-08T15:46:41Z,0.3,Positive,0.4939,Positive
+MSFT,AI Is Slowing Down,Wheresyoured.at,2026-06-08T15:46:37Z,-0.15555555555555556,Negative,0.0,Neutral
+MSFT,Nebius Is Up Nearly 175% This Year—Here's What's Driving the Latest Run,MarketBeat,2026-06-08T15:45:00Z,0.3,Positive,0.0,Neutral
+MSFT,Is Apple Inc. (AAPL) A Good Stock To Buy Now?,Yahoo Entertainment,2026-06-08T15:19:57Z,0.7,Positive,0.4404,Positive
+MSFT,3 Energy Stocks Built for the AI Power Boom—And Beyond,MarketBeat,2026-06-08T15:10:00Z,0.0,Neutral,0.2732,Positive
+MSFT,"Why is the US stock market rallying big today? Dow Jones, S&P 500 and Nasdaq surge on AI boom — Nvidia and Intel jump as Nasdaq significantly outperformed both the Dow and S&P",The Times of India,2026-06-08T15:07:20Z,0.1875,Positive,0.0,Neutral
+MSFT,(VIDEO) Nintendo Direct June 9 2026: Switch 2 Focus and Major Game Reveals Expected,Ibtimes.com.au,2026-06-08T15:07:19Z,-0.084375,Negative,0.0,Neutral
+MSFT,Dell's new Nvidia RTX Spark mini PC has distinct Mac Studio vibes — and I think it could tempt buyers away from Apple given its current stock woes,TechRadar,2026-06-08T15:05:10Z,0.14545454545454545,Positive,-0.25,Negative
+MSFT,"On theCUBE Pod: Snowflake, Cisco and the race to control the AI stack",SiliconANGLE News,2026-06-08T14:59:16Z,0.0,Neutral,0.0,Neutral
+MSFT,Alphabet GOOG Stock 2026 Outlook: Strong AI Momentum Makes It a Buy for Long-Term Investors,Ibtimes.com.au,2026-06-08T14:50:30Z,0.43333333333333335,Positive,0.5106,Positive
+MSFT,"Buy, Sell, or Hold: CoreWeave at $100",24/7 Wall St.,2026-06-08T14:15:11Z,0.0,Neutral,0.0,Neutral
+MSFT,"Man Snaps Random Picture On The Way To Meet GF, It Ends Up Being “The Most Viewed Photo Ever”",Boredpanda.com,2026-06-08T14:01:13Z,0.0,Neutral,0.0,Neutral
+MSFT,RNA Polymerase III subunit Polr3a is required for craniofacial cartilage and bone development in zebrafish,Plos.org,2026-06-08T14:00:00Z,0.0,Neutral,0.0,Neutral
+MSFT,Why Microsoft Stock Surged 10.4% Last Month But Is Sinking in June,Yahoo Entertainment,2026-06-08T13:28:26Z,0.0,Neutral,0.0,Neutral
+MSFT,"⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",Internet,2026-06-08T13:18:57Z,0.5,Positive,0.0,Neutral
+MSFT,"TQQQ Turned $10,000 Into $353,789, but Friday’s 14% Crash Shows Leverage Cuts Both Ways",24/7 Wall St.,2026-06-08T13:14:23Z,0.0,Neutral,-0.7469,Negative
+MSFT,JPMorgan Sees Qualcomm (QCOM) Investor Day as Potential AI Growth Catalyst,Yahoo Entertainment,2026-06-08T13:09:02Z,0.0,Neutral,0.3818,Positive
+MSFT,Reddit’s (RDDT) AI Search Push and Ad Momentum Support Bullish Wall Street View,Yahoo Entertainment,2026-06-08T13:08:55Z,0.0,Neutral,0.4019,Positive
+MSFT,"Elon Musk Net Worth: From $788,800,000,000 today to a possible $1,000,000,000,000 after SpaceX IPO— How much would each of his 14 children get?",The Times of India,2026-06-08T12:59:25Z,0.125,Positive,0.2263,Positive
+MSFT,Intel (INTC) and Hitachi Team Up to Accelerate Physical AI Across Industries,Yahoo Entertainment,2026-06-08T12:50:46Z,0.0,Neutral,0.0,Neutral
+MSFT,HSBC Raises Broadcom (AVGO) Price Target on AI ASIC Growth Outlook,Yahoo Entertainment,2026-06-08T12:49:43Z,0.0,Neutral,0.3818,Positive
+MSFT,SpaceX Has a Plan for AI That Sounds Like Pure Science Fiction. How It Impacts Your Wealth,24/7 Wall St.,2026-06-08T12:44:37Z,0.21428571428571427,Positive,0.6908,Positive
+MSFT,"Why ROM Holders Watched $10,000 Evaporate to $8,655 When NVIDIA and Broadcom Stumbled on Friday",24/7 Wall St.,2026-06-08T12:14:57Z,0.0,Neutral,0.0,Neutral
+MSFT,Silverfort brings runtime identity controls to Microsoft Copilot Studio agents,SiliconANGLE News,2026-06-08T12:00:55Z,0.0,Neutral,0.0,Neutral
+MSFT,The first alien intelligence may not be alive,The Space Review,2026-06-08T11:57:00Z,0.03333333333333333,Positive,0.2302,Positive
+MSFT,"Vulnerability Summary for the Week of June 1, 2026",Cisa.gov,2026-06-08T11:15:41Z,0.0,Neutral,-0.2263,Negative
+MSFT,Microsoft (MSFT) Is A Top AI Stock In Billionaire Ken Fisher’s Portfolio,Yahoo Entertainment,2026-06-08T11:07:41Z,0.5,Positive,0.2023,Positive
+MSFT,Podcast: From MCP and Vibe Coding to Harness Engineering: How Did AI Native Engineering Evolve in One Year,InfoQ.com,2026-06-08T11:00:00Z,0.0,Neutral,0.0,Neutral
+MSFT,Futurum CEO Daniel Newman Drops Reality Check On AI's Trillion-Dollar Bet: 'We've Barely Scratched The Surface...',Yahoo Entertainment,2026-06-08T10:46:05Z,0.05,Positive,0.0,Neutral
+MSFT,Data Centers Are Plugging a Big Hole in the U.S. Construction Industry,Commercial Observer,2026-06-08T10:30:15Z,0.0,Neutral,0.0,Neutral
+MSFT,The Stock Market's Biggest Winners And Losers Of 2026 So Far,Forbes,2026-06-08T10:30:00Z,-0.05,Negative,-0.0772,Negative
+MSFT,"SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD",24/7 Wall St.,2026-06-08T09:30:49Z,0.0,Neutral,0.0,Neutral
+MSFT,"11:11 | Tensions in West Asia flare up, crude oil, Zverev wins Roland Garros, Philippines earthquake and more",CNBCTV18,2026-06-08T09:19:20Z,0.03333333333333335,Positive,-0.4019,Negative
+MSFT,"Billionaire David Tepper Sold Most of Appaloosa's Position in Microsoft and Initiated a New Stake in an Artificial Intelligence (AI) Memory Stock Up Over 4,100% in the Past Year",Yahoo Entertainment,2026-06-08T08:25:00Z,-0.053409090909090906,Negative,0.4767,Positive
+MSFT,‘Yet another way in which 2026 is looking like 1999’: Top analyst fears bubble popping with investors and Wall Street out over their skis,Yahoo Entertainment,2026-06-08T06:00:00Z,0.5,Positive,0.128,Positive
+MSFT,‘Yet another way in which 2026 is looking like 1999’: Top analyst fears bubble popping with investors and Wall Street out over their skis,Fortune,2026-06-08T06:00:00Z,0.5,Positive,0.128,Positive
+MSFT,"Why one fund manager is 'nervous' about SpaceX list, but you'll probably get a slice anyway",RNZ,2026-06-08T03:09:15Z,0.0,Neutral,0.0,Neutral
+MSFT,Alberto Romero on Apple’s AI Spending,Thealgorithmicbridge.com,2026-06-08T00:55:56Z,0.0,Neutral,0.0,Neutral
+MSFT,Our systems editor flew all the way to Taiwan and still couldn't get away from AI,Theregister.com,2026-06-07T23:00:00Z,0.0,Neutral,0.0,Neutral
+MSFT,"I created a complex presentation using Claude Design, Copilot in PowerPoint, and Gemini in Google Slides – only one of them did a professional job",XDA Developers,2026-06-07T22:00:24Z,-0.06666666666666667,Negative,0.25,Positive
+MSFT,Xbox Goes Back to Green for 25th Anniversary Editions,CNET,2026-06-07T21:45:46Z,-0.1,Negative,0.0,Neutral
+MSFT,"NVDL Collapsed 12% in a Single Day as Nvidia Lost $279 Billion, Exposing How Leverage Compounds on Bad Tape",24/7 Wall St.,2026-06-07T19:15:11Z,-0.3857142857142856,Negative,-0.8402,Negative
+MSFT,Anthropic wants caution but the market wants more AI,ABC News (AU),2026-06-07T18:40:06Z,0.3,Positive,0.0,Neutral
+MSFT,SpaceX IPO: Elon Musk's AI ambitions fueling space data centers & trillionaire dreams,The Times of India,2026-06-07T18:07:33Z,0.0,Neutral,0.4019,Positive
+MSFT,Netflix’s Underperforming Stock Needs a New Story. It Can’t Be AI.,Barchart.com,2026-06-07T18:00:02Z,0.13636363636363635,Positive,0.0,Neutral
+MSFT,"Trump's New AI Clock Starts Ticking: Will Microsoft, Oracle Or Palantir Become 'Trusted Partners'?",Yahoo Entertainment,2026-06-07T17:31:10Z,0.13636363636363635,Positive,0.4767,Positive
+MSFT,"Snowflake, Databricks and the model makers: The battle for the agentic client and AI back end",SiliconANGLE News,2026-06-07T16:39:01Z,0.0,Neutral,-0.3818,Negative
+MSFT,Bill Maher’s New Rule: How the kids must “fix” AI,Whyevolutionistrue.com,2026-06-07T16:15:27Z,0.13636363636363635,Positive,0.0,Neutral
+MSFT,Is AECOM (ACM) A Good Stock To Buy Now?,Yahoo Entertainment,2026-06-07T14:46:43Z,0.7,Positive,0.4404,Positive
+MSFT,Security Affairs newsletter Round 580 by Pierluigi Paganini – INTERNATIONAL EDITION,Securityaffairs.com,2026-06-07T14:39:23Z,-0.1,Negative,0.34,Positive
+MSFT,Microsoft Announces Majorana 2 Quantum Chip as Wedbush Calls It Another ‘Validation’ for the Industry,Barchart.com,2026-06-07T14:15:02Z,0.0,Neutral,0.0,Neutral
+MSFT,"Donald Trump considers government stake in leading AI companies, White House meeting planned",Crypto Briefing,2026-06-07T13:57:56Z,0.0,Neutral,0.0,Neutral
+MSFT,"Dear Future ERock Stock Fans, Mark Your Calendars for June 10",Barchart.com,2026-06-07T13:45:02Z,0.0,Neutral,0.3818,Positive
+MSFT,The business of AI is facing 4 harsh realities,Axios,2026-06-07T12:42:03Z,-0.2,Negative,-0.4404,Negative
+MSFT,"AIQ Turned $10,000 Into $13,400 in Six Months as AI Chips Soared 34% YTD",24/7 Wall St.,2026-06-07T11:00:06Z,0.0,Neutral,0.0,Neutral
+MSFT,"Amazon, Microsoft fare better than most in tech stock sell-off spree - The Seattle Times",Slashdot.org,2026-06-07T08:32:54Z,0.5,Positive,0.5574,Positive
+MSFT,Meta’s massive stock sale plans spark a chain reaction across Big Tech,Crypto Briefing,2026-06-07T07:13:35Z,0.0,Neutral,0.2263,Positive
+MSFT,Fed's Mary Daly has blunt message for AI stock investors,TheStreet,2026-06-06T19:13:00Z,0.0,Neutral,0.0,Neutral
+MSFT,Wells Fargo Raises PT on Microsoft (MSFT) Stock,Yahoo Entertainment,2026-06-06T17:24:23Z,0.0,Neutral,0.25,Positive
+MSFT,The Dow's Split Personality: Why Some Winners Soar While Others Drag Down the Dow,Barchart.com,2026-06-06T17:00:02Z,-0.12777777777777777,Negative,0.296,Positive
+MSFT,The Trump administration might take an equity stake in OpenAI | TechCrunch,TechCrunch,2026-06-06T16:19:04Z,0.0,Neutral,0.0,Neutral
+MSFT,SCHD’s $85 Billion Strategy Now Concentrates 41 Percent of Your Money in Just Ten Stocks,24/7 Wall St.,2026-06-06T16:11:45Z,0.0,Neutral,0.0,Neutral
+MSFT,"Fox News AI Newsletter: Sanders bill would seize 50% of stock in OpenAI, Anthropic for sovereign wealth fund",Fox News,2026-06-06T12:00:48Z,0.0,Neutral,0.4939,Positive
+MSFT,Fear Inflation? Now Is A Great Time To Buy TIPS,Forbes,2026-06-06T10:28:49Z,0.8,Positive,0.2263,Positive
+MSFT,Weekend reading: Retirement Living Standards revisited,Monevator.com,2026-06-06T09:36:39Z,0.0,Neutral,0.0,Neutral
+MSFT,JPMorgan sounds the alarm on the runaway cost of AI,TheStreet,2026-06-06T09:03:00Z,0.0,Neutral,-0.34,Negative
+MSFT,Hon Hai Precision Industry revenue rises 34% amid Nvidia server demand,Crypto Briefing,2026-06-06T08:26:08Z,0.0,Neutral,-0.128,Negative
+MSFT,Alphabet Stock vs Microsoft Stock: Which Stock To Buy in 2026?,Ibtimes.com.au,2026-06-06T08:03:06Z,0.0,Neutral,0.0,Neutral
+MSFT,SpaceX needs to grow 60x in a decade to justify a $1.75 trillion valuation. No company has ever come close,Fortune,2026-06-06T07:00:00Z,0.0,Neutral,-0.296,Negative
+MSFT,"Show HN: Local MCP – give Claude, Cursor and ChatGPT access to your whole Mac",Local-mcp.com,2026-06-06T01:08:40Z,0.1,Positive,0.0,Neutral
+MSFT,Amundi sees further growth in Asia’s AI-led stock boom amid Fed risks,Crypto Briefing,2026-06-06T01:00:10Z,0.0,Neutral,0.128,Positive
+MSFT,Microsoft Says It Will Have A Useful Quantum Computer In Three Years,Forbes,2026-06-05T22:45:48Z,0.3,Positive,0.4404,Positive
+MSFT,Microsoft Shows Off In-House Tech. Is the Stock a Buy?,Yahoo Entertainment,2026-06-05T20:35:00Z,0.0,Neutral,0.0,Neutral
+MSFT,"""I came to help that problem"": Xbox's Project Helix will only be expensive ""if we do not innovate,"" says CEO, hinting it may have a lower price than you think",Windows Central,2026-06-05T19:30:44Z,-0.25,Negative,0.128,Positive
+MSFT,After Months of Watching AI Innovation ETFs Run These 3 Active Funds Stand Out and the Revolution Has Barely Started,24/7 Wall St.,2026-06-05T18:55:18Z,-0.041666666666666664,Negative,0.6486,Positive
+MSFT,"What is actually happening to Bitcoin (BTC) right now? Why the $2 trillion crypto market crash is sending Bitcoin, Ethereum, Solana, and XRP into freefall",The Times of India,2026-06-05T18:25:04Z,0.14285714285714285,Positive,-0.4019,Negative
+MSFT,NVIDIA Stock And The Hundred-Fold Compute Clue,Trefis,2026-06-05T18:16:29Z,0.0,Neutral,0.0,Neutral
+MSFT,"""That's what the next 100 days will be about"": Xbox CEO Asha Sharma says memory shortages from AI are ""uncomfortable,"" and the next big ""challenge and opportunity""",Windows Central,2026-06-05T17:50:36Z,-0.125,Negative,0.3612,Positive
+MSFT,Subdued Put Activity Signals Opportunity in 4 Cash-Secured Puts for Income and Value,Barchart.com,2026-06-05T17:37:17Z,0.0,Neutral,0.6369,Positive
+MSFT,Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO,CNBC,2026-06-05T16:59:20Z,0.0,Neutral,0.0,Neutral
+MSFT,Vanguard’s $223 Billion Growth ETF VUG Is Quietly Beating Most Large Cap Active Funds at One Tenth the Cost,24/7 Wall St.,2026-06-05T16:54:23Z,0.14523809523809525,Positive,0.3744,Positive
+MSFT,SpaceX targets $75B IPO that could make it the most valuable public company on Earth,Crypto Briefing,2026-06-05T15:39:45Z,0.25,Positive,0.5256,Positive
+MSFT,You Might Soon Own a Piece of SpaceX,The Atlantic,2026-06-05T15:25:00Z,0.6,Positive,0.0,Neutral
+NVDA,Apple bets on overdue Siri fix to close AI gap,The Times of India,2026-06-09T02:10:03Z,0.0,Neutral,0.0,Neutral
+NVDA,OpenAI joins rival Anthropic in race to Wall Street,The Times of India,2026-06-09T01:18:20Z,0.0,Neutral,0.0,Neutral
+NVDA,OpenAI files for US IPO after Anthropic as AI giants head to public markets,The Times of India,2026-06-09T01:17:50Z,0.0,Neutral,0.0,Neutral
+NVDA,Apple CEO Tim Cook's final keynote at WWDC; Spotlight firmly on Siri AI and Apple's partnership with Google,The Times of India,2026-06-09T01:10:53Z,-0.1,Negative,0.0,Neutral
+NVDA,"Why are ASX 200 tech stocks like WiseTech, Life360 and Xero shares getting hammered on Tuesday?",Motley Fool Australia,2026-06-09T01:10:12Z,0.0,Neutral,0.5719,Positive
+NVDA,Nvidia CEO says recent AI selloff offers buying opportunity,Crypto Briefing,2026-06-09T00:53:46Z,0.05,Positive,0.4215,Positive
+NVDA,"South Korean stocks drop 9%, led by losses in Samsung and SK Hynix",Crypto Briefing,2026-06-09T00:30:43Z,0.0,Neutral,-0.5859,Negative
+NVDA,"OpenAI IPO: ChatGPT maker files for US Stock Market initial public offering after Anthropic, SpaceX",The Times of India,2026-06-09T00:10:00Z,0.0,Neutral,0.0,Neutral
+NVDA,3 ASX stocks I'd buy during a sharemarket crash,Motley Fool Australia,2026-06-08T23:53:50Z,0.0,Neutral,-0.4019,Negative
+NVDA,Amazon inks multibillion-dollar optical manufacturing deal with Corning,SiliconANGLE News,2026-06-08T23:14:17Z,0.0,Neutral,0.1779,Positive
+NVDA,Doosan combines products and manufacturing with Nvidia’s AI platforms,Crypto Briefing,2026-06-08T22:57:25Z,0.0,Neutral,0.0,Neutral
+NVDA,Tech giant OpenAI files for US initial public offering,Al Jazeera English,2026-06-08T22:23:40Z,0.0,Neutral,0.0,Neutral
+NVDA,ChatGPT maker OpenAI files for IPO looking to capitalize on investor appetite for AI boom,New York Post,2026-06-08T22:02:59Z,0.0,Neutral,0.0,Neutral
+NVDA,OpenAI Files For U.S. IPO After Anthropic As AI Giants Head To Public Markets,HuffPost,2026-06-08T22:00:58Z,0.0,Neutral,0.0,Neutral
+NVDA,OpenAI files for US IPO after Anthropic as AI giants head to public markets,CNA,2026-06-08T21:17:00Z,0.0,Neutral,0.0,Neutral
+NVDA,PhysicsX reels in $300M to speed up hardware design with AI,SiliconANGLE News,2026-06-08T20:50:57Z,0.0,Neutral,0.0,Neutral
+NVDA,Cipher Digital raises $810 million in junk bonds to build another Amazon data centre in Texas,The Next Web,2026-06-08T20:18:03Z,0.0,Neutral,0.1779,Positive
+NVDA,SpaceX’s $75 billion IPO is well oversubscribed as order books close ahead of Wednesday pricing,The Next Web,2026-06-08T17:39:38Z,0.0,Neutral,0.2732,Positive
+NVDA,The gravity of the SpaceX IPO,Freerepublic.com,2026-06-08T17:23:12Z,0.0,Neutral,0.0,Neutral
+NVDA,This Cybersecurity ETF Just Surged 39% in a Single Month. The YTD Is Even Better.,24/7 Wall St.,2026-06-08T17:00:14Z,0.2142857142857143,Positive,0.4404,Positive
+NVDA,The AI trade’s worst day in a year became a buying opportunity by Monday,Fortune,2026-06-08T16:58:33Z,-1.0,Negative,-0.3182,Negative
+NVDA,"Got $25,000? Broadcom or Qualcomm: The Clear Winner for Growth Investors This Year",24/7 Wall St.,2026-06-08T16:47:29Z,0.09999999999999999,Positive,0.8402,Positive
+NVDA,Jim Cramer Warns: AI Stocks Face 50% Crash Without Earnings Growth,24/7 Wall St.,2026-06-08T16:47:00Z,0.0,Neutral,-0.6467,Negative
+NVDA,Transcript: Chris Davis of Davis Funds,Ritholtz.com,2026-06-08T16:30:45Z,0.0,Neutral,0.0,Neutral
+NVDA,Intel gains on report that Google will use it to make chips,Financial Post,2026-06-08T16:30:31Z,0.0,Neutral,0.34,Positive
+NVDA,This Stock Is My Biggest Bet For June,24/7 Wall St.,2026-06-08T16:25:23Z,0.0,Neutral,0.0,Neutral
+NVDA,UFO ETF Faces a Concentration Crisis as Virgin Galactic Surge Becomes Unsustainable,24/7 Wall St.,2026-06-08T16:00:56Z,0.0,Neutral,-0.6249,Negative
+NVDA,"The Warsh-Trump Honeymoon Is Officially Over. No Matter What Happens Next, the Stock Market Will Probably Lose",24/7 Wall St.,2026-06-08T15:48:04Z,0.0,Neutral,-0.5859,Negative
+NVDA,Marvell's S&P 500 Inclusion Could Spark Fresh ETF Buying Despite Valuation Concerns,Yahoo Entertainment,2026-06-08T15:46:41Z,0.3,Positive,0.4939,Positive
+NVDA,AI Is Slowing Down,Wheresyoured.at,2026-06-08T15:46:37Z,-0.15555555555555556,Negative,0.0,Neutral
+NVDA,Nebius Is Up Nearly 175% This Year—Here's What's Driving the Latest Run,MarketBeat,2026-06-08T15:45:00Z,0.3,Positive,0.0,Neutral
+NVDA,Is AI riding a bubble?,BusinessLine,2026-06-08T15:42:30Z,0.0,Neutral,0.0,Neutral
+NVDA,Jim Cramer Says NVIDIA Stock Has Been “Playing a Game of Shoots and Ladders”,Yahoo Entertainment,2026-06-08T15:34:33Z,-0.4,Negative,0.0,Neutral
+NVDA,"Is Micron Technology, Inc. (MU) A Good Stock To Buy Now?",Yahoo Entertainment,2026-06-08T15:24:05Z,0.7,Positive,0.4404,Positive
+NVDA,Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?,Yahoo Entertainment,2026-06-08T15:21:42Z,0.7,Positive,0.4404,Positive
+NVDA,Escorts are charging as much as $6k per hour thanks to Silicon Valley’s AI boom,New York Post,2026-06-08T15:19:16Z,0.2,Positive,0.4404,Positive
+NVDA,"Why is the US stock market rallying big today? Dow Jones, S&P 500 and Nasdaq surge on AI boom — Nvidia and Intel jump as Nasdaq significantly outperformed both the Dow and S&P",The Times of India,2026-06-08T15:07:20Z,0.1875,Positive,0.0,Neutral
+NVDA,Dell's new Nvidia RTX Spark mini PC has distinct Mac Studio vibes — and I think it could tempt buyers away from Apple given its current stock woes,TechRadar,2026-06-08T15:05:10Z,0.14545454545454545,Positive,-0.25,Negative
+NVDA,"On theCUBE Pod: Snowflake, Cisco and the race to control the AI stack",SiliconANGLE News,2026-06-08T14:59:16Z,0.0,Neutral,0.0,Neutral
+NVDA,"Intel Surges 12% as Hitachi Pact, Google-NVIDIA Foundry Buzz Fuel an AI Comeback",24/7 Wall St.,2026-06-08T14:59:03Z,0.0,Neutral,0.0,Neutral
+NVDA,Forget Marvell: 1 Unstoppable Semiconductor Stock to Buy Hand Over Fist After the Market Pullback,24/7 Wall St.,2026-06-08T14:56:21Z,0.0,Neutral,0.128,Positive
+NVDA,Nvidia Shares Advance 1.6% as AI Demand Fuels Continued Semiconductor Strength,Ibtimes.com.au,2026-06-08T14:52:26Z,0.0,Neutral,0.5994,Positive
+NVDA,Intel Foundry comeback! Is a bigger Intel stock surge ahead? INTC shares surge 9.16% today as Google’s 3 million TPU order and Nvidia testing fuel Intel’s AI revival,The Times of India,2026-06-08T14:38:43Z,0.0,Neutral,0.3595,Positive
+NVDA,Nvidia Stock Will Trade at This Price in 2027,24/7 Wall St.,2026-06-08T14:27:47Z,0.0,Neutral,0.0,Neutral
+NVDA,"Buy, Sell, or Hold: CoreWeave at $100",24/7 Wall St.,2026-06-08T14:15:11Z,0.0,Neutral,0.0,Neutral
+NVDA,"Stocks making the biggest moves premarket: Nvidia, Marvell, Flex and more - CNBC",Slashdot.org,2026-06-08T14:13:09Z,0.5,Positive,0.0,Neutral
+NVDA,US Stocks Rebound From Selloff as Nvidia Leads Big-Tech Gains,Financial Post,2026-06-08T14:07:28Z,0.0,Neutral,0.34,Positive
+NVDA,US market today: Alphabet taps Intel to make three million in-house chips: Report,The Times of India,2026-06-08T14:02:03Z,0.0,Neutral,0.0,Neutral
+NVDA,"Iran announces 'end of military operations' against Israel, but warns Lebanon strikes could trigger escalation - CNBC",Slashdot.org,2026-06-08T13:33:23Z,-0.1,Negative,-0.5927,Negative
+NVDA,Amazon’s billion-dollar Corning deal shows fibre is the new bottleneck in the AI build-out,The Next Web,2026-06-08T13:18:15Z,0.13636363636363635,Positive,0.0,Neutral
+NVDA,"TQQQ Turned $10,000 Into $353,789, but Friday’s 14% Crash Shows Leverage Cuts Both Ways",24/7 Wall St.,2026-06-08T13:14:23Z,0.0,Neutral,-0.7469,Negative
+NVDA,Is Micron Quietly Preparing for the Collapse in AI Demand?,24/7 Wall St.,2026-06-08T13:02:25Z,0.0,Neutral,-0.5719,Negative
+NVDA,Cerebras shares climb as Wall Street brokerages back AI chip strategy,The Times of India,2026-06-08T12:53:26Z,0.0,Neutral,0.296,Positive
+NVDA,Cerebras shares climb as Wall Street brokerages back AI chip strategy,CNA,2026-06-08T12:52:42Z,0.0,Neutral,0.296,Positive
+NVDA,SpaceX Has a Plan for AI That Sounds Like Pure Science Fiction. How It Impacts Your Wealth,24/7 Wall St.,2026-06-08T12:44:37Z,0.21428571428571427,Positive,0.6908,Positive
+NVDA,Amazon strikes multibillion-dollar deal with Corning to power AI data centers in U.S.,CNBC,2026-06-08T12:35:01Z,0.0,Neutral,-0.2023,Negative
+NVDA,Elon Musk Announces Google AI Infrastructure Deal Days Ahead of SpaceX IPO,Breitbart News,2026-06-08T12:16:50Z,0.0,Neutral,0.0,Neutral
+NVDA,"Dow Jones| Nasdaq | US Stock Market Today | Live: S&P 500, Nasdaq futures edge higher as chip stocks regain footing",Economictimes.com,2026-06-08T12:16:41Z,0.19318181818181818,Positive,0.0,Neutral
+NVDA,"Why ROM Holders Watched $10,000 Evaporate to $8,655 When NVIDIA and Broadcom Stumbled on Friday",24/7 Wall St.,2026-06-08T12:14:57Z,0.0,Neutral,0.0,Neutral
+NVDA,Marvell stock surges on S&P 500 inclusion,Yahoo Entertainment,2026-06-08T12:12:42Z,0.0,Neutral,0.0,Neutral
+NVDA,NVIDIA Corporation (NVDA) is a Cheap Robotics Stock to buy as the Vera CPU Tops on Autonomous Functions,Yahoo Entertainment,2026-06-08T12:01:20Z,0.4,Positive,0.5106,Positive
+NVDA,"The iShares Korea ETF (EWY) Dropped 14% in Its Most Brutal Session in Six Years, and It Started With Broadcom",24/7 Wall St.,2026-06-08T12:00:15Z,-0.1875,Negative,-0.659,Negative
+NVDA,Marvell shares jump after chipmaker wins spot in S&P 500,CNA,2026-06-08T11:56:40Z,0.3,Positive,0.7096,Positive
+NVDA,Marvell shares jump after chipmaker wins spot in S&P 500,Yahoo Entertainment,2026-06-08T11:56:40Z,0.3,Positive,0.7096,Positive
+NVDA,Inside the Mouth-Watering Numbers Justifying SpaceX’s $1.75 Trillion IPO,24/7 Wall St.,2026-06-08T11:52:55Z,0.7,Positive,0.0,Neutral
+NVDA,Nvidia CEO says selloff in tech stocks is a buying opportunity,Financial Post,2026-06-08T11:45:25Z,0.0,Neutral,0.4215,Positive
+NVDA,Palantir CEO Alex Karp Says He's Been Warning AI Leaders For Months About Nationalization Risks: 'The Momentum Is On The Side Of People Who...',Yahoo Entertainment,2026-06-08T11:31:08Z,0.0,Neutral,-0.5423,Negative
+NVDA,Nvidia signs multi-year memory chip deal with SK Hynix,Quartz India,2026-06-08T11:17:50Z,0.0,Neutral,0.0,Neutral
+NVDA,"Vulnerability Summary for the Week of June 1, 2026",Cisa.gov,2026-06-08T11:15:41Z,0.0,Neutral,-0.2263,Negative
+NVDA,The 3x Leverage That Built a 192% Year Just Took Back 18% in Hours,24/7 Wall St.,2026-06-08T11:00:50Z,0.0,Neutral,0.0,Neutral
+NVDA,ASML Holding N.V. (ASML) Is A Top AI Stock In Billionaire Ken Fisher’s Portfolio,Yahoo Entertainment,2026-06-08T10:56:25Z,0.5,Positive,0.2023,Positive
+NVDA,NVIDIA (NVDA) Is A Top AI Stock In Billionaire Ken Fisher’s Portfolio,Yahoo Entertainment,2026-06-08T10:53:44Z,0.5,Positive,0.2023,Positive
+NVDA,The Stock Market's Biggest Winners And Losers Of 2026 So Far,Forbes,2026-06-08T10:30:00Z,-0.05,Negative,-0.0772,Negative
+NVDA,"Sensex today | Stock Market Highlights: Sensex settles at 73,524.26, down 719.08 pts (0.97%); Nifty ends at 23,123, down 243.70 pts (1.04%)",BusinessLine,2026-06-08T10:28:12Z,-0.15555555555555556,Negative,0.4019,Positive
+NVDA,Nvidia deepens South Korea ties through new AI partnerships (NVDA),Advfn.com,2026-06-08T10:18:31Z,0.13636363636363635,Positive,0.0,Neutral
+NVDA,AI Trade Unwind Rocks Korean Traders Leveraged for One-Way Bet,Yahoo Entertainment,2026-06-08T09:40:51Z,0.0,Neutral,0.0,Neutral
+NVDA,Wall Street says Apple can't afford a miss on AI at this year's WWDC,Business Insider,2026-06-08T09:40:02Z,0.0,Neutral,0.1139,Positive
+NVDA,"SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD",24/7 Wall St.,2026-06-08T09:30:49Z,0.0,Neutral,0.0,Neutral
+NVDA,"11:11 | Tensions in West Asia flare up, crude oil, Zverev wins Roland Garros, Philippines earthquake and more",CNBCTV18,2026-06-08T09:19:20Z,0.03333333333333335,Positive,-0.4019,Negative
+NVDA,Nvidia clinches deals with South Korean giants,RTE,2026-06-08T09:01:07Z,0.0,Neutral,0.0,Neutral
+NVDA,"Stock market today: Dow, S&P 500, Nasdaq jump as chip stocks rebound, Iran and Israel exchange strikes",Yahoo Entertainment,2026-06-08T08:53:10Z,0.0,Neutral,-0.3612,Negative
+NVDA,Boost Run (BRUN) Debuts on Nasdaq With $940M in Backed Contracted Revenue,Yahoo Entertainment,2026-06-08T08:26:27Z,0.0,Neutral,0.4215,Positive
+NVDA,From AI Optimism to Monetary Tightening Concerns: What China’s Market Drop Signals | Business,Devdiscourse,2026-06-08T06:54:29Z,0.0,Neutral,0.34,Positive
+NVDA,Dan Loeb says $5 trillion Nvidia is still undervalued,Business Insider,2026-06-08T06:36:35Z,0.0,Neutral,0.0,Neutral
+NVDA,South Korea's KOSPI craters nearly 9% as Fed fears hammer tech stocks,CNA,2026-06-08T06:32:03Z,0.1,Positive,-0.4215,Negative
+NVDA,South Korea's KOSPI craters nearly 9% as Fed fears hammer tech stocks,CNA,2026-06-08T06:32:03Z,0.1,Positive,-0.4215,Negative
+NVDA,Tech stocks plunge in Asia after record rally and renewed Middle East attacks,BBC News,2026-06-08T06:26:52Z,0.0,Neutral,-0.4404,Negative
+NVDA,Why I Can’t Wait for the AI Bubble to Crash,Naturalnews.com,2026-06-08T06:00:00Z,0.0,Neutral,-0.4019,Negative
+NVDA,"Wipro, TCS drag Nifty IT 2% lower after Nasdaq crash, AI selloff",BusinessLine,2026-06-08T05:32:12Z,-0.1,Negative,-0.4767,Negative
+NVDA,Circuit breakers triggered as South Korean market craters nearly 9%,The Irish Times,2026-06-08T05:28:57Z,0.1,Positive,0.0,Neutral
+NVDA,NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories - NVIDIA Newsroom,Slashdot.org,2026-06-08T05:12:17Z,0.0,Neutral,0.0,Neutral
+NVDA,South Korea's KOSPI dives nearly 9% as Fed fears hammer tech stocks,The Times of India,2026-06-08T04:17:38Z,0.1,Positive,-0.4215,Negative
+NVDA,Nvidia falls below $5T market cap after single-day wipeout erases $320B,Crypto Briefing,2026-06-08T02:40:24Z,0.0,Neutral,0.0,Neutral
+NVDA,"China, HK stocks open lower as global tech selloff spreads to Asia",The Times of India,2026-06-08T02:13:27Z,0.0,Neutral,-0.296,Negative
+NVDA,"U.S. Stock Market prediction for Monday: Nasdaq, S&P 500, Dow Jones crash to continue in Wall Street? These factors will determine",The Times of India,2026-06-08T01:32:42Z,0.0,Neutral,-0.4019,Negative
+NVDA,"Nvidia partners with South Korea’s SK Hynix, Naver and Doosan to expand the country’s AI infrastructure",SiliconANGLE News,2026-06-08T01:30:16Z,0.0,Neutral,0.3182,Positive
+NVDA,US stocks slump as fears over Big Tech shake Wall Street,Crypto Briefing,2026-06-07T23:04:16Z,0.0,Neutral,-0.5423,Negative
+NVDA,Our systems editor flew all the way to Taiwan and still couldn't get away from AI,Theregister.com,2026-06-07T23:00:00Z,0.0,Neutral,0.0,Neutral
+NVDA,NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories,GlobeNewswire,2026-06-07T23:00:00Z,0.0,Neutral,0.0,Neutral
+AMZN,Tim Cook bows out with a very Tim Cook keynote,Mashable,2026-06-09T02:28:40Z,0.2,Positive,0.0,Neutral
+AMZN,"Bestselling global brand behind cult buy with over 47,000 five-star ratings launches on Amazon Australia",Dailymail.com,2026-06-09T01:38:37Z,-0.2,Negative,0.1779,Positive
+AMZN,"ED summons Zepto founders ahead of IPO over foreign investments, financial disclosures",Moneycontrol,2026-06-09T01:32:18Z,-0.0625,Negative,0.0,Neutral
+AMZN,OpenAI joins rival Anthropic in race to Wall Street,The Times of India,2026-06-09T01:18:20Z,0.0,Neutral,0.0,Neutral
+AMZN,OpenAI files for US IPO after Anthropic as AI giants head to public markets,The Times of India,2026-06-09T01:17:50Z,0.0,Neutral,0.0,Neutral
+AMZN,Motopower OBD2 Diagnostic Scan Tool for $20 + free shipping w/ Prime,Dealnews.com,2026-06-09T00:46:31Z,0.4,Positive,0.5106,Positive
+AMZN,27-Piece Car Detailing Kit for $23 + free shipping w/ Prime,Dealnews.com,2026-06-09T00:28:46Z,0.4,Positive,0.5106,Positive
+AMZN,Under Armour Men's Project Rock One E.l.f. Hoodie for from $11 + free shipping w/ Prime,Dealnews.com,2026-06-09T00:27:12Z,0.4,Positive,0.5106,Positive
+AMZN,"OpenAI IPO: ChatGPT maker files for US Stock Market initial public offering after Anthropic, SpaceX",The Times of India,2026-06-09T00:10:00Z,0.0,Neutral,0.0,Neutral
+AMZN,S'well 64-oz. Stainless Steel Salad Bowl Kit for $22 + free shipping w/ Prime,Dealnews.com,2026-06-09T00:01:51Z,0.30000000000000004,Positive,0.5106,Positive
+AMZN,S'well 64-oz. Stainless Steel Salad Bowl Kit for $22 + free shipping w/ Prime,Dealnews.com,2026-06-09T00:01:51Z,0.30000000000000004,Positive,0.5106,Positive
+AMZN,Tire Inflator Portable Air Compressor for $30 + free shipping,Dealnews.com,2026-06-08T23:56:00Z,0.4,Positive,0.5106,Positive
+AMZN,3 ASX stocks I'd buy during a sharemarket crash,Motley Fool Australia,2026-06-08T23:53:50Z,0.0,Neutral,-0.4019,Negative
+AMZN,Toto Drake Elongated Two-Piece Tornado Flush Toilet for $290 + free shipping,Dealnews.com,2026-06-08T23:41:10Z,0.18333333333333335,Positive,0.5106,Positive
+AMZN,Amazon inks multibillion-dollar optical manufacturing deal with Corning,SiliconANGLE News,2026-06-08T23:14:17Z,0.0,Neutral,0.1779,Positive
+AMZN,"Apple Watch Series 11 hits Apple’s refurbished store, but is it the best deal?",Cult of Mac,2026-06-08T22:32:16Z,1.0,Positive,0.7783,Positive
+AMZN,Tech giant OpenAI files for US initial public offering,Al Jazeera English,2026-06-08T22:23:40Z,0.0,Neutral,0.0,Neutral
+AMZN,"Save your skin, protect your wallet: 7 SPF early Prime Day deals",New York Post,2026-06-08T22:11:07Z,0.1,Positive,0.7003,Positive
+AMZN,ChatGPT maker OpenAI files for IPO looking to capitalize on investor appetite for AI boom,New York Post,2026-06-08T22:02:59Z,0.0,Neutral,0.0,Neutral
+AMZN,OpenAI Files For U.S. IPO After Anthropic As AI Giants Head To Public Markets,HuffPost,2026-06-08T22:00:58Z,0.0,Neutral,0.0,Neutral
+AMZN,10000mAh Emergency Crank Radio for $24 + free shipping w/ Prime,Dealnews.com,2026-06-08T21:51:52Z,0.4,Positive,0.1779,Positive
+AMZN,OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic,Wired,2026-06-08T21:31:58Z,0.0,Neutral,0.0,Neutral
+AMZN,OpenAI files for US IPO after Anthropic as AI giants head to public markets,CNA,2026-06-08T21:17:00Z,0.0,Neutral,0.0,Neutral
+AMZN,"I quit Safari for Chrome, but these new MacOS 27 features could pull me back",ZDNet,2026-06-08T21:12:50Z,0.06818181818181818,Positive,0.0,Neutral
+AMZN,Brother HL-L5210DW Monochrome Laser Printer for $220 + free shipping w/ Prime,Dealnews.com,2026-06-08T21:10:33Z,0.4,Positive,0.5106,Positive
+AMZN,AI Stock Boom May Have Just Resumed,Newser,2026-06-08T20:46:00Z,0.0,Neutral,0.0,Neutral
+AMZN,Ring Battery Doorbell (2024) 2-Pack for $90 + free shipping,Dealnews.com,2026-06-08T20:19:23Z,0.4,Positive,0.5106,Positive
+AMZN,Cipher Digital raises $810 million in junk bonds to build another Amazon data centre in Texas,The Next Web,2026-06-08T20:18:03Z,0.0,Neutral,0.1779,Positive
+AMZN,Everything you need to know about Prime Day 2026,The Verge,2026-06-08T20:06:26Z,0.0,Neutral,0.0,Neutral
+AMZN,"Best early Prime Day camping deals: Up to 40% off tents, grills, outdoor fans and more",Fox News,2026-06-08T19:58:27Z,0.5333333333333333,Positive,0.6369,Positive
+AMZN,"Best Amazon deals under $50 before Prime Day: Skechers, Sony, Blink and more",Fox News,2026-06-08T19:09:17Z,0.75,Positive,0.7096,Positive
+AMZN,Stock Up On Tide Pods! 168 Tide Pods For $21.98-$27.17 After Rebate!,Dansdeals.com,2026-06-08T19:06:05Z,0.0,Neutral,0.0,Neutral
+AMZN,"6"" Herding Soccer Ball for Dogs for $12 + free shipping w/ Prime",Dealnews.com,2026-06-08T18:45:00Z,0.4,Positive,0.5106,Positive
+AMZN,Stock up now: Emergency essentials are up to 45% off ahead of Prime Day,Fox News,2026-06-08T18:11:57Z,0.0,Neutral,-0.3818,Negative
+AMZN,"The Bigger Meaning Of $10,000 Invested In Amazon Twenty Years Ago",Forbes,2026-06-08T18:00:59Z,0.0,Neutral,0.1779,Positive
+AMZN,Okk Kids' DIY Robot Building Kit for $30 + free shipping,Dealnews.com,2026-06-08T17:48:54Z,0.4,Positive,0.5106,Positive
+AMZN,"12"" Remote Control Boat for $45 + free shipping",Dealnews.com,2026-06-08T17:46:59Z,0.15000000000000002,Positive,0.5106,Positive
+AMZN,The Best Deals Our CNET Shopping Experts Found This Week,CNET,2026-06-08T17:43:00Z,1.0,Positive,0.6369,Positive
+AMZN,SpaceX’s $75 billion IPO is well oversubscribed as order books close ahead of Wednesday pricing,The Next Web,2026-06-08T17:39:38Z,0.0,Neutral,0.2732,Positive
+AMZN,Useless Box for $14 + free shipping w/ Prime,Dealnews.com,2026-06-08T17:37:45Z,-0.04999999999999999,Negative,0.128,Positive
+AMZN,"Augason Farms Freeze Dried Sliced Strawberries Can, 18 Servings Can – Just $17.10!",Commonsensewithmoney.com,2026-06-08T17:30:28Z,-0.25,Negative,0.126,Positive
+AMZN,What’s that noise? This 50% off security camera lets you check from your phone,New York Post,2026-06-08T17:30:00Z,0.0,Neutral,0.34,Positive
+AMZN,Skip the subscription: Sleepers claim cheaper alarm has ‘more features’,New York Post,2026-06-08T17:30:00Z,0.5,Positive,-0.34,Negative
+AMZN,The gravity of the SpaceX IPO,Freerepublic.com,2026-06-08T17:23:12Z,0.0,Neutral,0.0,Neutral
+AMZN,This ‘little speaker with power’ will make your next beach party feel like a music festival,New York Post,2026-06-08T17:06:37Z,-0.09375,Negative,0.8126,Positive
+AMZN,Kelgyua Wireless Handheld Microphone System for $75 + free shipping,Dealnews.com,2026-06-08T16:54:31Z,0.4,Positive,0.5106,Positive
+AMZN,‘Untouched’ powder is dubbed a gut health miracle — and it’s on sale before Prime Day,New York Post,2026-06-08T16:37:00Z,0.0,Neutral,0.5859,Positive
+AMZN,Transcript: Chris Davis of Davis Funds,Ritholtz.com,2026-06-08T16:30:45Z,0.0,Neutral,0.0,Neutral
+AMZN,"Early Prime Day fishing and hunting deals worth grabbing now, starting at $18",Fox News,2026-06-08T16:17:19Z,0.13333333333333333,Positive,0.2263,Positive
+AMZN,Magnetic Reversible Ratcheting Screwdriver for $4 + free shipping w/ $25,Dealnews.com,2026-06-08T15:55:57Z,0.4,Positive,0.5574,Positive
+AMZN,5-Foot Toilet Waterproof Strip for $2 + free shipping w/ $25,Dealnews.com,2026-06-08T15:51:32Z,0.18333333333333335,Positive,0.5106,Positive
+AMZN,5-Foot Toilet Waterproof Strip for $2 + free shipping w/ $25,Dealnews.com,2026-06-08T15:51:32Z,0.18333333333333335,Positive,0.5106,Positive
+AMZN,AI Is Slowing Down,Wheresyoured.at,2026-06-08T15:46:37Z,-0.15555555555555556,Negative,0.0,Neutral
+AMZN,Wearable Quick-Dry Bath Towel for $3 + free shipping w/ $25,Dealnews.com,2026-06-08T15:44:17Z,0.4,Positive,0.5106,Positive
+AMZN,Adjustable Jar & Bottle Opener for $2 + free shipping w/ $25,Dealnews.com,2026-06-08T15:39:37Z,0.4,Positive,0.5106,Positive
+AMZN,"Pega expands AI platform with agent orchestration, development tools and new pricing model",SiliconANGLE News,2026-06-08T15:30:06Z,0.13636363636363635,Positive,0.1027,Positive
+AMZN,"Is Amazon.com, Inc. (AMZN) A Good Stock To Buy Now?",Yahoo Entertainment,2026-06-08T15:25:48Z,0.7,Positive,0.4404,Positive
+AMZN,Is Apple Inc. (AAPL) A Good Stock To Buy Now?,Yahoo Entertainment,2026-06-08T15:19:57Z,0.7,Positive,0.4404,Positive
+AMZN,J-B Weld PlasticWeld Quick-Setting Epoxy Syringe for $5 + free shipping w/ Prime,Dealnews.com,2026-06-08T15:19:09Z,0.4,Positive,0.5106,Positive
+AMZN,Food Decision Dice for $2 + free shipping w/ Prime,Dealnews.com,2026-06-08T15:17:04Z,0.4,Positive,0.5106,Positive
+AMZN,Electric Toilet Brush for $7 + free shipping w/ Prime,Dealnews.com,2026-06-08T15:15:07Z,0.18333333333333335,Positive,0.5106,Positive
+AMZN,Alphabet GOOG Stock 2026 Outlook: Strong AI Momentum Makes It a Buy for Long-Term Investors,Ibtimes.com.au,2026-06-08T14:50:30Z,0.43333333333333335,Positive,0.5106,Positive
+AMZN,"18.1"" 3D Hologram Fan for $54.50 + free shipping",Dealnews.com,2026-06-08T14:41:34Z,0.4,Positive,0.6808,Positive
+AMZN,Bell Global Equities Fund Bets on MercadoLibre (MELI) Amid Weakness,Yahoo Entertainment,2026-06-08T14:37:05Z,0.0,Neutral,-0.4215,Negative
+AMZN,The Math on SpaceX’s IPO Is Virtually Impossible,Futurism,2026-06-08T14:37:00Z,-0.6666666666666666,Negative,0.0,Neutral
+AMZN,Redsack 5-in-1 Electric Wine Decanter and Smart Liquor Dispenser for $47 + free shipping,Dealnews.com,2026-06-08T14:26:29Z,0.30714285714285716,Positive,0.7184,Positive
+AMZN,Heads up: Early Prime Day deal now live on AirPods Pro 3 down at $199 via Amazon,9to5Toys,2026-06-08T14:19:00Z,0.026936026936026935,Positive,0.1779,Positive
+AMZN,AstroAI Pressure Washer Gun w/ 4 Nozzles for $25 + free shipping w/ Prime,Dealnews.com,2026-06-08T14:13:47Z,0.4,Positive,-0.0772,Negative
+AMZN,AstroAI Pressure Washer Gun w/ 4 Nozzles for $25 + free shipping w/ Prime,Dealnews.com,2026-06-08T14:13:47Z,0.4,Positive,-0.0772,Negative
+AMZN,Isolation of bioactive compounds from the petroleum ether soluble fraction of Eichhornia crassipes (Mart.) Solms flowers with dual evaluation: In silico studies of isolated molecules and in vitro/in vivo activities of the extract,Plos.org,2026-06-08T14:00:00Z,0.0,Neutral,-0.6124,Negative
+AMZN,Is Prime Day the best time to buy a TV?,Business Insider,2026-06-08T13:57:28Z,1.0,Positive,0.6369,Positive
+AMZN,Looking to tackle wrinkles? This ELEMIS serum is 20% off before Prime Day,New York Post,2026-06-08T13:55:00Z,0.0,Neutral,0.0,Neutral
+AMZN,Apple investors pin hopes on WWDC AI overhaul to ignite next stock surge,Macdailynews.com,2026-06-08T13:52:56Z,0.0,Neutral,0.4215,Positive
+AMZN,"I didn’t expect this Shark blow dryer deal before Prime Day, but here we are",New York Post,2026-06-08T13:41:52Z,0.0,Neutral,0.0,Neutral
+AMZN,Homyhomey Leather Accent Chair for $44.50 in cart + free shipping,Dealnews.com,2026-06-08T13:37:17Z,0.4,Positive,0.5106,Positive
+AMZN,Xiaomi 17T review: Value smartphone done right,The Times of India,2026-06-08T13:35:04Z,0.2857142857142857,Positive,0.34,Positive
+AMZN,House Again Bristle-Free Grill Brush with Scraper for $15 + free shipping w/ Prime,Dealnews.com,2026-06-08T13:25:30Z,0.4,Positive,0.5106,Positive
+AMZN,Make up for the headaches you gave him with this ‘relaxing’ $60 Father’s Day find,New York Post,2026-06-08T13:22:48Z,0.0,Neutral,0.0,Neutral
+AMZN,Amazon’s billion-dollar Corning deal shows fibre is the new bottleneck in the AI build-out,The Next Web,2026-06-08T13:18:15Z,0.13636363636363635,Positive,0.0,Neutral
+AMZN,"TQQQ Turned $10,000 Into $353,789, but Friday’s 14% Crash Shows Leverage Cuts Both Ways",24/7 Wall St.,2026-06-08T13:14:23Z,0.0,Neutral,-0.7469,Negative
+AMZN,Celebeauty 110000 RPM Hair Dryer Blow Dryer for $33 + free shipping w/ Prime,Dealnews.com,2026-06-08T13:12:05Z,0.4,Positive,0.5106,Positive
+AMZN,Viltrox AF 75mmF1.8 and 90mmF2.2 EVO Lenses Available Now – First Reviews,Fujirumors.com,2026-06-08T13:01:44Z,0.325,Positive,0.0,Neutral
+AMZN,Cerebras shares climb as Wall Street brokerages back AI chip strategy,The Times of India,2026-06-08T12:53:26Z,0.0,Neutral,0.296,Positive
+AMZN,"Bates Choice 7"" Nail Puller for $9 + free shipping w/ Prime",Dealnews.com,2026-06-08T12:47:59Z,0.4,Positive,0.5106,Positive
+AMZN,SpaceX Has a Plan for AI That Sounds Like Pure Science Fiction. How It Impacts Your Wealth,24/7 Wall St.,2026-06-08T12:44:37Z,0.21428571428571427,Positive,0.6908,Positive
+AMZN,Nexera Technologies: Subsidiary Fort Technology Commences Trading on Nasdaq Under Ticker “FRTT” Today,GlobeNewswire,2026-06-08T12:36:00Z,0.0,Neutral,0.0,Neutral
+AMZN,Amazon strikes multibillion-dollar deal with Corning to power AI data centers in U.S.,CNBC,2026-06-08T12:35:01Z,0.0,Neutral,-0.2023,Negative
+AMZN,Kitsure Bamboo Cutting Board for $10 + free shipping w/ Prime,Dealnews.com,2026-06-08T12:32:43Z,-0.09999999999999998,Negative,0.4215,Positive
+AMZN,Little Giant 115V Automatic Condensate Removal Pump for $51 + free shipping,Dealnews.com,2026-06-08T12:29:45Z,0.07083333333333335,Positive,0.5106,Positive
+AMZN,Dominator Mulch Anchor 1-Gal. Mulch Glue & Gravel Binder for $44 via Sub. & Save + free shipping,Dealnews.com,2026-06-08T12:25:11Z,0.4,Positive,0.7184,Positive
+AMZN,Easy Lunch Idea! Kraft Easy Mac Microwavable Macaroni & Cheese ( Pack of 18) {Amazon} | 25¢ a Pack,Livingrichwithcoupons.com,2026-06-08T12:15:04Z,0.48750000000000004,Positive,0.7263,Positive
+AMZN,What is agentic commerce? A peek into the future of buying (with caveats),Yoast.com,2026-06-08T11:55:36Z,0.0,Neutral,0.0,Neutral
+AMZN,Double-Sided Multipurpose Cloth 12-Pack for $4 + free shipping w/ Prime,Dealnews.com,2026-06-08T11:50:04Z,0.4,Positive,0.5106,Positive
+AMZN,Flush 'n Sparkle Cartridge Refill 2-Pack for $11 + free shipping w/ Prime,Dealnews.com,2026-06-08T11:46:32Z,0.4,Positive,0.7269,Positive
+AMZN,The Making of Middle-Earth: The Worlds of Tolkien and The Lord of the Rings Hardcover Book for $14 w/ Prime + free shipping,Dealnews.com,2026-06-08T11:32:59Z,0.4,Positive,0.5106,Positive
+AMZN,Tools & Home Improvement Early Prime Day Deals at Amazon: Up to 50% off + free shipping w/ Prime,Dealnews.com,2026-06-08T11:21:37Z,0.25,Positive,0.7906,Positive
+AMZN,Coloer Low Voltage Landscape Lighting Kit 8-Pack for $43 w/ Prime + free shipping,Dealnews.com,2026-06-08T11:20:29Z,0.2,Positive,0.296,Positive
+AMZN,"Vulnerability Summary for the Week of June 1, 2026",Cisa.gov,2026-06-08T11:15:41Z,0.0,Neutral,-0.2263,Negative
+AMZN,Furniture and Mattresses Early Prime Day Deals at Amazon: Up to 35% off + free shipping w/ Prime,Dealnews.com,2026-06-08T11:09:12Z,0.25,Positive,0.6124,Positive
+GOOGL,OpenAI joins rival Anthropic in race to Wall Street,The Times of India,2026-06-09T01:18:20Z,0.0,Neutral,0.0,Neutral
+GOOGL,OpenAI files for US IPO after Anthropic as AI giants head to public markets,The Times of India,2026-06-09T01:17:50Z,0.0,Neutral,0.0,Neutral
+GOOGL,"Google upgrades NotebookLM to Gemini 3.5, adds more coding features",SiliconANGLE News,2026-06-09T00:49:22Z,0.5,Positive,0.0,Neutral
+GOOGL,"OpenAI IPO: ChatGPT maker files for US Stock Market initial public offering after Anthropic, SpaceX",The Times of India,2026-06-09T00:10:00Z,0.0,Neutral,0.0,Neutral
+GOOGL,Tech giant OpenAI files for US initial public offering,Al Jazeera English,2026-06-08T22:23:40Z,0.0,Neutral,0.0,Neutral
+GOOGL,OpenAI Files For U.S. IPO After Anthropic As AI Giants Head To Public Markets,HuffPost,2026-06-08T22:00:58Z,0.0,Neutral,0.0,Neutral
+GOOGL,OpenAI files for US IPO after Anthropic as AI giants head to public markets,CNA,2026-06-08T21:17:00Z,0.0,Neutral,0.0,Neutral
+GOOGL,Cipher Digital raises $810 million in junk bonds to build another Amazon data centre in Texas,The Next Web,2026-06-08T20:18:03Z,0.0,Neutral,0.1779,Positive
+GOOGL,"US stocks: S&P 500, Nasdaq end up as tech, chipmakers rebound",The Times of India,2026-06-08T20:02:24Z,0.0,Neutral,0.0,Neutral
+GOOGL,SpaceX’s $75 billion IPO is well oversubscribed as order books close ahead of Wednesday pricing,The Next Web,2026-06-08T17:39:38Z,0.0,Neutral,0.2732,Positive
+GOOGL,The gravity of the SpaceX IPO,Freerepublic.com,2026-06-08T17:23:12Z,0.0,Neutral,0.0,Neutral
+GOOGL,Intel gains on report that Google will use it to make chips,Financial Post,2026-06-08T16:30:31Z,0.0,Neutral,0.34,Positive
+GOOGL,"Apple stock price prediction after WWDC 2026: With Apple (AAPL) trading near its all-time high of $302.25, will AI-powered Siri drive the stock above $400?",The Times of India,2026-06-08T16:19:14Z,0.08666666666666667,Positive,0.0,Neutral
+GOOGL,Alphabet GOOG Stock 2026 Outlook: Strong AI Momentum Makes It a Buy for Long-Term Investors,Ibtimes.com.au,2026-06-08T14:50:30Z,0.43333333333333335,Positive,0.5106,Positive
+GOOGL,Alphabet taps company veteran for principal accounting post,CFO Dive,2026-06-08T14:27:24Z,0.0,Neutral,0.0,Neutral
+GOOGL,"U.S. Stock Market prediction for Monday: Nasdaq, S&P 500, Dow Jones crash to continue in Wall Street? These factors will determine",The Times of India,2026-06-08T01:32:42Z,0.0,Neutral,-0.4019,Negative
+GOOGL,Alberto Romero on Apple’s AI Spending,Thealgorithmicbridge.com,2026-06-08T00:55:56Z,0.0,Neutral,0.0,Neutral
+GOOGL,SpaceX’s IPO will also be a massive selling event triggering big price dislocations across the stock market as investors dump shares to buy SPCX,Fortune,2026-06-07T20:39:06Z,0.0,Neutral,-0.1027,Negative
+GOOGL,SpaceX’s IPO will also be a massive selling event triggering big price dislocations across the stock market as investors dump shares to buy SPCX,Yahoo Entertainment,2026-06-07T20:39:06Z,0.0,Neutral,-0.1027,Negative
+GOOGL,Bill Maher’s New Rule: How the kids must “fix” AI,Whyevolutionistrue.com,2026-06-07T16:15:27Z,0.13636363636363635,Positive,0.0,Neutral
+GOOGL,"AIQ Turned $10,000 Into $13,400 in Six Months as AI Chips Soared 34% YTD",24/7 Wall St.,2026-06-07T11:00:06Z,0.0,Neutral,0.0,Neutral
+GOOGL,I spent years investing into Google’s ecosystem — and now I’m regretting it,Android Authority,2026-06-07T10:30:41Z,-0.1,Negative,-0.4019,Negative
+GOOGL,Meta weighs raising tens of billions in stock offering after Google deal,Crypto Briefing,2026-06-07T05:39:00Z,0.0,Neutral,0.0,Neutral
+GOOGL,Rupee hits 96 against USD: How can falling currency impact your investments and how to protect them?,Livemint,2026-06-07T02:30:19Z,0.0,Neutral,0.25,Positive
+GOOGL,Fed's Mary Daly has blunt message for AI stock investors,TheStreet,2026-06-06T19:13:00Z,0.0,Neutral,0.0,Neutral
+GOOGL,Piper Sandler Raises PT on Alphabet (GOOGL) Stock,Yahoo Entertainment,2026-06-06T17:24:37Z,0.0,Neutral,0.0,Neutral
+GOOGL,Jim Cramer Believes “Alphabet Could Raise Serious Money”,Yahoo Entertainment,2026-06-06T15:05:57Z,-0.3333333333333333,Negative,-0.0772,Negative
+GOOGL,Warren Buffett's Berkshire triples stake in newspaper giant,TheStreet,2026-06-06T14:37:00Z,0.0,Neutral,0.0,Neutral
+GOOGL,"Meta, Google Could Be Among Winners As FCC Proposes New Undersea Cable Rules Targeting China Risk",Yahoo Entertainment,2026-06-06T14:31:26Z,0.13636363636363635,Positive,0.25,Positive
+GOOGL,"Abel goes his own way with new Berkshire investments, including billions for AI",CNBC,2026-06-06T12:31:02Z,0.36818181818181817,Positive,0.0,Neutral
+GOOGL,Google will pay SpaceX $920 million a month for AI compute as Musk turns a data centre built for Grok into a cash machine,The Next Web,2026-06-06T09:23:50Z,0.0,Neutral,-0.1027,Negative
+GOOGL,Alphabet Stock vs Microsoft Stock: Which Stock To Buy in 2026?,Ibtimes.com.au,2026-06-06T08:03:06Z,0.0,Neutral,0.0,Neutral
+GOOGL,Wall Street suffers worst hit of 2026 so far amid massive stock sell-off,ABC News (AU),2026-06-06T01:16:29Z,-0.375,Negative,-0.802,Negative
+GOOGL,Google Agrees to Pay SpaceX $920 Million Monthly for AI Compute,pymnts.com,2026-06-06T00:13:56Z,0.0,Neutral,0.1027,Positive
+GOOGL,"S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday’s selloff",MarketWatch,2026-06-05T22:27:00Z,0.0,Neutral,-0.2732,Negative
+GOOGL,What Is The Biggest Threat To Google Stock?,Trefis,2026-06-05T20:07:03Z,0.0,Neutral,-0.5267,Negative
+GOOGL,Google will pay SpaceX $920M per month for compute | TechCrunch,TechCrunch,2026-06-05T18:57:20Z,0.0,Neutral,-0.1027,Negative
+GOOGL,Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO,CNBC,2026-06-05T16:59:20Z,0.0,Neutral,0.0,Neutral
+GOOGL,Barchart’s Expert Stock Screener Explains Everything You Need to Know About Options Trading,Barchart.com,2026-06-05T16:37:50Z,0.0,Neutral,0.0,Neutral
+GOOGL,Citi revisits Broadcom stock price target after post-earnings selloff,TheStreet,2026-06-05T15:52:25Z,0.0,Neutral,0.0,Neutral
+GOOGL,Jim Cramer Highlights Alphabet’s Expensive New Capital Needs,Yahoo Entertainment,2026-06-05T14:14:16Z,-0.18181818181818182,Negative,0.0,Neutral
+GOOGL,"After filing for its IPO, Anthropic says AI should slow down. Fat chance.",SiliconANGLE News,2026-06-05T14:00:33Z,-0.2277777777777778,Negative,0.25,Positive
+GOOGL,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite,CNBC,2026-06-05T12:00:01Z,0.3,Positive,-0.0772,Negative
+GOOGL,Do We Need Billionaires?,Bjhess.com,2026-06-05T11:34:43Z,0.0,Neutral,0.0,Neutral
+GOOGL,Why Broadcom (AVGO) Shares Are Trading Lower Today - Yahoo Finance,Slashdot.org,2026-06-05T11:12:45Z,0.0,Neutral,0.0,Neutral
+GOOGL,Silicon Valley’s Biggest Payday. Yet!,Om.co,2026-06-05T05:45:00Z,0.0,Neutral,0.0,Neutral
+GOOGL,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Japan Today,2026-06-04T21:56:59Z,0.39999999999999997,Positive,0.3182,Positive
+GOOGL,Warren Buffett successor Greg Abel leads Berkshire Hathaway $10B Alphabet stock investment—Why is Big Tech shift accelerating now?,The Times of India,2026-06-04T21:09:28Z,0.0,Neutral,0.2263,Positive
+GOOGL,"Wall Street Analyst: Broadcom’s Flat AI Guidance Justified the Selloff, but Nvidia Remains Best-in-Class Chip Play",24/7 Wall St.,2026-06-04T20:18:56Z,0.1875,Positive,0.6059,Positive
+GOOGL,AI Spending Has Been Huge. Now It Could Be Entering a 'Rational' Phase. Is That Good for Markets?,Investopedia,2026-06-04T16:56:39Z,0.5499999999999999,Positive,0.6369,Positive
+GOOGL,What Suno’s $5.4 billion valuation says about the future of AI and music—and what remains uncertain,Fortune,2026-06-04T16:40:56Z,0.0,Neutral,-0.296,Negative
+GOOGL,Prediction: Google Stock Will Hit $600 on This Date,24/7 Wall St.,2026-06-04T14:45:20Z,0.0,Neutral,0.0,Neutral
+GOOGL,"Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $437 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Over 283 Million WLD Tokens",PRNewswire,2026-06-04T12:30:00Z,0.033333333333333326,Positive,0.0,Neutral
+GOOGL,"Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $437 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Over 283 Million WLD Tokens",PR Newswire UK,2026-06-04T12:30:00Z,0.033333333333333326,Positive,0.0,Neutral
+GOOGL,Is Alphabet Stock Underperforming the Nasdaq?,Barchart.com,2026-06-04T12:03:07Z,0.0,Neutral,0.0,Neutral
+GOOGL,Alphabet raises $84.75B in upsized equity offering to fund massive AI buildout,Crypto Briefing,2026-06-04T08:13:35Z,0.0,Neutral,0.0,Neutral
+GOOGL,"Ark Invest buys 267,582 shares of Google in $96M bet on Alphabet’s AI future",Crypto Briefing,2026-06-04T07:50:36Z,0.0,Neutral,0.296,Positive
+GOOGL,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Midland Reporter-Telegram,2026-06-04T05:32:22Z,0.39999999999999997,Positive,0.3182,Positive
+GOOGL,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,WPLG Local 10,2026-06-04T05:31:04Z,0.39999999999999997,Positive,0.3182,Positive
+GOOGL,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,The Times of India,2026-06-04T04:40:58Z,0.39999999999999997,Positive,0.3182,Positive
+GOOGL,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Abcnews.com,2026-06-04T04:29:30Z,0.39999999999999997,Positive,0.3182,Positive
+GOOGL,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Abcnews.com,2026-06-04T04:26:34Z,0.39999999999999997,Positive,0.3182,Positive
+GOOGL,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Abcnews.com,2026-06-04T04:25:04Z,0.39999999999999997,Positive,0.3182,Positive
+GOOGL,Google's AI race gets costlier as Alphabet upsizes equity raise to $84.75 billion,Livemint,2026-06-04T03:26:58Z,0.0,Neutral,0.0,Neutral
+GOOGL,Warren Buffett's Berkshire Hathaway doubles down on Google,TheStreet,2026-06-03T23:17:00Z,-0.15555555555555556,Negative,0.0,Neutral
+GOOGL,Alphabet raises $85B in equity offering to fund AI ambitions,Crypto Briefing,2026-06-03T23:11:26Z,0.0,Neutral,0.0,Neutral
+GOOGL,Google parent Alphabet raises AI funding target to $84.75 billion in massive equity offering,Crypto Briefing,2026-06-03T22:02:10Z,0.0,Neutral,0.0,Neutral
+GOOGL,"Alphabet just raised $85 billion for AI, smashing the largest equity offering in history",The Next Web,2026-06-03T21:14:56Z,0.0,Neutral,0.0,Neutral
+GOOGL,UK orders Google to provide AI Overviews opt-out option for publishers,SiliconANGLE News,2026-06-03T20:50:03Z,0.0,Neutral,0.0,Neutral
+GOOGL,Alphabet Increases Record-Breaking Stock Offering to Feed AI Demand,pymnts.com,2026-06-03T19:43:06Z,0.0,Neutral,-0.128,Negative
+GOOGL,Alphabet's record-breaking $85B raise for Google's AI business is a helluva good signal | TechCrunch,TechCrunch,2026-06-03T19:40:43Z,0.7,Positive,0.4404,Positive
+GOOGL,Google raises $80 billion in equity offering with Berkshire Hathaway’s backing,Crypto Briefing,2026-06-03T18:54:21Z,0.0,Neutral,0.0258,Neutral
+GOOGL,Google Adds AI Visibility Reports to Search Console,CMSWire,2026-06-03T17:35:25Z,0.0,Neutral,0.0,Neutral
+GOOGL,"AI spending from 4 tech giants will exceed the GDP of Japan through 2030, Goldman says",Business Insider,2026-06-03T16:03:43Z,0.0,Neutral,0.0,Neutral
+GOOGL,Alphabet to raise $84.75 billion in upsized equity offering to fund AI ambitions,Yahoo Entertainment,2026-06-03T15:36:03Z,0.0,Neutral,0.0,Neutral
+GOOGL,Alphabet to raise $84.75 billion in upsized equity offering to fund AI ambitions,CNA,2026-06-03T15:36:03Z,0.0,Neutral,0.0,Neutral
+GOOGL,"‘IPL is done, get back to business’: Why Uday Kotak thinks Google’s $80 billion raise is a wake-up call for India Inc",The Times of India,2026-06-03T14:48:33Z,0.0,Neutral,0.0,Neutral
+GOOGL,Buffett’s Berkshire Hathaway Just Made its First Major AI Investment: Here’s the Next AI Buy It Could Make with its $400 Billion Pile of Cash,24/7 Wall St.,2026-06-03T14:03:15Z,0.10416666666666667,Positive,0.0,Neutral
+GOOGL,Alphabet's $80 billion stock sale shows how expensive AI is getting: Chart of the Day,Yahoo Entertainment,2026-06-03T14:01:53Z,-0.5,Negative,0.0,Neutral
+GOOGL,Berkshire Under Buffett’s Successor Makes $10 Billion AI Bet,24/7 Wall St.,2026-06-03T12:11:21Z,0.0,Neutral,0.2263,Positive
+GOOGL,Goldman’s Solomon sees ‘more greed than fear’ in AI market,Bankingdive.com,2026-06-03T12:01:50Z,0.5,Positive,-0.4019,Negative
+GOOGL,"When IPOs go wrong: SpaceX, AI firms face a delicate process",The Times of India,2026-06-03T10:31:56Z,-0.4,Negative,-0.4404,Negative
+GOOGL,"When IPOs go wrong: SpaceX, AI firms face a delicate process",Yahoo Entertainment,2026-06-03T10:03:56Z,-0.4,Negative,-0.4404,Negative
+GOOGL,"When IPOs go wrong: SpaceX, AI firms face a delicate process",CNA,2026-06-03T10:03:56Z,-0.4,Negative,-0.4404,Negative
+GOOGL,Google keeps finding new ways to crash the stock market's AI party,Business Insider,2026-06-03T09:50:01Z,0.13636363636363635,Positive,0.0,Neutral
+GOOGL,Goldman Sachs and TD Cowen Maintain Buy Ratings on Alphabet (GOOGL) After AI Announcements at Google I/O,Yahoo Entertainment,2026-06-03T08:19:59Z,0.0,Neutral,0.0,Neutral
+GOOGL,"Uday Kotak's 'Wake-Up Call' To Companies, Urges India Inc To Invest In Future",Free Press Journal,2026-06-03T07:44:24Z,0.0,Neutral,0.0,Neutral
+GOOGL,"Alphabet's $80 billion stock sale leaves Wall Street in 'unprecedented territory,' says Goldman's Gutman",CNBC,2026-06-03T07:42:36Z,0.6,Positive,0.0,Neutral
+GOOGL,AI stock surge drives S&P 500 to record high as NZ market slips – Market close,New Zealand Herald,2026-06-03T06:16:46Z,0.16,Positive,0.0,Neutral
+GOOGL,Japan’s stock market hits new record as AI boom gathers steam,Al Jazeera English,2026-06-03T05:56:30Z,0.13636363636363635,Positive,0.0,Neutral
+GOOGL,Google is investing $80 billion in AI,GSMArena.com,2026-06-03T04:55:01Z,0.0,Neutral,0.0,Neutral
+GOOGL,"Uday Kotak’s AI-wake up call: As IPL ends, Asia's richest banker says 'time for India to focus on business' after Google’s $80 billion raise",The Times of India,2026-06-03T04:19:49Z,0.0,Neutral,0.5267,Positive
+GOOGL,"Time for India to focus on business of business, says Uday Kotak",The Times of India,2026-06-03T04:11:04Z,0.0,Neutral,0.0,Neutral
+GOOGL,AI has a water problem. Google thinks it has a fix,The Verge,2026-06-03T02:31:38Z,0.0,Neutral,-0.4019,Negative
+GOOGL,The 'Next $1T Company' Just Had Its Best Day Ever,Newser,2026-06-02T20:50:00Z,0.5,Positive,0.6369,Positive
+GOOG,OpenAI joins rival Anthropic in race to Wall Street,The Times of India,2026-06-09T01:18:20Z,0.0,Neutral,0.0,Neutral
+GOOG,OpenAI files for US IPO after Anthropic as AI giants head to public markets,The Times of India,2026-06-09T01:17:50Z,0.0,Neutral,0.0,Neutral
+GOOG,"Google upgrades NotebookLM to Gemini 3.5, adds more coding features",SiliconANGLE News,2026-06-09T00:49:22Z,0.5,Positive,0.0,Neutral
+GOOG,"OpenAI IPO: ChatGPT maker files for US Stock Market initial public offering after Anthropic, SpaceX",The Times of India,2026-06-09T00:10:00Z,0.0,Neutral,0.0,Neutral
+GOOG,Tech giant OpenAI files for US initial public offering,Al Jazeera English,2026-06-08T22:23:40Z,0.0,Neutral,0.0,Neutral
+GOOG,OpenAI Files For U.S. IPO After Anthropic As AI Giants Head To Public Markets,HuffPost,2026-06-08T22:00:58Z,0.0,Neutral,0.0,Neutral
+GOOG,OpenAI files for US IPO after Anthropic as AI giants head to public markets,CNA,2026-06-08T21:17:00Z,0.0,Neutral,0.0,Neutral
+GOOG,Cipher Digital raises $810 million in junk bonds to build another Amazon data centre in Texas,The Next Web,2026-06-08T20:18:03Z,0.0,Neutral,0.1779,Positive
+GOOG,"US stocks: S&P 500, Nasdaq end up as tech, chipmakers rebound",The Times of India,2026-06-08T20:02:24Z,0.0,Neutral,0.0,Neutral
+GOOG,SpaceX’s $75 billion IPO is well oversubscribed as order books close ahead of Wednesday pricing,The Next Web,2026-06-08T17:39:38Z,0.0,Neutral,0.2732,Positive
+GOOG,The gravity of the SpaceX IPO,Freerepublic.com,2026-06-08T17:23:12Z,0.0,Neutral,0.0,Neutral
+GOOG,Intel gains on report that Google will use it to make chips,Financial Post,2026-06-08T16:30:31Z,0.0,Neutral,0.34,Positive
+GOOG,"Apple stock price prediction after WWDC 2026: With Apple (AAPL) trading near its all-time high of $302.25, will AI-powered Siri drive the stock above $400?",The Times of India,2026-06-08T16:19:14Z,0.08666666666666667,Positive,0.0,Neutral
+GOOG,Alphabet GOOG Stock 2026 Outlook: Strong AI Momentum Makes It a Buy for Long-Term Investors,Ibtimes.com.au,2026-06-08T14:50:30Z,0.43333333333333335,Positive,0.5106,Positive
+GOOG,Alphabet taps company veteran for principal accounting post,CFO Dive,2026-06-08T14:27:24Z,0.0,Neutral,0.0,Neutral
+GOOG,"U.S. Stock Market prediction for Monday: Nasdaq, S&P 500, Dow Jones crash to continue in Wall Street? These factors will determine",The Times of India,2026-06-08T01:32:42Z,0.0,Neutral,-0.4019,Negative
+GOOG,Alberto Romero on Apple’s AI Spending,Thealgorithmicbridge.com,2026-06-08T00:55:56Z,0.0,Neutral,0.0,Neutral
+GOOG,SpaceX’s IPO will also be a massive selling event triggering big price dislocations across the stock market as investors dump shares to buy SPCX,Fortune,2026-06-07T20:39:06Z,0.0,Neutral,-0.1027,Negative
+GOOG,SpaceX’s IPO will also be a massive selling event triggering big price dislocations across the stock market as investors dump shares to buy SPCX,Yahoo Entertainment,2026-06-07T20:39:06Z,0.0,Neutral,-0.1027,Negative
+GOOG,Bill Maher’s New Rule: How the kids must “fix” AI,Whyevolutionistrue.com,2026-06-07T16:15:27Z,0.13636363636363635,Positive,0.0,Neutral
+GOOG,"AIQ Turned $10,000 Into $13,400 in Six Months as AI Chips Soared 34% YTD",24/7 Wall St.,2026-06-07T11:00:06Z,0.0,Neutral,0.0,Neutral
+GOOG,I spent years investing into Google’s ecosystem — and now I’m regretting it,Android Authority,2026-06-07T10:30:41Z,-0.1,Negative,-0.4019,Negative
+GOOG,Meta weighs raising tens of billions in stock offering after Google deal,Crypto Briefing,2026-06-07T05:39:00Z,0.0,Neutral,0.0,Neutral
+GOOG,Rupee hits 96 against USD: How can falling currency impact your investments and how to protect them?,Livemint,2026-06-07T02:30:19Z,0.0,Neutral,0.25,Positive
+GOOG,Fed's Mary Daly has blunt message for AI stock investors,TheStreet,2026-06-06T19:13:00Z,0.0,Neutral,0.0,Neutral
+GOOG,Piper Sandler Raises PT on Alphabet (GOOGL) Stock,Yahoo Entertainment,2026-06-06T17:24:37Z,0.0,Neutral,0.0,Neutral
+GOOG,Jim Cramer Believes “Alphabet Could Raise Serious Money”,Yahoo Entertainment,2026-06-06T15:05:57Z,-0.3333333333333333,Negative,-0.0772,Negative
+GOOG,Warren Buffett's Berkshire triples stake in newspaper giant,TheStreet,2026-06-06T14:37:00Z,0.0,Neutral,0.0,Neutral
+GOOG,"Meta, Google Could Be Among Winners As FCC Proposes New Undersea Cable Rules Targeting China Risk",Yahoo Entertainment,2026-06-06T14:31:26Z,0.13636363636363635,Positive,0.25,Positive
+GOOG,"Abel goes his own way with new Berkshire investments, including billions for AI",CNBC,2026-06-06T12:31:02Z,0.36818181818181817,Positive,0.0,Neutral
+GOOG,Google will pay SpaceX $920 million a month for AI compute as Musk turns a data centre built for Grok into a cash machine,The Next Web,2026-06-06T09:23:50Z,0.0,Neutral,-0.1027,Negative
+GOOG,Alphabet Stock vs Microsoft Stock: Which Stock To Buy in 2026?,Ibtimes.com.au,2026-06-06T08:03:06Z,0.0,Neutral,0.0,Neutral
+GOOG,Wall Street suffers worst hit of 2026 so far amid massive stock sell-off,ABC News (AU),2026-06-06T01:16:29Z,-0.375,Negative,-0.802,Negative
+GOOG,Google Agrees to Pay SpaceX $920 Million Monthly for AI Compute,pymnts.com,2026-06-06T00:13:56Z,0.0,Neutral,0.1027,Positive
+GOOG,"S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday’s selloff",MarketWatch,2026-06-05T22:27:00Z,0.0,Neutral,-0.2732,Negative
+GOOG,What Is The Biggest Threat To Google Stock?,Trefis,2026-06-05T20:07:03Z,0.0,Neutral,-0.5267,Negative
+GOOG,Google will pay SpaceX $920M per month for compute | TechCrunch,TechCrunch,2026-06-05T18:57:20Z,0.0,Neutral,-0.1027,Negative
+GOOG,Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO,CNBC,2026-06-05T16:59:20Z,0.0,Neutral,0.0,Neutral
+GOOG,Barchart’s Expert Stock Screener Explains Everything You Need to Know About Options Trading,Barchart.com,2026-06-05T16:37:50Z,0.0,Neutral,0.0,Neutral
+GOOG,Citi revisits Broadcom stock price target after post-earnings selloff,TheStreet,2026-06-05T15:52:25Z,0.0,Neutral,0.0,Neutral
+GOOG,Jim Cramer Highlights Alphabet’s Expensive New Capital Needs,Yahoo Entertainment,2026-06-05T14:14:16Z,-0.18181818181818182,Negative,0.0,Neutral
+GOOG,"After filing for its IPO, Anthropic says AI should slow down. Fat chance.",SiliconANGLE News,2026-06-05T14:00:33Z,-0.2277777777777778,Negative,0.25,Positive
+GOOG,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite,CNBC,2026-06-05T12:00:01Z,0.3,Positive,-0.0772,Negative
+GOOG,Do We Need Billionaires?,Bjhess.com,2026-06-05T11:34:43Z,0.0,Neutral,0.0,Neutral
+GOOG,Why Broadcom (AVGO) Shares Are Trading Lower Today - Yahoo Finance,Slashdot.org,2026-06-05T11:12:45Z,0.0,Neutral,0.0,Neutral
+GOOG,Silicon Valley’s Biggest Payday. Yet!,Om.co,2026-06-05T05:45:00Z,0.0,Neutral,0.0,Neutral
+GOOG,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Japan Today,2026-06-04T21:56:59Z,0.39999999999999997,Positive,0.3182,Positive
+GOOG,Warren Buffett successor Greg Abel leads Berkshire Hathaway $10B Alphabet stock investment—Why is Big Tech shift accelerating now?,The Times of India,2026-06-04T21:09:28Z,0.0,Neutral,0.2263,Positive
+GOOG,"Wall Street Analyst: Broadcom’s Flat AI Guidance Justified the Selloff, but Nvidia Remains Best-in-Class Chip Play",24/7 Wall St.,2026-06-04T20:18:56Z,0.1875,Positive,0.6059,Positive
+GOOG,AI Spending Has Been Huge. Now It Could Be Entering a 'Rational' Phase. Is That Good for Markets?,Investopedia,2026-06-04T16:56:39Z,0.5499999999999999,Positive,0.6369,Positive
+GOOG,What Suno’s $5.4 billion valuation says about the future of AI and music—and what remains uncertain,Fortune,2026-06-04T16:40:56Z,0.0,Neutral,-0.296,Negative
+GOOG,Prediction: Google Stock Will Hit $600 on This Date,24/7 Wall St.,2026-06-04T14:45:20Z,0.0,Neutral,0.0,Neutral
+GOOG,"Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $437 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Over 283 Million WLD Tokens",PRNewswire,2026-06-04T12:30:00Z,0.033333333333333326,Positive,0.0,Neutral
+GOOG,"Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $437 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Over 283 Million WLD Tokens",PR Newswire UK,2026-06-04T12:30:00Z,0.033333333333333326,Positive,0.0,Neutral
+GOOG,Is Alphabet Stock Underperforming the Nasdaq?,Barchart.com,2026-06-04T12:03:07Z,0.0,Neutral,0.0,Neutral
+GOOG,Alphabet raises $84.75B in upsized equity offering to fund massive AI buildout,Crypto Briefing,2026-06-04T08:13:35Z,0.0,Neutral,0.0,Neutral
+GOOG,"Ark Invest buys 267,582 shares of Google in $96M bet on Alphabet’s AI future",Crypto Briefing,2026-06-04T07:50:36Z,0.0,Neutral,0.296,Positive
+GOOG,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Midland Reporter-Telegram,2026-06-04T05:32:22Z,0.39999999999999997,Positive,0.3182,Positive
+GOOG,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,WPLG Local 10,2026-06-04T05:31:04Z,0.39999999999999997,Positive,0.3182,Positive
+GOOG,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,The Times of India,2026-06-04T04:40:58Z,0.39999999999999997,Positive,0.3182,Positive
+GOOG,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Abcnews.com,2026-06-04T04:29:30Z,0.39999999999999997,Positive,0.3182,Positive
+GOOG,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Abcnews.com,2026-06-04T04:26:34Z,0.39999999999999997,Positive,0.3182,Positive
+GOOG,AI companies are barreling toward huge Wall Street debuts. A look at the biggest players,Abcnews.com,2026-06-04T04:25:04Z,0.39999999999999997,Positive,0.3182,Positive
+GOOG,Google's AI race gets costlier as Alphabet upsizes equity raise to $84.75 billion,Livemint,2026-06-04T03:26:58Z,0.0,Neutral,0.0,Neutral
+GOOG,Warren Buffett's Berkshire Hathaway doubles down on Google,TheStreet,2026-06-03T23:17:00Z,-0.15555555555555556,Negative,0.0,Neutral
+GOOG,Alphabet raises $85B in equity offering to fund AI ambitions,Crypto Briefing,2026-06-03T23:11:26Z,0.0,Neutral,0.0,Neutral
+GOOG,Google parent Alphabet raises AI funding target to $84.75 billion in massive equity offering,Crypto Briefing,2026-06-03T22:02:10Z,0.0,Neutral,0.0,Neutral
+GOOG,"Alphabet just raised $85 billion for AI, smashing the largest equity offering in history",The Next Web,2026-06-03T21:14:56Z,0.0,Neutral,0.0,Neutral
+GOOG,UK orders Google to provide AI Overviews opt-out option for publishers,SiliconANGLE News,2026-06-03T20:50:03Z,0.0,Neutral,0.0,Neutral
+GOOG,Alphabet Increases Record-Breaking Stock Offering to Feed AI Demand,pymnts.com,2026-06-03T19:43:06Z,0.0,Neutral,-0.128,Negative
+GOOG,Alphabet's record-breaking $85B raise for Google's AI business is a helluva good signal | TechCrunch,TechCrunch,2026-06-03T19:40:43Z,0.7,Positive,0.4404,Positive
+GOOG,Google raises $80 billion in equity offering with Berkshire Hathaway’s backing,Crypto Briefing,2026-06-03T18:54:21Z,0.0,Neutral,0.0258,Neutral
+GOOG,Google Adds AI Visibility Reports to Search Console,CMSWire,2026-06-03T17:35:25Z,0.0,Neutral,0.0,Neutral
+GOOG,"AI spending from 4 tech giants will exceed the GDP of Japan through 2030, Goldman says",Business Insider,2026-06-03T16:03:43Z,0.0,Neutral,0.0,Neutral
+GOOG,Alphabet to raise $84.75 billion in upsized equity offering to fund AI ambitions,Yahoo Entertainment,2026-06-03T15:36:03Z,0.0,Neutral,0.0,Neutral
+GOOG,Alphabet to raise $84.75 billion in upsized equity offering to fund AI ambitions,CNA,2026-06-03T15:36:03Z,0.0,Neutral,0.0,Neutral
+GOOG,"‘IPL is done, get back to business’: Why Uday Kotak thinks Google’s $80 billion raise is a wake-up call for India Inc",The Times of India,2026-06-03T14:48:33Z,0.0,Neutral,0.0,Neutral
+GOOG,Buffett’s Berkshire Hathaway Just Made its First Major AI Investment: Here’s the Next AI Buy It Could Make with its $400 Billion Pile of Cash,24/7 Wall St.,2026-06-03T14:03:15Z,0.10416666666666667,Positive,0.0,Neutral
+GOOG,Alphabet's $80 billion stock sale shows how expensive AI is getting: Chart of the Day,Yahoo Entertainment,2026-06-03T14:01:53Z,-0.5,Negative,0.0,Neutral
+GOOG,Berkshire Under Buffett’s Successor Makes $10 Billion AI Bet,24/7 Wall St.,2026-06-03T12:11:21Z,0.0,Neutral,0.2263,Positive
+GOOG,Goldman’s Solomon sees ‘more greed than fear’ in AI market,Bankingdive.com,2026-06-03T12:01:50Z,0.5,Positive,-0.4019,Negative
+GOOG,"When IPOs go wrong: SpaceX, AI firms face a delicate process",The Times of India,2026-06-03T10:31:56Z,-0.4,Negative,-0.4404,Negative
+GOOG,"When IPOs go wrong: SpaceX, AI firms face a delicate process",Yahoo Entertainment,2026-06-03T10:03:56Z,-0.4,Negative,-0.4404,Negative
+GOOG,"When IPOs go wrong: SpaceX, AI firms face a delicate process",CNA,2026-06-03T10:03:56Z,-0.4,Negative,-0.4404,Negative
+GOOG,Google keeps finding new ways to crash the stock market's AI party,Business Insider,2026-06-03T09:50:01Z,0.13636363636363635,Positive,0.0,Neutral
+GOOG,Goldman Sachs and TD Cowen Maintain Buy Ratings on Alphabet (GOOGL) After AI Announcements at Google I/O,Yahoo Entertainment,2026-06-03T08:19:59Z,0.0,Neutral,0.0,Neutral
+GOOG,"Uday Kotak's 'Wake-Up Call' To Companies, Urges India Inc To Invest In Future",Free Press Journal,2026-06-03T07:44:24Z,0.0,Neutral,0.0,Neutral
+GOOG,"Alphabet's $80 billion stock sale leaves Wall Street in 'unprecedented territory,' says Goldman's Gutman",CNBC,2026-06-03T07:42:36Z,0.6,Positive,0.0,Neutral
+GOOG,AI stock surge drives S&P 500 to record high as NZ market slips – Market close,New Zealand Herald,2026-06-03T06:16:46Z,0.16,Positive,0.0,Neutral
+GOOG,Japan’s stock market hits new record as AI boom gathers steam,Al Jazeera English,2026-06-03T05:56:30Z,0.13636363636363635,Positive,0.0,Neutral
+GOOG,Google is investing $80 billion in AI,GSMArena.com,2026-06-03T04:55:01Z,0.0,Neutral,0.0,Neutral
+GOOG,"Uday Kotak’s AI-wake up call: As IPL ends, Asia's richest banker says 'time for India to focus on business' after Google’s $80 billion raise",The Times of India,2026-06-03T04:19:49Z,0.0,Neutral,0.5267,Positive
+GOOG,"Time for India to focus on business of business, says Uday Kotak",The Times of India,2026-06-03T04:11:04Z,0.0,Neutral,0.0,Neutral
+GOOG,AI has a water problem. Google thinks it has a fix,The Verge,2026-06-03T02:31:38Z,0.0,Neutral,-0.4019,Negative
+GOOG,The 'Next $1T Company' Just Had Its Best Day Ever,Newser,2026-06-02T20:50:00Z,0.5,Positive,0.6369,Positive
+META,Donald Trump lures in two new financial backers for UFC ahead of Freedom 250,"HITC - Football, Gaming, Movies, TV, Music",2026-06-08T18:30:00Z,0.06818181818181818,Positive,0.6369,Positive
+META,SpaceX IPO: What risks should investors consider? What to do if you don't get SpaceX IPO allocation?,The Times of India,2026-06-08T00:27:03Z,0.0,Neutral,-0.3527,Negative
+META,AMGEN PRESENTS NEW DATA ACROSS ITS CARDIOMETABOLIC PORTFOLIO AT AMERICAN DIABETES ASSOCIATION 86TH SCIENTIFIC SESSIONS,PRNewswire,2026-06-07T20:45:00Z,0.06818181818181818,Positive,0.0,Neutral
+META,Meta considers massive stock offering to fund AI expansion as Big Tech races for capital,Crypto Briefing,2026-06-07T15:55:15Z,0.0,Neutral,0.0,Neutral
+META,Meta Platforms plans massive stock sale to fund $145B AI investments,Crypto Briefing,2026-06-07T09:58:16Z,0.0,Neutral,0.0,Neutral
+META,Rupee hits 96 against USD: How can falling currency impact your investments and how to protect them?,Livemint,2026-06-07T02:30:19Z,0.0,Neutral,0.25,Positive
+META,5 Best Growth Stocks For Beginners,Forbes,2026-06-06T10:30:00Z,1.0,Positive,0.7783,Positive
+META,"Convicted short-seller Andrew Left demands mistrial, rerun of case that gripped Wall Street",New York Post,2026-06-05T19:47:15Z,0.0,Neutral,0.0,Neutral
+META,Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO,CNBC,2026-06-05T16:59:20Z,0.0,Neutral,0.0,Neutral
+META,You Might Soon Own a Piece of SpaceX,The Atlantic,2026-06-05T15:25:00Z,0.6,Positive,0.0,Neutral
+META,US companies disclose huge Irish tax payments,The Irish Times,2026-06-05T05:00:01Z,0.19999999999999998,Positive,0.3182,Positive
+META,Mark Zuckerberg gets real with Meta stock investors,TheStreet,2026-06-04T15:56:45Z,0.2,Positive,0.0,Neutral
+META,[NEW] How to Use Meta’s WhatsApp AI Agent in WordPress,Wpbeginner.com,2026-06-04T15:21:32Z,0.13636363636363635,Positive,0.0,Neutral
+META,Modders are turning Ray-Ban Meta glasses into spy gear for as little as $50,Android Authority,2026-06-04T08:23:25Z,-0.1875,Negative,0.0,Neutral
+META,"The Tim Ferriss Show Transcripts: Tim’s Founder Kitchen — From Brainstorm to the President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics) (#868)",Tim.blog,2026-06-03T20:04:19Z,0.0,Neutral,0.0,Neutral
+META,Three Reputable Social Media Marketing Agencies in China 2026: Driving Global Brand Growth Through Digital Engagement,Weeklyvoice.com,2026-06-03T13:22:57Z,0.13333333333333333,Positive,0.6808,Positive
+META,"When IPOs go wrong: SpaceX, AI firms face a delicate process",The Times of India,2026-06-03T10:31:56Z,-0.4,Negative,-0.4404,Negative
+META,"When IPOs go wrong: SpaceX, AI firms face a delicate process",Yahoo Entertainment,2026-06-03T10:03:56Z,-0.4,Negative,-0.4404,Negative
+META,"When IPOs go wrong: SpaceX, AI firms face a delicate process",CNA,2026-06-03T10:03:56Z,-0.4,Negative,-0.4404,Negative
+META,Citizens Reiterates Market Outperform on Meta (META) Following Commerce Expansion,Yahoo Entertainment,2026-06-03T08:20:01Z,0.0,Neutral,0.0,Neutral
+META,"Top 10 richest people in June 2026: Oracle’s Larry Ellison gains $71 billion, Elon Musk tops list",The Indian Express,2026-06-02T13:10:39Z,0.5,Positive,0.872,Positive
+META,Dow Jones| Nasdaq | US Stock Market Today | Live: Wall Street futures dip after record highs; Hewlett Packard soars,Economictimes.com,2026-06-02T11:38:54Z,0.13636363636363635,Positive,0.0,Neutral
+META,Anthropic Eyes an IPO as Big Tech's AI Cash Crunch Comes for Wall Street,CNET,2026-06-01T23:16:03Z,0.0,Neutral,0.0,Neutral
+META,"U.S. Tech Professional Exposes Chinese Enclaves, Discrimination at Facebook/Meta",Breitbart News,2026-05-31T14:29:41Z,0.05,Positive,-0.128,Negative
+META,How should Irish investors react to upcoming $1 trillion AI stock market listings?,TheJournal.ie,2026-05-31T06:00:51Z,0.0,Neutral,0.0,Neutral
+META,Meta has struggled at selling anything other than ads. Will AI be different?,CNBC,2026-05-30T12:00:01Z,-0.0625,Negative,-0.34,Negative
+META,You’re probably already invested in AI,Berkshireeagle.com,2026-05-29T19:53:15Z,0.0,Neutral,0.0,Neutral
+META,"Platformonomics TGIF #128: May 29, 2026",Platformonomics.com,2026-05-29T18:36:15Z,0.0,Neutral,0.6166,Positive
+META,Show HN: Simple news aggregator with source bias meters,Unbiasthenews.com,2026-05-29T18:21:24Z,0.0,Neutral,-0.1027,Negative
+META,Meta vs Microsoft Stocks 2026: Which Tech Giant Is the Better Buy?,Ibtimes.com.au,2026-05-29T14:38:47Z,0.25,Positive,0.4404,Positive
+META,Jim Cramer Says Meta “Has Not Excelled in a Visible Way”,Yahoo Entertainment,2026-05-29T10:49:51Z,0.0,Neutral,-0.3875,Negative
+META,Meta commits $13M in funding for Oversight Board through 2028,Crypto Briefing,2026-05-29T01:05:03Z,0.0,Neutral,0.0258,Neutral
+META,Meta Announces Quarterly Cash Dividend,PRNewswire,2026-05-28T21:56:00Z,0.0,Neutral,0.0,Neutral
+META,Meta (META) Quietly Launches A New Social App,Yahoo Entertainment,2026-05-28T13:14:35Z,0.05656565656565656,Positive,0.0,Neutral
+META,LiveOne (Nasdaq: LVO) Doubles Down on Partnership with Tesla and AI Marketing to Increase ARPUs and Convert 1.1M+ Free Subscribers into Paid Users,GlobeNewswire,2026-05-28T12:31:00Z,0.12222222222222223,Positive,0.6808,Positive
+META,"Client Alert: Texas v. Meta and WhatsApp: A New Front in the Battle Over Encryption, Privacy Marketing, and Consumer Protection",JD Supra,2026-05-28T11:32:38Z,0.13636363636363635,Positive,-0.1027,Negative
+META,"Meta launches paid subscriptions for Instagram, Facebook, WhatsApp",Hurriyet Daily News,2026-05-28T07:00:56Z,0.0,Neutral,0.0,Neutral
+META,"Meta launches paid subscriptions for Instagram, Facebook, WhatsApp",The Times of India,2026-05-28T03:36:53Z,0.0,Neutral,0.0,Neutral
+META,"Meta launches paid subscriptions for Instagram, Facebook, WhatsApp",CNA,2026-05-28T01:39:00Z,0.0,Neutral,0.0,Neutral
+META,"Meta launches paid subscriptions for Instagram, Facebook, WhatsApp",Japan Today,2026-05-27T23:21:15Z,0.0,Neutral,0.0,Neutral
+META,Meta Shares Jump After Company Announces Premium Subscriptions For Facebook And Instagram,Forbes,2026-05-27T21:04:49Z,0.0,Neutral,0.296,Positive
+META,"Meta wants some of that sweet, sweet recurring revenue",Business Insider,2026-05-27T20:30:00Z,0.3,Positive,0.7184,Positive
+META,"Meta is charging for its AI chatbot for the first time, starting at $7.99 a month",The Next Web,2026-05-27T19:30:52Z,0.125,Positive,0.0,Neutral
+META,Eyes roll as Mark Zuckerberg docks his multi-million-dollar superyacht in Seattle harbor... hours after laying off hundreds of Meta employees living in the city,Dailymail.com,2026-05-27T19:05:19Z,0.0,Neutral,0.0,Neutral
+META,"Vox Media, BuzzFeed, and the End of An Era",Adweek,2026-05-27T19:00:00Z,0.0,Neutral,0.0,Neutral
+META,Buy or Sell Meta Stock in 2026? Analysts Weigh AI Strength Against Valuation Concerns,Ibtimes.com.au,2026-05-27T17:23:35Z,0.0,Neutral,0.4939,Positive
+META,"Brazil Social Commerce Market Intelligence Report 2026: Mercado Livre, Shopee and Temu Compete with Meta, YouTube and TikTok as Platform Ecosystems Integrate Commerce Infrastructure - Forecast to 2031",GlobeNewswire,2026-05-27T14:15:00Z,0.03333333333333333,Positive,0.4767,Positive
+META,"AI rally: SK Hynix, Micron Technology join trillion-dollar club; Taiwan bourse overtakes India in market value",The Times of India,2026-05-27T09:41:48Z,0.0,Neutral,0.5574,Positive
+META,"As Micron enters the $1 trillion club, see Jim Cramer’s take on 9 other members",CNBC,2026-05-26T22:24:34Z,-0.125,Negative,0.0,Neutral
+META,1 Mega-Cap Tech Stock With 35% Upside Just Dropped a Reddit-Like App,Barchart.com,2026-05-26T18:41:00Z,0.0,Neutral,0.0,Neutral
+META,"Problematic cryptoasset trading is associated with greater depressive symptoms, anxiety symptoms, and social isolation",Plos.org,2026-05-26T14:00:00Z,0.26666666666666666,Positive,-0.7506,Negative
+META,Microsoft Should Be Thrown Out Of Magnificent 7,24/7 Wall St.,2026-05-26T13:52:01Z,1.0,Positive,0.5994,Positive
+META,Meta’s $125B AI investment questioned as potential misstep,Crypto Briefing,2026-05-26T09:21:11Z,0.0,Neutral,-0.1027,Negative
+META,Divi 5.6 Release Notes,Elegantthemes.com,2026-05-25T14:00:37Z,0.0,Neutral,0.0,Neutral
+META,Why the SpaceX IPO is the talk of Wall Street and beyond,Al Jazeera English,2026-05-25T08:49:27Z,0.0,Neutral,0.0,Neutral
+META,"Billionaire Bill Ackman Pours $2,092,970,000 Into One Asset, Dumps Uber and Two Mag 7 Stocks",The Daily Hodl,2026-05-23T14:00:38Z,0.0,Neutral,-0.0516,Negative
+META,How the H-1B visa replaces American workers,TheBlaze,2026-05-23T13:30:00Z,0.0,Neutral,0.0,Neutral
+META,"Meta launches Forum app, driving Reddit shares down 6%",Crypto Briefing,2026-05-23T01:09:44Z,-0.15555555555555556,Negative,0.296,Positive
+META,Meta’s Latest App Looks Like Reddit,Gizmodo.com,2026-05-22T21:45:13Z,0.5,Positive,0.3612,Positive
+META,"Meta launches Forum, a new app for deeper group discussions",Crypto Briefing,2026-05-22T20:22:29Z,0.13636363636363635,Positive,0.0,Neutral
+META,Reddit stock drops 6% after Meta launches standalone app for online forums,CNBC,2026-05-22T18:34:57Z,0.0,Neutral,0.0,Neutral
+META,"20VC x SaaStr: Anthropic at $900B, Salesforce Spends $300M on Tokens, SpaceX Files for the Biggest IPO in History, and Why the Tech Lash Is Just Beginning",Saastr.com,2026-05-22T12:20:50Z,0.0,Neutral,0.0,Neutral
+META,"Mexico Social Commerce Intelligence Report 2026: A $96.95 Billion Market by 2031 - Meta, Amazon and Mercado Libre Continue to Shape Conversion Dynamics, New Entrants Expand Through TikTok",GlobeNewswire,2026-05-22T10:22:00Z,0.08484848484848484,Positive,0.802,Positive
+META,"After AI layoffs, Newsom orders state government to find ways to ease the pain",KPBS,2026-05-21T20:08:55Z,0.0,Neutral,-0.2023,Negative
+META,Forget 'TechnoKing': Elon Musk will really be king at SpaceX | TechCrunch,TechCrunch,2026-05-21T19:44:01Z,0.2,Positive,-0.2263,Negative
+META,‘Low-cost Asian talent’: How the U.S. is helping foreign workers take American jobs,Wnd.com,2026-05-21T18:09:43Z,-0.041666666666666664,Negative,0.296,Positive
+META,How U.S. Helps Foreign Workers Take American Jobs,Realclearinvestigations.com,2026-05-21T11:30:12Z,-0.0625,Negative,0.3818,Positive
+META,From Saudi Aramco to Alibaba: 7 biggest IPOs before Elon Musk’s SpaceX market debut,Livemint,2026-05-21T02:06:00Z,0.0,Neutral,0.0,Neutral
+META,"Meta Doubles Down, Reassigns 7,000 Employees To AI Teams While Slashing 8,000 Jobs In Mark Zuckerberg's High-Stakes Push: Report",Yahoo Entertainment,2026-05-21T00:31:17Z,-0.15555555555555556,Negative,-0.2732,Negative
+META,Is Meta opening WhatsApp to rival AI chatbots just to avoid tougher EU action? Here's what happened,The Times of India,2026-05-21T00:13:23Z,0.1,Positive,-0.128,Negative
+META,SpaceX is poised to be the biggest IPO ever. Here are the top U.S. deals to date,CNBC,2026-05-20T22:58:32Z,0.5,Positive,0.4215,Positive
+META,Try to Make Any Sense of This Trump Answer on the Future of AI,The New Republic,2026-05-20T20:13:42Z,0.0,Neutral,0.0,Neutral
+META,"California’s Intuit to slash thousands of jobs, cut workforce by 17%, internal memo shows",New York Post,2026-05-20T16:25:50Z,0.0,Neutral,-0.4939,Negative
+META,Meta Stock Rises 0.6% as Layoffs Begin in AI Restructuring Amid Strong Q1 Results,Ibtimes.com.au,2026-05-20T15:46:29Z,0.43333333333333335,Positive,0.5106,Positive
+META,Show HN: MulmoClaude – open-source platform where Claude composes tools and GUIs,Github.com,2026-05-20T15:02:31Z,0.0,Neutral,0.0,Neutral
+META,Animal Spirits: The Fat Pitch For Bears,Awealthofcommonsense.com,2026-05-20T11:15:57Z,0.0,Neutral,0.0,Neutral
+META,Elon Musk’s Plan to Make You Invest in SpaceX,The American Prospect,2026-05-20T09:30:00Z,0.0,Neutral,0.0,Neutral
+META,"Tech layoffs continue as Meta restructures for AI push, LinkedIn cuts over 600 jobs",BusinessLine,2026-05-20T05:30:32Z,0.0,Neutral,-0.296,Negative
+META,"Meta shifts 7,000 employees into four new AI units ahead of mass layoffs",SiliconANGLE News,2026-05-19T22:36:37Z,0.13636363636363635,Positive,0.0,Neutral
+META,"As Meta lays off 10%, 7,000 employees will be moved into AI roles, source says",NBC News,2026-05-19T21:41:22Z,0.0,Neutral,0.0,Neutral
+META,The Spill: Meta’s (META) $145 Billion Bet on Superintelligence,Yahoo Entertainment,2026-05-19T21:28:07Z,0.0,Neutral,0.0,Neutral
+META,"SpaceX Could Face ‘Musk Effect’ With Major Risks After IPO, Analyst Warns",Forbes,2026-05-18T16:42:27Z,0.0625,Positive,-0.3612,Negative
+META,Inside Meta's harsh new AI reality as layoffs begin to hit Zuckerberg's company this week,Dailymail.com,2026-05-18T14:19:37Z,-0.03181818181818183,Negative,-0.4404,Negative
+META,"Trump's Iran threat, Berkshire's airline bet, Lululemon's proxy battle and more in Morning Squawk",CNBC,2026-05-18T12:33:32Z,0.5,Positive,-0.7184,Negative
+META,You Can’t Escape AI Anymore,The Atlantic,2026-05-18T11:30:00Z,0.0,Neutral,0.1779,Positive
+META,How to Setup Author SEO in WordPress to Boost Your Google E-E-A-T,Wpbeginner.com,2026-05-18T10:00:00Z,0.0,Neutral,0.4019,Positive
+META,"EXCLUSIVE: An hour in the Oval Office with the CEO-in-Chief, President Trump",Fortune,2026-05-18T07:00:00Z,0.0,Neutral,0.3034,Positive
+META,US Billionaires Accompanying Trump in China,Globalresearch.ca,2026-05-18T05:28:43Z,0.0,Neutral,0.0,Neutral
+META,"Meta May 20 layoff: As ‘doomsday’ nears, anxious employees stock up on free snacks, charges; apply preemptively",Livemint,2026-05-18T01:53:43Z,0.07500000000000001,Positive,0.0516,Positive
+META,Meta Stock 2026: Buy Recommendation as AI and Advertising Drive Momentum,Ibtimes.com.au,2026-05-16T12:47:05Z,0.0,Neutral,0.0,Neutral
+META,Cobb: Trump's 'Absence of Frontal Lobe Control' Causing Daily Corruption,Breitbart News,2026-05-16T02:48:13Z,-0.00625,Negative,0.0,Neutral
+META,Mark Zuckerberg sends stunning message to Meta employees,TheStreet,2026-05-15T22:17:00Z,0.5,Positive,0.3818,Positive
+META,What you need to know about Nvidia competitor Cerebras after wild IPO,CNBC,2026-05-15T19:11:02Z,0.1,Positive,0.0,Neutral
+META,Bybit Unites Crypto and Traditional Finance in $100M RWA Giveaway Across +400 Global Assets,PR Newswire UK,2026-05-15T15:52:00Z,0.0,Neutral,0.1779,Positive
+META,Bybit Unites Crypto and Traditional Finance in $100M RWA Giveaway Across +400 Global Assets,PRNewswire,2026-05-15T15:35:00Z,0.0,Neutral,0.1779,Positive
+META,How SpaceX stacks up against some of the biggest US IPOs,RTE,2026-05-15T15:13:50Z,0.0,Neutral,0.0,Neutral
+META,How SpaceX stacks up against some of the biggest US IPOs,Yahoo Entertainment,2026-05-15T10:01:44Z,0.0,Neutral,0.0,Neutral
+META,America’s Travel Problem Is Getting Worse,Skift,2026-05-15T09:00:00Z,-0.4,Negative,-0.7003,Negative
+TSLA,"SpaceX’s AI Wing Casts Cloud Over Future Earnings, Leading Experts Say",Forbes,2026-06-09T01:14:02Z,0.0,Neutral,0.0,Neutral
+TSLA,How to buy SpaceX shares as its blockbuster IPO readies for liftoff,CBS News,2026-06-08T21:37:12Z,0.0,Neutral,0.7269,Positive
+TSLA,The mega-IPO wave led by SpaceX and Anthropic has retirees worried about their finances. Their advisors say otherwise.,Business Insider,2026-06-08T21:01:03Z,0.0,Neutral,-0.296,Negative
+TSLA,"Pentagon adds Alibaba, Baidu, BYD, and Unitree to its Chinese military companies list",The Next Web,2026-06-08T19:51:14Z,-0.05,Negative,0.0,Neutral
+TSLA,The gravity of the SpaceX IPO,Freerepublic.com,2026-06-08T17:23:12Z,0.0,Neutral,0.0,Neutral
+TSLA,"At a $1.2 Trillion Market Cap, Is Tesla Stock Overvalued or Undervalued Right Now?",Yahoo Entertainment,2026-06-08T16:35:00Z,0.2857142857142857,Positive,0.0,Neutral
+TSLA,Is AI riding a bubble?,BusinessLine,2026-06-08T15:42:30Z,0.0,Neutral,0.0,Neutral
+TSLA,Tesla Shares Climb 3% in Early Trading Amid Strong EV and AI Sentiment,Ibtimes.com.au,2026-06-08T14:46:06Z,0.26666666666666666,Positive,0.6705,Positive
+TSLA,"Elon Musk Net Worth: From $788,800,000,000 today to a possible $1,000,000,000,000 after SpaceX IPO— How much would each of his 14 children get?",The Times of India,2026-06-08T12:59:25Z,0.125,Positive,0.2263,Positive
+TSLA,Elon Musk Announces Google AI Infrastructure Deal Days Ahead of SpaceX IPO,Breitbart News,2026-06-08T12:16:50Z,0.0,Neutral,0.0,Neutral
+TSLA,Eldorado Gold Announces First Concentrate Produced at McIlvenna Bay,Financial Post,2026-06-08T11:03:38Z,0.25,Positive,0.0,Neutral
+TSLA,The 3x Leverage That Built a 192% Year Just Took Back 18% in Hours,24/7 Wall St.,2026-06-08T11:00:50Z,0.0,Neutral,0.0,Neutral
+TSLA,Elon Musk's market magic,Axios,2026-06-08T11:00:06Z,0.5,Positive,0.0,Neutral
+TSLA,SpaceX Left California. Its IPO Payday Did Not.,Forbes,2026-06-08T10:30:00Z,0.0,Neutral,0.0,Neutral
+TSLA,$WIX Securities Notice: BFA Law Notifies Wix Investors of the Pending Securities Fraud Investigation to Recover Losses – Act Now if You Lost Money,GlobeNewswire,2026-06-08T10:17:00Z,0.0,Neutral,-0.6597,Negative
+TSLA,$SRAD Securities Notice: BFA Law Notifies Sportradar Investors of the Filed Securities Class Action to Recover Losses – Act before July 17 Deadline if You Lost Money,GlobeNewswire,2026-06-08T10:17:00Z,0.1,Positive,-0.1531,Negative
+TSLA,$MAX Securities Notice: BFA Law Notifies MediaAlpha Shareholders the Pending Investigation into the FTC Settlement and Alleged Deceptive Advertising,GlobeNewswire,2026-06-08T10:17:00Z,-0.1,Negative,0.296,Positive
+TSLA,$HUBG Securities Notice: BFA Law Notifies Hub Group Investors of the Pending Securities Fraud Investigation to Recover Losses – Act Now if You Lost Money,GlobeNewswire,2026-06-08T10:17:00Z,0.0,Neutral,-0.6597,Negative
+TSLA,$SEM Securities Notice: BFA Law Notifies Select Medical Shareholders the Pending Investigation into the $16.50 per share Acquisition,GlobeNewswire,2026-06-08T10:17:00Z,0.0,Neutral,0.5267,Positive
+TSLA,$PLNT Securities Notice: BFA Law Notifies Planet Fitness Investors of the Pending Securities Fraud Investigation to Recover Losses – Act Now if You Lost Money,GlobeNewswire,2026-06-08T10:17:00Z,0.0,Neutral,-0.5106,Negative
+TSLA,$INTU Securities Notice: BFA Law Notifies Intuit Investors of the Pending Securities Fraud Investigation to Recover Losses – Act Now if You Lost Money,GlobeNewswire,2026-06-08T10:17:00Z,0.0,Neutral,-0.6597,Negative
+TSLA,Is Elon Musk’s SpaceX Really Worth $1.75 Trillion?,The New Yorker,2026-06-08T10:00:00Z,0.3,Positive,0.2944,Positive
+TSLA,SpaceX's retail-investor push is raising some red flags,Business Insider,2026-06-08T09:50:01Z,0.0,Neutral,0.0,Neutral
+TSLA,‘We didn’t see this coming’: Wall Street eats its forecasts as stocks sell off globally on fear of AI bubble ahead of SpaceX IPO,Fortune,2026-06-08T09:48:21Z,0.0,Neutral,-0.4939,Negative
+TSLA,This robotics CEO wants to automate the work that makes people quit,Business Insider,2026-06-08T09:31:01Z,0.2,Positive,0.0,Neutral
+TSLA,US stocks slump as fears over Big Tech shake Wall Street,Crypto Briefing,2026-06-07T23:04:16Z,0.0,Neutral,-0.5423,Negative
+TSLA,Tesla showcases autonomous driving with San Francisco to Palo Alto round trip,Crypto Briefing,2026-06-07T20:14:19Z,0.1,Positive,0.0,Neutral
+TSLA,Elon Musk Said He Wouldn’t Take SpaceX Public — Two Things That Changed His Mind,CleanTechnica,2026-06-07T18:33:46Z,0.0,Neutral,0.0,Neutral
+TSLA,"Massive Increase in Lithium Demand Coming, Says EnergyX CEO",Yahoo Entertainment,2026-06-07T17:01:10Z,0.0,Neutral,0.2023,Positive
+TSLA,AI’s mega stock deals raise specter of more shares than buyers,Fortune,2026-06-07T15:47:05Z,0.5,Positive,0.3597,Positive
+TSLA,"Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now?",Yahoo Entertainment,2026-06-07T14:58:08Z,0.7,Positive,0.4404,Positive
+TSLA,Links 6/7/2026,Nakedcapitalism.com,2026-06-07T10:55:47Z,0.0,Neutral,0.0,Neutral
+TSLA,SpaceX and the rest: here’s why giga-scale IPOs could be a sign of a market bust to follow,Livemint,2026-06-07T10:30:50Z,0.0,Neutral,0.0,Neutral
+TSLA,'The Big Short' investor Danny Moses unpacks how he's using prediction markets to navigate the market,Business Insider,2026-06-07T09:30:01Z,0.0,Neutral,0.0,Neutral
+TSLA,Elon Musk to pitch SpaceX’s Terafab chip project to ASML employees,Crypto Briefing,2026-06-07T02:06:19Z,0.0,Neutral,0.0,Neutral
+TSLA,SpaceX and other mega IPOs may wait years to join the S&P 500,Fortune,2026-06-06T20:38:27Z,-0.125,Negative,0.296,Positive
+TSLA,"Tesla Sales in China Are Popping, But That Means Nothing If You Can’t Stomach TSLA Stock’s Absurd P/E Ratio",Barchart.com,2026-06-06T20:00:02Z,-0.5,Negative,0.0,Neutral
+TSLA,Fed's Mary Daly has blunt message for AI stock investors,TheStreet,2026-06-06T19:13:00Z,0.0,Neutral,0.0,Neutral
+TSLA,"Elon Musk Says Tesla, SpaceX's Terafab Will Be Grimes County's Largest Revenue Driver As SpaceX Defends Tax Deal",Yahoo Entertainment,2026-06-06T17:31:11Z,0.0,Neutral,-0.25,Negative
+TSLA,Elon Musk sets SpaceX IPO price in blunt message to Wall Street,TheStreet,2026-06-06T15:55:35Z,0.0,Neutral,0.0,Neutral
+TSLA,Nvidia market cap falls below $5T amid AI sector shifts,Crypto Briefing,2026-06-06T14:50:56Z,0.0,Neutral,0.0,Neutral
+TSLA,"J.P. Morgan upgrades Tesla to Neutral, raises price target to $475",Crypto Briefing,2026-06-06T13:32:54Z,0.0,Neutral,0.0,Neutral
+TSLA,Tesla’s EV Rebound Leaves Rivian and Lucid Facing a Tougher Investor Test,MarketBeat,2026-06-06T12:55:00Z,0.0,Neutral,0.1779,Positive
+TSLA,Elon Musk is poised to become the first trillionaire. Just how much money is $1 trillion? | CNN Business,CNN,2026-06-06T11:21:50Z,0.225,Positive,0.25,Positive
+TSLA,SpaceX and other mega IPOs may wait years to join the S&P 500,The Times of India,2026-06-06T11:02:59Z,-0.125,Negative,0.296,Positive
+TSLA,Elon Musk bullet-proofed his $1 trillion ‘Mars-shot’ pay at SpaceX after the epic battle over his $56 billion moonshot at Tesla,Fortune,2026-06-06T10:26:00Z,0.1,Positive,-0.4588,Negative
+TSLA,Elon Musk bullet-proofed his $1 trillion ‘Mars-shot’ pay at SpaceX after the epic battle over his $56 billion moonshot at Tesla,Yahoo Entertainment,2026-06-06T10:26:00Z,0.1,Positive,-0.4588,Negative
+TSLA,"JPMorgan upgrades Tesla to Neutral, raises price target to $475 after eight years of bearish calls",Crypto Briefing,2026-06-06T08:49:34Z,0.0,Neutral,0.0,Neutral
+TSLA,The Elon Premium is Real,Dailyreckoning.com,2026-06-05T22:00:25Z,0.2,Positive,0.0,Neutral
+TSLA,JPMorgan Turns Rosy on Tesla a Day After Dimon Lauds Musk,Yahoo Entertainment,2026-06-05T20:43:35Z,0.0,Neutral,0.0,Neutral
+TSLA,A Wall Street Institution Just Did Something to Elon Musk That No One Else Will,Slate Magazine,2026-06-05T20:10:54Z,0.0,Neutral,-0.296,Negative
+TSLA,"Convicted short-seller Andrew Left demands mistrial, rerun of case that gripped Wall Street",New York Post,2026-06-05T19:47:15Z,0.0,Neutral,0.0,Neutral
+TSLA,Stop chasing AI - here’s where to invest right now,TheStreet,2026-06-05T19:29:57Z,0.2857142857142857,Positive,-0.296,Negative
+TSLA,"The AI Chip Sector Is Soaring Without Nvidia, and the Money Flow Explains Why",BeInCrypto,2026-06-05T18:35:12Z,0.0,Neutral,0.0,Neutral
+TSLA,Jamie Dimon called Elon Musk the ‘Edison of our time’ as JPMorgan hosted SpaceX’s $75 billion IPO roadshow—and even invited Musk’s mom,Fortune,2026-06-05T17:20:29Z,0.0,Neutral,0.0,Neutral
+TSLA,"'Borderline dishonest': Analysts shred SpaceX's IPO filing, ringing alarm bells on its $1.77 trillion valuation",Yahoo Entertainment,2026-06-05T17:10:00Z,-0.3,Negative,-0.34,Negative
+TSLA,Prediction: Tesla Stock Will Hit $500 on This Date,Yahoo Entertainment,2026-06-05T17:09:43Z,0.0,Neutral,0.0,Neutral
+TSLA,From hot new Jennifer Lopez romcom Office Romance to...,Dailymail.com,2026-06-05T15:56:25Z,0.19318181818181818,Positive,0.5574,Positive
+TSLA,It’s Possible That SpaceX Could Collapse Spectacularly,Futurism,2026-06-05T15:50:00Z,0.3,Positive,-0.4939,Negative
+TSLA,SpaceX targets $75B IPO that could make it the most valuable public company on Earth,Crypto Briefing,2026-06-05T15:39:45Z,0.25,Positive,0.5256,Positive
+TSLA,"S&P 500 to Maintain Traditional Requirements, Blocking Fast-Track Entry for SpaceX, AI IPOs",Breitbart News,2026-06-05T15:37:41Z,0.0,Neutral,-0.3818,Negative
+TSLA,You Might Soon Own a Piece of SpaceX,The Atlantic,2026-06-05T15:25:00Z,0.6,Positive,0.0,Neutral
+TSLA,SpaceX IPO Brings ‘Prime Time’ for Advisers Ahead of Wealth Surge,Financial Post,2026-06-05T11:52:27Z,0.0,Neutral,0.4939,Positive
+TSLA,Do We Need Billionaires?,Bjhess.com,2026-06-05T11:34:43Z,0.0,Neutral,0.0,Neutral
+TSLA,Why big tech IPOs — starting with SpaceX next week — could leave smaller retail investors holding the bag,New York Post,2026-06-05T11:00:00Z,0.0,Neutral,-0.0516,Negative
+TSLA,$WIX Stock Notification: Lose Money on Your Wix Investment? Contact BFA Law about its Ongoing Securities Fraud Investigation,GlobeNewswire,2026-06-05T10:36:00Z,0.0,Neutral,-0.6486,Negative
+TSLA,$PLNT Stock Notification: Lose Money on Your Planet Fitness Investment? Contact BFA Law about its Ongoing Securities Fraud Investigation,GlobeNewswire,2026-06-05T10:36:00Z,0.0,Neutral,-0.4939,Negative
+TSLA,$SRAD Stock Notification: Lose Money on Your Sportradar Investment? Contact BFA Law about the Ongoing Securities Fraud Class Action,GlobeNewswire,2026-06-05T10:36:00Z,0.1,Positive,-0.6486,Negative
+TSLA,$RMAX Stock Notification: Current Shareholder of RE/MAX? Contact BFA Law about its Ongoing Investigation into the Board Over $13.80 per share Merger,GlobeNewswire,2026-06-05T10:36:00Z,0.0,Neutral,0.296,Positive
+TSLA,$SEM Stock Notification: Current Shareholder of Select Medical? Contact BFA Law about its Ongoing Investigation into the Board Over $16.50 per share Acquisition,GlobeNewswire,2026-06-05T10:36:00Z,0.0,Neutral,0.296,Positive
+TSLA,$INTU Stock Notification: Lose Money on Your Intuit Investment? Contact BFA Law about its Ongoing Securities Fraud Investigation,GlobeNewswire,2026-06-05T10:36:00Z,0.0,Neutral,-0.6486,Negative
+TSLA,$HUBG Stock Notification: Lose Money on Your Hub Group Investment? Contact BFA Law about its Ongoing Securities Fraud Investigation,GlobeNewswire,2026-06-05T10:36:00Z,0.0,Neutral,-0.6486,Negative
+TSLA,$MAX Stock Notification: Current Shareholder of MediaAlpha? Contact BFA Law about its Ongoing Investigation into the Board Over Deceptive Advertising,GlobeNewswire,2026-06-05T10:36:00Z,0.0,Neutral,0.0,Neutral
+TSLA,This Saturday: Watch over 100 EVs take over Sepang Circuit,SoyaCincau.com,2026-06-05T10:16:31Z,0.0,Neutral,0.0,Neutral
+TSLA,JPMorgan CEO Jamie Dimon rolled out the red carpet for Elon Musk ahead of SpaceX's IPO,Business Insider,2026-06-05T10:02:36Z,0.0,Neutral,0.0,Neutral
+TSLA,"SpaceX IPO - rockets, AI losses and Musk in control",RTE,2026-06-05T07:44:37Z,0.0,Neutral,-0.4019,Negative
+TSLA,SpaceX pitches its IPO to retail investors with a 17-minute video,Crypto Briefing,2026-06-05T06:16:35Z,0.0,Neutral,0.0,Neutral
+TSLA,SpaceX: Flying High on Impunity,Wordpress.com,2026-06-05T03:59:29Z,0.16,Positive,0.0,Neutral
+TSLA,Where Will Tesla Stock Be in 3 Years?,Yahoo Entertainment,2026-06-05T03:42:00Z,0.0,Neutral,0.0,Neutral
+TSLA,"SpaceX’s US$1.77 trillion IPO: The red flags, the green flags, the bad sci-fi novel bits - Tech Insider",New Zealand Herald,2026-06-05T03:00:13Z,-0.3,Negative,-0.296,Negative
+TSLA,"SpaceX IPO: rockets, AI losses and Musk in control",The Times of India,2026-06-05T01:37:56Z,0.0,Neutral,-0.4019,Negative
+TSLA,Ordinary People Can Invest In SpaceX IPO: Here’s How—And Why It’s Risky,Forbes,2026-06-04T20:22:54Z,-0.25,Negative,-0.2023,Negative
+TSLA,Meta steals a tactic from Tesla and builds data centers in tents | TechCrunch,TechCrunch,2026-06-04T19:34:05Z,0.0,Neutral,-0.5106,Negative
+TSLA,Doja Cat blasts Elon Musk as 'barrel-chested Ewok' who looks like a 'frog' in unhinged rant demanding changes to X,Dailymail.com,2026-06-04T19:19:07Z,0.0,Neutral,-0.2023,Negative
+TSLA,SpaceX and Anthropic are about to go public—and your 401(k) may be forced to buy in,Fortune,2026-06-04T17:10:55Z,-0.30000000000000004,Negative,-0.4588,Negative
+TSLA,JPMorgan’s Jamie Dimon to pitch Elon Musk’s SpaceX IPO to uber-rich clients,New York Post,2026-06-04T17:08:55Z,0.0,Neutral,0.0,Neutral
+TSLA,Goldman Sachs Predicts SpaceX Revenue Will Surge 100X By 2030,24/7 Wall St.,2026-06-04T16:31:26Z,0.0,Neutral,0.0,Neutral
+TSLA,One-third of Americans’ wealth is now tied to the stock market — a record high,New York Post,2026-06-04T16:24:41Z,0.16,Positive,0.4939,Positive
+TSLA,,Sfstandard.com,2026-06-04T16:10:49Z,0.0,Neutral,0.0,Neutral
+TSLA,SpaceX Sets $135 Price for Record $75 Billion IPO as Musk Takes Rocket Firm Public: Who Can Invest?,Ibtimes.com.au,2026-06-04T15:49:46Z,-0.1,Negative,0.0,Neutral
+TSLA,SpaceX IPO Could Make Elon Musk Humanity's First Trillionaire,Breitbart News,2026-06-04T15:15:06Z,0.25,Positive,0.0,Neutral
+TSLA,"Buy, Hold, or Sell: Is Tesla Stock a Sell Above $400?",Yahoo Entertainment,2026-06-04T15:10:21Z,0.0,Neutral,0.0,Neutral
+TSLA,"XPENG Invited to CVPR for the Third Time, Showcasing China's Advances in Physical AI to the World",PRNewswire,2026-06-04T14:59:00Z,0.0,Neutral,0.0,Neutral
+TSLA,SpaceX seeks a record $75 bn in stock market debut,The Times of India,2026-06-04T14:09:18Z,0.0,Neutral,0.0,Neutral
+TSLA,Elon Musk is steamrolling Wall Street to become a trillionaire,The Verge,2026-06-04T13:56:19Z,0.0,Neutral,0.0,Neutral
+TSLA,Jamie Dimon to pitch JPMorgan’s ultra-rich clients on SpaceX IPO,Financial Post,2026-06-04T13:21:45Z,0.0,Neutral,0.0,Neutral
+TSLA,Buried in SpaceX’s IPO: a Tesla merger clue and a $3.75 billion insider windfall for friends and family,Fortune,2026-06-04T10:12:40Z,0.0,Neutral,0.4767,Positive
+TSLA,"Bitget Rolls Out Stocks 2.0, Linking Tokenized Equities to Real U.S. Market Liquidity",GlobeNewswire,2026-06-04T10:00:00Z,0.2,Positive,0.0,Neutral
+TSLA,SpaceX plans record stock market debut that could make Elon Musk a trillionaire,CBS News,2026-06-04T09:53:22Z,0.0,Neutral,0.0,Neutral
+AVGO,India back at no.6 in m-cap league after Korea stock rout,The Times of India,2026-06-09T01:42:30Z,0.0,Neutral,0.0,Neutral
+AVGO,"South Korean stocks drop 9%, led by losses in Samsung and SK Hynix",Crypto Briefing,2026-06-09T00:30:43Z,0.0,Neutral,-0.5859,Negative
+AVGO,Stock market today: Live updates,CNBC,2026-06-08T22:05:34Z,0.13636363636363635,Positive,0.0,Neutral
+AVGO,"US stocks: S&P 500, Nasdaq end up as tech, chipmakers rebound",The Times of India,2026-06-08T20:02:24Z,0.0,Neutral,0.0,Neutral
+AVGO,The gravity of the SpaceX IPO,Freerepublic.com,2026-06-08T17:23:12Z,0.0,Neutral,0.0,Neutral
+AVGO,Is Broadcom (AVGO) the Best Stock in Chase Coleman’s Tiger Global?,Yahoo Entertainment,2026-06-08T17:12:13Z,0.5,Positive,0.6369,Positive
+AVGO,The AI trade’s worst day in a year became a buying opportunity by Monday,Fortune,2026-06-08T16:58:33Z,-1.0,Negative,-0.3182,Negative
+AVGO,"If This Wall Street Call is Right, Broadcom Stock Just Became a Historic Buy Opportunity",Yahoo Entertainment,2026-06-08T16:55:57Z,0.14285714285714285,Positive,0.4215,Positive
+AVGO,"Got $25,000? Broadcom or Qualcomm: The Clear Winner for Growth Investors This Year",24/7 Wall St.,2026-06-08T16:47:29Z,0.09999999999999999,Positive,0.8402,Positive
+AVGO,Jim Cramer Warns: AI Stocks Face 50% Crash Without Earnings Growth,24/7 Wall St.,2026-06-08T16:47:00Z,0.0,Neutral,-0.6467,Negative
+AVGO,Micron erases weeks of 2026 rally in shocking move,TheStreet,2026-06-08T16:37:17Z,-1.0,Negative,-0.4019,Negative
+AVGO,Cramer drops rare message on 2 surging AI stocks and SpaceX,TheStreet,2026-06-08T16:03:00Z,0.3,Positive,0.0,Neutral
+AVGO,Marvell's S&P 500 Inclusion Could Spark Fresh ETF Buying Despite Valuation Concerns,Yahoo Entertainment,2026-06-08T15:46:41Z,0.3,Positive,0.4939,Positive
+AVGO,Jim Cramer Considers CrowdStrike Stock Decline a “Buying Opportunity”,Yahoo Entertainment,2026-06-08T15:34:38Z,0.0,Neutral,0.0,Neutral
+AVGO,Jim Cramer on Broadcom: “The Disappointing Earnings May Not Be as Crushing as We Think”,Yahoo Entertainment,2026-06-08T15:34:30Z,-0.09999999999999998,Negative,-0.2709,Negative
+AVGO,S&P 500 drops 2.64% as investors dump tech for healthcare and consumer staples,Crypto Briefing,2026-06-08T15:32:00Z,0.0,Neutral,-0.3818,Negative
+AVGO,Investors Are Punishing Broadcom Stock After Earnings. They’re Missing a 200% Spike in Semiconductor Revenue Ahead.,Yahoo Entertainment,2026-06-08T14:48:22Z,-0.2,Negative,-0.7003,Negative
+AVGO,Alphabet taps company veteran for principal accounting post,CFO Dive,2026-06-08T14:27:24Z,0.0,Neutral,0.0,Neutral
+AVGO,Scared of a stock market bubble? These 3 charts will ease your darkest fears.,Yahoo Entertainment,2026-06-08T13:42:41Z,0.0,Neutral,-0.7506,Negative
+AVGO,"⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",Internet,2026-06-08T13:18:57Z,0.5,Positive,0.0,Neutral
+AVGO,"TQQQ Turned $10,000 Into $353,789, but Friday’s 14% Crash Shows Leverage Cuts Both Ways",24/7 Wall St.,2026-06-08T13:14:23Z,0.0,Neutral,-0.7469,Negative
+AVGO,HSBC Raises Broadcom (AVGO) Price Target on AI ASIC Growth Outlook,Yahoo Entertainment,2026-06-08T12:49:43Z,0.0,Neutral,0.3818,Positive
+AVGO,"Dow Jones| Nasdaq | US Stock Market Today | Live: S&P 500, Nasdaq futures edge higher as chip stocks regain footing",Economictimes.com,2026-06-08T12:16:41Z,0.19318181818181818,Positive,0.0,Neutral
+AVGO,"Why ROM Holders Watched $10,000 Evaporate to $8,655 When NVIDIA and Broadcom Stumbled on Friday",24/7 Wall St.,2026-06-08T12:14:57Z,0.0,Neutral,0.0,Neutral
+AVGO,"The iShares Korea ETF (EWY) Dropped 14% in Its Most Brutal Session in Six Years, and It Started With Broadcom",24/7 Wall St.,2026-06-08T12:00:15Z,-0.1875,Negative,-0.659,Negative
+AVGO,Marvell shares jump after chipmaker wins spot in S&P 500,CNA,2026-06-08T11:56:40Z,0.3,Positive,0.7096,Positive
+AVGO,Marvell shares jump after chipmaker wins spot in S&P 500,Yahoo Entertainment,2026-06-08T11:56:40Z,0.3,Positive,0.7096,Positive
+AVGO,The 3x Leverage That Built a 192% Year Just Took Back 18% in Hours,24/7 Wall St.,2026-06-08T11:00:50Z,0.0,Neutral,0.0,Neutral
+AVGO,"SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD",24/7 Wall St.,2026-06-08T09:30:49Z,0.0,Neutral,0.0,Neutral
+AVGO,Tech stocks dive as Fed bets rattle AI rally,The Times of India,2026-06-08T04:21:30Z,0.0,Neutral,0.0,Neutral
+AVGO,"Why is market crashing today? Sensex plunges 800 points, Nifty below 23,100. 6 factors behind bloodbath on D-Street",The Times of India,2026-06-08T04:01:57Z,-0.4,Negative,0.4019,Positive
+AVGO,"U.S. Stock Market prediction for Monday: Nasdaq, S&P 500, Dow Jones crash to continue in Wall Street? These factors will determine",The Times of India,2026-06-08T01:32:42Z,0.0,Neutral,-0.4019,Negative
+AVGO,Our systems editor flew all the way to Taiwan and still couldn't get away from AI,Theregister.com,2026-06-07T23:00:00Z,0.0,Neutral,0.0,Neutral
+AVGO,"Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising while epic SpaceX IPO could fuel even more chaos",Fortune,2026-06-07T22:43:39Z,0.3,Positive,-0.9061,Negative
+AVGO,Cathie Wood’s ARK Buys Coinbase and Circle While Trimming Archer and Baidu,Cryptoprowl.com,2026-06-07T19:46:00Z,0.0,Neutral,0.0,Neutral
+AVGO,"NVDL Collapsed 12% in a Single Day as Nvidia Lost $279 Billion, Exposing How Leverage Compounds on Bad Tape",24/7 Wall St.,2026-06-07T19:15:11Z,-0.3857142857142856,Negative,-0.8402,Negative
+AVGO,US-traded chipmakers lose $1.3T in market value amid slump,Crypto Briefing,2026-06-07T17:08:09Z,0.0,Neutral,-0.0772,Negative
+AVGO,AI’s mega stock deals raise specter of more shares than buyers,Fortune,2026-06-07T15:47:05Z,0.5,Positive,0.3597,Positive
+AVGO,KORU Is Up 236% Year to Date but Just Lost Half Its Value in a Single Trading Day,24/7 Wall St.,2026-06-07T15:30:26Z,-0.11904761904761904,Negative,0.0387,Neutral
+AVGO,The business of AI is facing 4 harsh realities,Axios,2026-06-07T12:42:03Z,-0.2,Negative,-0.4404,Negative
+AVGO,"Micron, Marvell shares tumble as chip sector faces worst day in six years",Crypto Briefing,2026-06-07T12:20:41Z,-1.0,Negative,-0.4404,Negative
+AVGO,"AIQ Turned $10,000 Into $13,400 in Six Months as AI Chips Soared 34% YTD",24/7 Wall St.,2026-06-07T11:00:06Z,0.0,Neutral,0.0,Neutral
+AVGO,"Down 20%, Should You Buy Broadcom Stock on the Dip? The Answer Might Surprise You.",Yahoo Entertainment,2026-06-07T09:59:00Z,-0.15555555555555556,Negative,0.2732,Positive
+AVGO,A $360 Semiconductor ETF Position Became $638 in Just Over Five Months. Here’s the Real Story.,24/7 Wall St.,2026-06-07T09:30:46Z,0.2,Positive,0.0,Neutral
+AVGO,NASDAQ sinks 4% as AI stocks tumble on rate-hike fears,Crypto Briefing,2026-06-07T08:00:04Z,-0.1,Negative,-0.4215,Negative
+AVGO,"FIIs, weak global cues among 5 factors that could keep D-St under pressure this week",The Times of India,2026-06-07T04:09:40Z,-0.1875,Negative,-0.6249,Negative
+AVGO,Over $1T wiped from US stock market in two hours as chip stocks crater,Crypto Briefing,2026-06-07T00:33:10Z,0.0,Neutral,0.0,Neutral
+AVGO,"Nasdaq, S&P 500 suffer worst day of year, as AI stocks tumble, Fed rate-hike odds rise",RNZ,2026-06-06T23:00:00Z,-1.0,Negative,-0.8225,Negative
+AVGO,AP Business SummaryBrief at 9:46 a.m. EDT,Rutlandherald.com,2026-06-06T19:06:48Z,0.0,Neutral,0.0,Neutral
+AVGO,SCHD’s $85 Billion Strategy Now Concentrates 41 Percent of Your Money in Just Ten Stocks,24/7 Wall St.,2026-06-06T16:11:45Z,0.0,Neutral,0.0,Neutral
+AVGO,The day all hedges fell,BusinessLine,2026-06-06T15:58:35Z,0.0,Neutral,0.0,Neutral
+AVGO,CrowdStrike Earnings Beat Sparks Selloff—Buy the Dip?,MarketBeat,2026-06-06T13:45:00Z,0.0,Neutral,0.0,Neutral
+AVGO,MarketBeat Week in Review – 06/01 - 06/05,MarketBeat,2026-06-06T11:00:00Z,0.0,Neutral,0.0,Neutral
+AVGO,Emerging market assets fall for third straight session as South Korean equities slump,Crypto Briefing,2026-06-06T07:38:36Z,0.1,Positive,0.3818,Positive
+AVGO,US stock market crash explained: Why did Nasdaq plunge 4% to log worst day in over a year,The Times of India,2026-06-06T04:20:43Z,-1.0,Negative,-0.7783,Negative
+AVGO,AI chip stocks lose $1.3 trillion in value as semiconductor selloff deepens,BusinessLine,2026-06-06T03:29:15Z,0.0,Neutral,-0.0772,Negative
+AVGO,Nasdaq suffers biggest drop since April 2025 as chip stocks lead selloff,BusinessLine,2026-06-06T03:28:11Z,-0.6,Negative,-0.6369,Negative
+AVGO,Chip slump erases $1.3 trillion in stock market value,The Times of India,2026-06-06T03:10:11Z,0.0,Neutral,0.34,Positive
+AVGO,Wall Street suffers worst hit of 2026 so far amid massive stock sell-off,ABC News (AU),2026-06-06T01:16:29Z,-0.375,Negative,-0.802,Negative
+AVGO,"Markets have worst day since October as tech stocks lead the way down, traders lose hope of rate cut",Fortune,2026-06-05T23:10:12Z,-0.5777777777777777,Negative,-0.7184,Negative
+AVGO,"S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday’s selloff",MarketWatch,2026-06-05T22:27:00Z,0.0,Neutral,-0.2732,Negative
+AVGO,"Stock Market Today, June 5: Broadcom Falls as Strong AI Results Fail to Lift Guidance",Yahoo Entertainment,2026-06-05T21:59:42Z,-0.033333333333333326,Negative,-0.0516,Negative
+AVGO,Decoding AVGO Stock's Premium Valuation,Trefis,2026-06-05T21:33:39Z,0.0,Neutral,0.0,Neutral
+AVGO,Marvell to join S&P 500 after AI boom helps chipmaker pass profitability test,CNA,2026-06-05T21:24:22Z,0.0,Neutral,0.7096,Positive
+AVGO,50% Upside For AVGO Stock?,Trefis,2026-06-05T21:00:56Z,0.0,Neutral,0.0,Neutral
+AVGO,The Tech Stock Sell-Off Isn't Worrying Some Stock-Market Experts. Is a 'Bubble' About to Pop?,Investopedia,2026-06-05T20:45:48Z,0.0,Neutral,0.2584,Positive
+AVGO,How major US stock indexes fared Friday 6/5/2026,seattlepi.com,2026-06-05T20:37:10Z,0.0625,Positive,0.0,Neutral
+AVGO,Tech Sell-Off Takes Stocks to Worst Day Since October,Newser,2026-06-05T20:35:00Z,-1.0,Negative,-0.6249,Negative
+AVGO,"Wall Street ends sharply lower as chips slide, jobs data fuels rate hike fears",The Straits Times,2026-06-05T20:33:23Z,-0.125,Negative,-0.6124,Negative
+AVGO,Big fall in US tech shares as AI stock are hit,The Irish Times,2026-06-05T20:29:50Z,0.0,Neutral,0.296,Positive
+AVGO,Wall Street panics as stock markets crash deep into the red despite the excellent May jobs report,Dailymail.com,2026-06-05T20:12:18Z,0.3333333333333333,Positive,-0.8224,Negative
+AVGO,"US stocks today: US stocks end sharply lower as chips slide, jobs data fuels rate hike fears",The Times of India,2026-06-05T20:06:53Z,-0.125,Negative,-0.6124,Negative
+AVGO,Chip selloff erases over $1 trillion in stock market value,CNA,2026-06-05T19:57:14Z,0.0,Neutral,0.34,Positive
+AVGO,Stop chasing AI - here’s where to invest right now,TheStreet,2026-06-05T19:29:57Z,0.2857142857142857,Positive,-0.296,Negative
+AVGO,Philadelphia Semiconductor Index falls 2% as Broadcom’s forecast weighs on chipmakers,Crypto Briefing,2026-06-05T19:09:46Z,0.0,Neutral,0.0,Neutral
+AVGO,After Months of Watching AI Innovation ETFs Run These 3 Active Funds Stand Out and the Revolution Has Barely Started,24/7 Wall St.,2026-06-05T18:55:18Z,-0.041666666666666664,Negative,0.6486,Positive
+AVGO,Wall Street's hottest trade is cracking in a trillion-dollar wipeout,Yahoo Entertainment,2026-06-05T18:45:40Z,0.0,Neutral,0.0,Neutral
+AVGO,"The AI Chip Sector Is Soaring Without Nvidia, and the Money Flow Explains Why",BeInCrypto,2026-06-05T18:35:12Z,0.0,Neutral,0.0,Neutral
+AVGO,"Why is the US stock market down today? Dow Jones, S&P 500 and Nasdaq crash big as strong jobs report, rising Treasury yields and AI stock selloff shake Wall Street — here are today's biggest gainers and losers",The Times of India,2026-06-05T17:41:38Z,0.019444444444444445,Positive,-0.4019,Negative
+AVGO,"Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise | CNN Business",CNN,2026-06-05T17:08:55Z,-1.0,Negative,-0.8225,Negative
+AVGO,"S&P 500 could end 9-week winning streak, Dow and Nasdaq fall - here are reasons why US stock market is down today June 5",The Times of India,2026-06-05T17:06:56Z,0.17222222222222222,Positive,0.5267,Positive
+AVGO,Stocks sink as interest rate hike worries rattle tech amid nonstop AI spending,NBC News,2026-06-05T16:49:49Z,0.0,Neutral,0.0516,Positive
+AVGO,Citi revisits Broadcom stock price target after post-earnings selloff,TheStreet,2026-06-05T15:52:25Z,0.0,Neutral,0.0,Neutral
+AVGO,Warren Buffett’s Investment Advice Is Putting Retirement Portfolios at Risk,24/7 Wall St.,2026-06-05T15:09:18Z,0.0,Neutral,-0.2732,Negative
+AVGO,Nasdaq Drops Nearly 2% on Chip Selloff and Strong Jobs Data Fueling Hawkish Fed Outlook,Ibtimes.com.au,2026-06-05T14:30:46Z,0.26666666666666666,Positive,0.5106,Positive
+AVGO,Dow surges 900 points in final hour to record high as investors ditch tech for healthcare and banks,Crypto Briefing,2026-06-05T14:28:22Z,0.08,Positive,0.0,Neutral
+AVGO,Why Broadcom Stock Is Still Going Down,Yahoo Entertainment,2026-06-05T14:25:46Z,-0.15555555555555556,Negative,0.0,Neutral
+AVGO,"AI fever spreads, but are markets masking economic cracks?",The Times of India,2026-06-05T14:23:21Z,0.2,Positive,0.0,Neutral
+AVGO,"After filing for its IPO, Anthropic says AI should slow down. Fat chance.",SiliconANGLE News,2026-06-05T14:00:33Z,-0.2277777777777778,Negative,0.25,Positive
+AVGO,"US Stock Market today: Nasdaq, S&P 500 set for low opening, Dow Jones to rise. Nvidia stocks, Intel, Micron, AMD, Broadcom shares under spotlight",The Times of India,2026-06-05T12:33:58Z,0.0,Neutral,0.0258,Neutral
+AVGO,"Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq, S&P futures decline as semiconductors slip; payrolls in focus",Economictimes.com,2026-06-05T12:18:11Z,0.13636363636363635,Positive,0.0,Neutral
+AVGO,Why Broadcom (AVGO) Shares Are Trading Lower Today - Yahoo Finance,Slashdot.org,2026-06-05T11:12:45Z,0.0,Neutral,0.0,Neutral
+AVGO,Broadcom Stock Dives As AI Chip Sales Outlook Disappoints - Investor's Business Daily,Slashdot.org,2026-06-05T10:53:18Z,0.0,Neutral,-0.3818,Negative
+AVGO,What Are Analyst Thoughts on Broadcom’s AI Revenue Guidance?,Yahoo Entertainment,2026-06-05T09:59:47Z,0.0,Neutral,0.0,Neutral
+AVGO,A bull market grows up: Investors are finally separating AI winners from losers,Business Insider,2026-06-05T09:50:01Z,-0.1,Negative,-0.0772,Negative
+AVGO,"Wall Street Futures Ease as Hezbollah Rejects Ceasefire and Investors Await U.S. Jobs Data: Dow Jones, S&P, Nasdaq",Advfn.com,2026-06-05T09:21:26Z,0.0,Neutral,-0.0772,Negative
+AVGO,Morgan Stanley resets Nvidia stock forecast after key event,TheStreet,2026-06-05T09:03:00Z,0.0,Neutral,0.0,Neutral
+AVGO,Marvell poised for S&P 500 inclusion after stock surge triples its value in 2026,Crypto Briefing,2026-06-05T08:13:46Z,0.0,Neutral,0.5267,Positive
+AVGO,How major US stock indexes fared Thursday 6/4/2026,Abcnews.com,2026-06-05T06:46:21Z,0.0625,Positive,0.0,Neutral
+AVGO,Barclays traders recommend buying protection against tech-led S&P 500 pullback,Crypto Briefing,2026-06-05T06:40:03Z,0.0,Neutral,0.3612,Positive
+COST,Ozempic is Killing Food Stocks,Dailyreckoning.com,2026-06-08T22:00:39Z,0.0,Neutral,-0.6597,Negative
+COST,Mama's Creations Reports First Quarter Fiscal 2027 Financial Results,GlobeNewswire,2026-06-08T20:05:00Z,0.125,Positive,0.3818,Positive
+COST,Costco drops prices on popular Kirkland products. See list,USA Today,2026-06-08T18:01:08Z,0.6,Positive,0.4215,Positive
+COST,"I'm a Costco executive member. Even though I only shop for one, I love buying these 10 items in bulk.",Business Insider,2026-06-08T15:52:38Z,0.25,Positive,0.6369,Positive
+COST,Costco Clearance: Sonicare Professional Clean Toothbrush Handle 2-pack $49.97 in store YMMV,Slickdeals.net,2026-06-07T23:07:05Z,0.23333333333333334,Positive,0.4019,Positive
+COST,Kidkraft Summit Vista Swing Set - YMMV In Store Only at Costco,Slickdeals.net,2026-06-07T17:38:55Z,0.0,Neutral,0.0,Neutral
+COST,Is Costco Wholesale Corporation (COST) A Good Stock To Buy Now?,Yahoo Entertainment,2026-06-07T16:47:23Z,0.7,Positive,0.4404,Positive
+COST,"Big Family Food and Fun: May 31-June 6, 2026",Heavenlyhomemakers.com,2026-06-07T00:44:38Z,0.15,Positive,0.5106,Positive
+COST,Trader Joe's shoppers frantically snatch up household essentials as summer price hikes loom,Dailymail.com,2026-06-06T19:36:55Z,0.0,Neutral,-0.5106,Negative
+COST,Morgan Stanley Reiterates Buy Rating on Costco Wholesale (COST) Stock,Yahoo Entertainment,2026-06-06T17:25:16Z,0.0,Neutral,0.0,Neutral
+COST,"We found a BJ’s membership for $15, and it pays for itself on the first grocery run",New York Post,2026-06-06T13:33:00Z,0.25,Positive,0.0,Neutral
+COST,MarketBeat Week in Review – 06/01 - 06/05,MarketBeat,2026-06-06T11:00:00Z,0.0,Neutral,0.0,Neutral
+COST,Weber Baby Q1000 + Essentials Kit + Cover $239.99 Instore at Costco Auburn,Ozbargain.com.au,2026-06-06T00:40:03Z,0.0,Neutral,0.0,Neutral
+COST,"Popular Frozen Item Pulled From Walmart, Costco And More In Widespread Food Recall",Freerepublic.com,2026-06-05T17:03:10Z,0.55,Positive,0.4215,Positive
+COST,Where Will Costco Stock Be in 3 Years?,Yahoo Entertainment,2026-06-05T06:47:00Z,0.0,Neutral,0.0,Neutral
+COST,Costco stock price shocks market despite major blowout quarter,TheStreet,2026-06-05T02:47:00Z,0.0625,Positive,-0.3818,Negative
+COST,Costco Beats Revenue Estimates as Record Gas Volumes Drive Member Traffic. AI Could Power the Next Leg Higher for COST Stock.,Barchart.com,2026-06-04T19:38:21Z,0.125,Positive,0.0,Neutral
+COST,KEF LSX LT II at Costco (YMMV) $299.97 (8 replies),Slickdeals.net,2026-06-04T18:25:35Z,0.0,Neutral,0.5574,Positive
+COST,Is Costco (COST) One of the 10 No-Brainer Dividend Stocks to Buy?,Yahoo Entertainment,2026-06-04T15:18:59Z,0.0,Neutral,0.0,Neutral
+COST,Are tariffs still impacting your favorite products’ prices? Experts explain,NBC News,2026-06-04T14:04:47Z,0.5,Positive,0.4588,Positive
+COST,Dole Whip returns to Costco—what’s new? #food,Alltoc.com,2026-06-04T12:03:04Z,0.13636363636363635,Positive,0.0,Neutral
+COST,Commerce and Warehouse Clubs,Econlib.org,2026-06-04T10:00:08Z,0.0,Neutral,0.0,Neutral
+COST,What’s the deal with the 31 new Costco summer items? #food,Alltoc.com,2026-06-04T00:03:26Z,0.13636363636363635,Positive,0.0,Neutral
+COST,Costco khazana organic toor/urad dal 7 lbs (9 replies),Slickdeals.net,2026-06-03T22:23:42Z,0.0,Neutral,0.0,Neutral
+COST,"Gold prices today, Wednesday, June 3: Prices falling as Middle East tensions flare",Yahoo Entertainment,2026-06-03T11:08:23Z,0.0,Neutral,-0.5106,Negative
+COST,"The durable, floatable UE Wonderboom 4 speaker is cheaper than ever",The Verge,2026-06-02T18:05:35Z,0.0,Neutral,0.0,Neutral
+COST,Labor-Backed Investor Group Urges Target Shareholders To Vote Against Former CEO,Forbes,2026-06-02T14:48:13Z,0.0,Neutral,0.0,Neutral
+COST,Amazon reveals Prime Day 2026 dates: We have everything you need to know,New York Post,2026-06-02T05:00:00Z,0.0,Neutral,0.1779,Positive
+COST,Why Devina Mehra keeps 85% of her portfolio outside India,Livemint,2026-06-02T00:24:12Z,0.0,Neutral,0.0,Neutral
+COST,"Apple MacBook Air (2026) 13 in. Notebook with Apple Intelligence, Apple M5 10-Core CPU, 8-Core GPU, 16 GB RAM, 512 GB SS $898.99",Slickdeals.net,2026-06-01T18:17:06Z,0.0,Neutral,0.4767,Positive
+COST,Costco Just Reported 'Record-Breaking' Gas Sales. COST Stock Is Falling Anyway.,Yahoo Entertainment,2026-06-01T14:54:50Z,0.0,Neutral,-0.1531,Negative
+COST,Is Costco Stock a Buy on the Dip as Same-Store Sales Surge?,Yahoo Entertainment,2026-06-01T08:40:00Z,0.0,Neutral,0.0,Neutral
+COST,Costco Members: 3-Pc Kirkland Signature Gen 3 Forged Wedge Set (RH) $200 + Free S&H,Slickdeals.net,2026-05-31T16:52:49Z,0.4,Positive,0.5106,Positive
+COST,How Costco sells such cheap gas so cheap | CNN Business,CNN,2026-05-31T11:30:33Z,0.26666666666666666,Positive,0.0,Neutral
+COST,24 retail CEOs made as much in a day as their typical employee earned in a year — and a big one didn't,Business Insider,2026-05-31T09:30:01Z,0.011111111111111118,Positive,0.0,Neutral
+COST,"Big Family Food and Fun: May 24-30, 2026",Heavenlyhomemakers.com,2026-05-31T00:55:41Z,0.15,Positive,0.5106,Positive
+COST,A Woman Shared Hacks For Shopping At Costco,Twistedsifter.com,2026-05-31T00:45:34Z,0.0,Neutral,0.34,Positive
+COST,What happened with Costco’s cottage chicken coop? #lifestyle,Alltoc.com,2026-05-30T18:03:16Z,-0.6,Negative,0.0,Neutral
+COST,Apple Watch Ultra 3 vs Ultra 4 Rumors: Should You Buy in 2026?,The Gadgeteer,2026-05-30T17:01:15Z,0.0,Neutral,0.0,Neutral
+COST,#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies,Mixergy.com,2026-05-30T16:00:05Z,0.0,Neutral,0.5719,Positive
+COST,Costco's Gas Stations Set All-Time Records As Drivers Hunt For Lower Prices,Yahoo Entertainment,2026-05-30T14:31:50Z,0.0,Neutral,-0.296,Negative
+COST,Gen 3 Kirkland Forged Wedges Now In Stock $199.99,Slickdeals.net,2026-05-30T12:44:50Z,0.0,Neutral,0.0,Neutral
+COST,What is US stock market prediction for Monday? Wall street ends at record highs as AI stocks and Dell lead market rally,The Times of India,2026-05-30T10:05:38Z,0.0,Neutral,0.0,Neutral
+COST,Costco says its gas stations set all-time volume records as shoppers search for cheap fuel,Fox Business,2026-05-30T00:35:15Z,0.4,Positive,0.0,Neutral
+COST,Have a Fun Weekend.,Cupofjo.com,2026-05-29T22:18:24Z,0.3,Positive,0.5106,Positive
+COST,Costco Sets Gas Sales Records as Price-Sensitive Drivers Seek Bargains,pymnts.com,2026-05-29T20:50:48Z,0.0,Neutral,0.0,Neutral
+COST,Stock Indexes Build on Records,Newser,2026-05-29T20:30:00Z,0.0,Neutral,0.0,Neutral
+COST,"US stocks today: US stocks hits new closing highs on tech strength, Middle East deal hopes",The Times of India,2026-05-29T20:04:43Z,0.06818181818181818,Positive,0.7184,Positive
+COST,Show HN: Simple news aggregator with source bias meters,Unbiasthenews.com,2026-05-29T18:21:24Z,0.0,Neutral,-0.1027,Negative
+COST,Trade Depot: The once-tiny Trade Me operation that’s now a Kiwi retail giant – how low prices have driven high growth,New Zealand Herald,2026-05-29T17:31:43Z,0.05333333333333334,Positive,0.128,Positive
+COST,Trade Depot: The once-tiny Trade Me operation that’s now a Kiwi retail giant – how low prices have driven high growth,New Zealand Herald,2026-05-29T17:00:00Z,0.05333333333333334,Positive,0.128,Positive
+COST,Why Costco Stock Was Sliding Today,Yahoo Entertainment,2026-05-29T16:28:24Z,0.0,Neutral,0.0,Neutral
+COST,Fact Or Fiction: Is There Going To Be A Motor Oil Shortage In The United States?,Activistpost.com,2026-05-29T16:00:00Z,0.0,Neutral,0.2023,Positive
+COST,She oversaw 29 quarters of sales growth. Now e.l.f.’s CFO is taking on its AI strategy,Fortune,2026-05-29T12:29:36Z,0.0,Neutral,0.3818,Positive
+COST,A little-known semiconductor company just won an entrepreneur contest that previously honored Jensen Huang and Michael Dell,Fortune,2026-05-29T10:32:23Z,-0.16666666666666666,Negative,0.8176,Positive
+COST,10 Friday AM Reads,Ritholtz.com,2026-05-29T10:30:49Z,0.0,Neutral,0.0,Neutral
+COST,"US stocks gain ground, adding to their records, as Dell soars",Yahoo Entertainment,2026-05-29T03:16:24Z,0.0,Neutral,0.5267,Positive
+COST,Costco sells 'record-breaking' amounts of gas as fuel costs soar,Yahoo Entertainment,2026-05-28T21:29:55Z,0.0,Neutral,0.0,Neutral
+COST,Costco Wholesale Corporation Reports Third Quarter and Year-To-Date Operating Results For Fiscal 2026,GlobeNewswire,2026-05-28T20:15:00Z,0.0,Neutral,0.0,Neutral
+COST,Is Costco Stock Underperforming the Nasdaq?,Barchart.com,2026-05-28T10:09:27Z,0.0,Neutral,0.0,Neutral
+COST,openbusiness added to PyPI,Pypi.org,2026-05-28T02:55:32Z,0.0,Neutral,0.0,Neutral
+COST,"Stock market today: Dow drops, S&P 500 and Nasdaq waver following US strikes near Strait of Hormuz",Yahoo Entertainment,2026-05-27T23:13:58Z,0.05,Positive,-0.3612,Negative
+COST,Costco sued over claim its pasta contains 'no preservatives'... as label reveals ingredient linked heart complication and cancer,Dailymail.com,2026-05-27T15:48:46Z,0.0,Neutral,-0.765,Negative
+COST,Bubbies Brings Real Fermented Pickles to Costco,PRNewswire,2026-05-27T14:56:00Z,0.2,Positive,0.0,Neutral
+COST,Earnings live updates: Zscaler stock plunges 24% premarket on cautious guidance,Yahoo Entertainment,2026-05-27T11:51:27Z,0.13636363636363635,Positive,-0.1027,Negative
+COST,Pest with ‘no cure’ sparks panic at Napa vineyards as urgent alert issued,New York Post,2026-05-26T23:13:40Z,0.0,Neutral,-0.0772,Negative
+COST,Here's How Much Costco Stock Is Expected to Move After Earnings,Investopedia,2026-05-26T20:53:35Z,0.05,Positive,0.0,Neutral
+COST,"Starbucks CEO pay ratio leads S&P 500 at 6,666 to 1",Quartz India,2026-05-26T17:30:43Z,0.0,Neutral,-0.1027,Negative
+COST,Dorm Finds for the Boys,Athoughtfulplaceblog.com,2026-05-26T16:36:58Z,0.0,Neutral,0.0,Neutral
+COST,Costco Stock Has Been a Beneficiary of High Gas Prices. Trump Was Buying COST Too.,Yahoo Entertainment,2026-05-26T16:35:03Z,0.16,Positive,0.4767,Positive
+COST,Why BJ’s Wholesale Club Stock Could Be Ready for a Rebound,MarketBeat,2026-05-26T14:50:00Z,0.2,Positive,0.3612,Positive
+COST,What Leads Companies to Betray Their Own Principles,Harvard Business Review,2026-05-26T13:17:52Z,0.6,Positive,-0.6369,Negative
+COST,10 Things You Should Never Buy at the Grocery Store,Acultivatednest.com,2026-05-26T07:42:07Z,0.0,Neutral,0.0,Neutral
+COST,"Memorial Day 2026: Is Costco, Walmart, Target, Publix, Trader Joe’s, Aldi, Whole Foods and Kroger open? Banks closed as federal holiday store hours confuse shoppers",The Times of India,2026-05-25T12:49:19Z,0.03333333333333333,Positive,0.2023,Positive
+COST,Is Sam’s Club open on Memorial Day 2026? The holiday hours shoppers need to know before last-minute BBQ runs,The Times of India,2026-05-25T12:26:03Z,0.0,Neutral,0.4019,Positive
+COST,Are Target and Publix Open Today on Memorial Day 2026? Last-Minute Shoppers Amid Holiday Travel Surge,Ibtimes.com.au,2026-05-25T12:04:23Z,0.0,Neutral,0.4019,Positive
+COST,"Best Memorial Day Smart Home Deals I’m Seeing: Save on Cameras, Doorbells and More",CNET,2026-05-25T10:22:00Z,0.5714285714285714,Positive,0.8779,Positive
+COST,What's open and closed for Memorial Day 2026?,CBS News,2026-05-25T09:00:13Z,-0.05,Negative,0.0,Neutral
+COST,Is Walmart and Costco Stores Opened On Memorial Day 2026?,Ibtimes.com.au,2026-05-25T07:37:05Z,0.0,Neutral,0.0,Neutral
+COST,"Memorial Day 2026: Banks, Post Offices and Stock Market Closed While Retailers Open",Ibtimes.com.au,2026-05-25T07:35:13Z,-0.05,Negative,0.0,Neutral
+COST,US Stock Market: Wall Street faces macro headwinds after strong earnings season,The Times of India,2026-05-25T03:50:57Z,0.43333333333333335,Positive,0.5106,Positive
+COST,Memorial Day 2026: What's open and what's closed?,The Times of India,2026-05-25T02:44:12Z,-0.05,Negative,0.0,Neutral
+COST,"Here’s which retailers, grocery stores and pharmacies are open and closed on Memorial Day",New York Post,2026-05-24T17:25:51Z,-0.05,Negative,0.0,Neutral
+COST,Man Says Wife Must Ask For 'Permission' To Buy Anything Over $50 After She Ran Up $150K On Credit Cards — 'I Will Take Over Her Finances',Yahoo Entertainment,2026-05-24T14:31:07Z,0.0,Neutral,0.3818,Positive
+COST,"We're tracking 45 Costco items, from bacon to motor oil. Prices have stayed surprisingly steady so far.",Business Insider,2026-05-24T09:44:01Z,0.13333333333333333,Positive,0.296,Positive
+COST,"Best Memorial Day Smart Home Deals: Save Big on Security Cameras, Video Doorbells, Smart Bulbs and More",CNET,2026-05-23T21:30:00Z,0.3857142857142857,Positive,0.9349,Positive
+COST,"Flexsteel Industries Sees Outsized Growth as Margins Rise, Buybacks Cut Share Count",MarketBeat,2026-05-23T21:02:38Z,0.0,Neutral,0.4019,Positive
+COST,"Memorial Day 2026 guide: What’s open and closed on May 25? School, stock market, bank, Walmart, Target, Costco, USPS, UPS and FedEx hours explained",The Times of India,2026-05-23T20:17:37Z,-0.05,Negative,0.0,Neutral
+COST,"Wall Street Week Ahead: Soaring stocks could face rocky patch as earnings wind down, yields perk up",The Times of India,2026-05-23T03:42:01Z,-0.15555555555555556,Negative,0.0,Neutral
+COST,Why Coles shares could be a smart buy in an uncertain market,Motley Fool Australia,2026-05-23T00:15:00Z,0.21428571428571427,Positive,0.4019,Positive
+COST,"Costco Stock Split Rumors Explode as COST Smashes $1,000 Milestone Again",Barchart.com,2026-05-22T19:33:46Z,0.0,Neutral,0.0,Neutral
+COST,"Select Costco Stores: 21.5"" iPack Kids Carry-On Luggage Set $20 (In-Store Only)",Slickdeals.net,2026-05-22T19:03:30Z,0.0,Neutral,0.0,Neutral
+COST,"Fred Meyer, QFC owner plans biggest price cuts in years - The Seattle Times",Slashdot.org,2026-05-22T04:52:52Z,0.0,Neutral,-0.296,Negative
+COST,Reading This Article Will Make Your Disney World Trip Cheaper,allears.net,2026-05-21T17:00:49Z,0.0,Neutral,0.0,Neutral
+COST,Why Costco Stock Dropped Today,Yahoo Entertainment,2026-05-21T16:44:14Z,0.0,Neutral,0.0,Neutral
+COST,"Walmart tumbles on disappointing guidance, warns of low-income consumer distress",Crypto Briefing,2026-05-21T14:37:06Z,-0.6,Negative,-0.7906,Negative
+COST,Fact Or Fiction: Is There Going To Be A Motor Oil Shortage In The United States?,Freerepublic.com,2026-05-20T17:20:20Z,0.0,Neutral,0.2023,Positive
+COST,The Selective Shopper’s Portfolio: 6 ETFs Positioned for the Circular Economy Shift,24/7 Wall St.,2026-05-20T15:35:04Z,0.0,Neutral,0.0,Neutral
+COST,"Gold and silver prices today, Wednesday, May 20: Lowest opening in weeks after Trump's latest comments on Iran",Yahoo Entertainment,2026-05-20T10:41:49Z,0.5,Positive,-0.3818,Negative
+COST,Consumer Staples Are Losing Their Safe-Haven Status. Here's Why.,Barchart.com,2026-05-19T19:59:31Z,0.0,Neutral,-0.3818,Negative
