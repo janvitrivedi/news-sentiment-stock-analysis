@@ -3,6 +3,7 @@
 DAMO 699 – Capstone Project | Group 3 | University of Niagara Falls Canada | June 2026
 
 Team: Rohit Singh Sidhu, Janvi Trivedi, Bidita Saha, Devansh Patel
+
 Supervisor: Dr. William Pourmajidi
 
 ---
@@ -77,7 +78,3 @@ Data files:
 - Kaggle Financial News Dataset: 68,043 headlines (2009–2019)
 - Yahoo Finance via yfinance: Daily stock prices (2009–2020)
 - NewsAPI: 979 live headlines (May–June 2026)
-
----
-
-DAMO 699 Capstone | University of Niagara Falls Canada | June 2026
